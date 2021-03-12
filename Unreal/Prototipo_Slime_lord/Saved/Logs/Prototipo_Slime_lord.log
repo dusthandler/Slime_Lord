@@ -6865,3 +6865,1226 @@ Script Stack (0 frames):
 [2021.03.12-13.16.52:545][543]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.12-13.16.52:545][543]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
 [2021.03.12-13.16.52:545][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Maps/SlimeLord_Proto1_BuiltData.SlimeLord_Proto1_BuiltData
+[2021.03.12-13.18.52:032][137]LogEditorViewport: Clicking on Actor (LMB): SlimeBlock_C (SlimeBlock)
+[2021.03.12-13.19.05:181][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
+[2021.03.12-13.19.31:478][615]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.19.31:803][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.03.12-13.20.01:678][ 94]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.20.02:005][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.03.12-13.20.02:657][152]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/HiteableCubeDAE1C2414D35F1D096CADD84C8D34F69.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/HiteableCube.uasset'
+[2021.03.12-13.20.02:674][152]AssetCheck: New page: Asset Save: HiteableCube
+[2021.03.12-13.20.02:674][152]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
+[2021.03.12-13.20.14:098][447]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.20.14:113][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.14:113][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.20.14:114][447]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:20:14 PM)
+[2021.03.12-13.20.14:114][447]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.20.14:126][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012061s)
+[2021.03.12-13.20.14:127][447]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.20.14:127][447]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2021.03.12-13.20.14:127][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.013115s)
+[2021.03.12-13.20.14:172][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.20.14:173][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.20.14:173][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.20.14:174][447]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.20.14:174][447]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.20.14:189][447]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.20.14:208][447]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.20.14:210][447]LogInit: FAudioDevice initialized.
+[2021.03.12-13.20.14:220][447]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.20.14:222][447]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.20.14
+[2021.03.12-13.20.14:223][447]LogWorld: Bringing up level for play took: 0.001811
+[2021.03.12-13.20.14:223][447]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.03.12-13.20.14:225][447]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.307
+[2021.03.12-13.20.14:225][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.20:699][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.20:699][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.20:699][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.20:699][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.20.20:699][221]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.20.20:699][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.20:699][221]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.20.20:700][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.20.20:744][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.20.20:744][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.20:749][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.20.20:788][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.20:791][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.20.20:795][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.03.12-13.20.20:816][222]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.03.12-13.20.33:037][618]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.20.33:053][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.33:053][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.20.33:053][618]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:20:33 PM)
+[2021.03.12-13.20.33:053][618]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.20.33:065][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011739s)
+[2021.03.12-13.20.33:066][618]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.20.33:066][618]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2021.03.12-13.20.33:066][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.012936s)
+[2021.03.12-13.20.33:110][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.20.33:112][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.20.33:112][618]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.20.33:112][618]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.20.33:127][618]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.20.33:145][618]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.20.33:147][618]LogInit: FAudioDevice initialized.
+[2021.03.12-13.20.33:158][618]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.20.33:160][618]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.20.33
+[2021.03.12-13.20.33:160][618]LogWorld: Bringing up level for play took: 0.001817
+[2021.03.12-13.20.33:160][618]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.03.12-13.20.33:162][618]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 -0.756
+[2021.03.12-13.20.33:162][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.35:293][871]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.03.12-13.20.38:184][218]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.20.41:026][559]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.20.41:585][626]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.03.12-13.20.42:510][737]LogBlueprintUserMessages: [SlimeBlock_2] 3
+[2021.03.12-13.20.45:437][ 88]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.20.50:737][724]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.20.57:805][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.57:805][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.57:805][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.57:805][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.20.57:805][572]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.20.57:805][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.57:805][572]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.20.57:805][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.20.57:830][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.20.57:830][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.20.57:835][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.20.57:874][572]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.20.57:877][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.20.57:881][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.03.12-13.20.57:926][574]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.03.12-13.21.17:207][835]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.21.17:223][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.21.17:223][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.21.17:223][835]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:21:17 PM)
+[2021.03.12-13.21.17:224][835]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.21.17:235][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011811s)
+[2021.03.12-13.21.17:237][835]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.21.17:237][835]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2021.03.12-13.21.17:237][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.013193s)
+[2021.03.12-13.21.17:283][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.21.17:286][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.21.17:286][835]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.21.17:286][835]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.21.17:301][835]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.21.17:320][835]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.21.17:321][835]LogInit: FAudioDevice initialized.
+[2021.03.12-13.21.17:331][835]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.21.17:333][835]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.21.17
+[2021.03.12-13.21.17:334][835]LogWorld: Bringing up level for play took: 0.001939
+[2021.03.12-13.21.17:334][835]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.03.12-13.21.17:336][835]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 -0.582
+[2021.03.12-13.21.17:336][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.21.19:641][109]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.03.12-13.21.23:475][569]LogBlueprintUserMessages: [SlimeBlock2] 2
+[2021.03.12-13.21.23:966][628]LogBlueprintUserMessages: [SlimeBlock3] 3
+[2021.03.12-13.21.26:491][931]LogBlueprintUserMessages: [HiteableCube] 2
+[2021.03.12-13.21.26:500][932]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.21.26:508][933]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.21.30:967][468]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.21.34:676][913]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.21.36:619][142]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.21.36:619][142]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.21.36:619][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.21.36:620][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.21.36:620][142]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.21.36:620][142]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.21.36:620][142]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.21.36:620][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.21.36:630][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.21.36:631][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.21.36:636][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.21.36:675][142]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.21.36:678][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.21.36:682][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.03.12-13.21.36:727][144]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.03.12-13.21.56:733][427]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.21.57:053][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.03.12-13.22.20:824][202]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/SlimeDoubleJump.SlimeDoubleJump
+[2021.03.12-13.22.56:460][346]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.22.56:830][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.03.12-13.24.20:855][355]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.24.21:204][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.03.12-13.26.39:051][372]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.26.39:399][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.03.12-13.27.51:814][803]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.27.52:164][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.03.12-13.27.59:622][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:622][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:625][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:627][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:647][652]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:647][652]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:650][652]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:655][653]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:656][653]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.27.59:658][653]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:113][819]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:114][819]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:115][819]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:116][819]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:119][819]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:131][820]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:131][820]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:135][820]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:140][821]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:142][821]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:981][921]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:981][921]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:983][921]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.01:985][921]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.09:031][728]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.09:031][728]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:398][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:399][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:401][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:403][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:414][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:415][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:417][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:423][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:423][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:425][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:431][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:432][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:434][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:439][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:440][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:442][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:448][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:448][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.16:450][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.24:257][498]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.24:257][498]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.24:259][498]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.24:262][498]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.27:797][913]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.27:797][913]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.27:800][913]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.27:801][913]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:397][983]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:406][984]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:414][985]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:422][986]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:422][986]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:424][986]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:426][986]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:431][987]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:433][987]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:439][988]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:441][988]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:448][989]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:449][989]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:456][990]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:458][990]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:464][991]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:466][991]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:473][992]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:474][992]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:481][993]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:483][993]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:489][994]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:491][994]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:498][995]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:500][995]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:506][996]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:508][996]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:515][997]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:516][997]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:523][998]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:525][998]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:531][999]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:533][999]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:539][  0]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:541][  0]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:547][  1]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:549][  1]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:555][  2]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:557][  2]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:564][  3]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:565][  3]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:572][  4]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:574][  4]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:580][  5]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:582][  5]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:589][  6]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:591][  6]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:597][  7]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:599][  7]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:605][  8]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:607][  8]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:614][  9]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:616][  9]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:622][ 10]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:624][ 10]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:631][ 11]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:633][ 11]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:639][ 12]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:641][ 12]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:647][ 13]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:649][ 13]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:656][ 14]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:657][ 14]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:664][ 15]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:666][ 15]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:672][ 16]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:674][ 16]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:681][ 17]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:683][ 17]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:689][ 18]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:691][ 18]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:697][ 19]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:699][ 19]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:706][ 20]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:707][ 20]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:714][ 21]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:716][ 21]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:722][ 22]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:724][ 22]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:731][ 23]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:733][ 23]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:739][ 24]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:741][ 24]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:748][ 25]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:749][ 25]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:756][ 26]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:757][ 26]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:764][ 27]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:766][ 27]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:773][ 28]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:774][ 28]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:781][ 29]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:783][ 29]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:789][ 30]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:791][ 30]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:798][ 31]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.28:799][ 31]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.48:627][357]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.48:627][357]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.48:629][357]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.48:630][357]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.48:632][357]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:048][514]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:048][514]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:050][514]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:052][514]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:065][515]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:066][515]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:068][515]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:073][516]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:074][516]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:076][516]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:081][517]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:082][517]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:084][517]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:090][518]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:090][518]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:092][518]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:098][519]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:099][519]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:101][519]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:107][520]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:107][520]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:109][520]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:115][521]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:116][521]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:118][521]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:123][522]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:124][522]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:126][522]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:132][523]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:132][523]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.50:134][523]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:574][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:574][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:576][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:578][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:741][702]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:749][703]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:749][703]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:751][703]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:753][703]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:765][704]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:766][704]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:768][704]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:774][705]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:776][705]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:782][706]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:783][706]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:785][706]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:791][707]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:792][707]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:799][708]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:801][708]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:807][709]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:809][709]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:816][710]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:817][710]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:824][711]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:826][711]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:832][712]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:835][712]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:841][713]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:842][713]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:849][714]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:849][714]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:851][714]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:857][715]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:858][715]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:860][715]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:865][716]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:866][716]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:868][716]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:874][717]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:876][717]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:882][718]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:883][718]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:885][718]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:891][719]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:893][719]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:899][720]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:899][720]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:902][720]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:908][721]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.51:910][721]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:140][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:140][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:142][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:144][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:148][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:149][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:151][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:157][545]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:159][545]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:165][546]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:166][546]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:168][546]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:174][547]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:176][547]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:183][548]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:184][548]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:191][549]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:193][549]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:199][550]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:201][550]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:208][551]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:210][551]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:216][552]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:218][552]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:224][553]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:226][553]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:233][554]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:235][554]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:241][555]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:243][555]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:249][556]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:250][556]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:252][556]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:258][557]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:260][557]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:266][558]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:266][558]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:269][558]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:274][559]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:275][559]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:277][559]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:282][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:283][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:285][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:290][561]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:291][561]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:293][561]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:299][562]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:300][562]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:302][562]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:307][563]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:310][563]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:315][564]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:316][564]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:318][564]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:324][565]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:325][565]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:326][565]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:333][566]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:335][566]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:341][567]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:343][567]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:349][568]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:351][568]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:358][569]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:360][569]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:365][570]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:366][570]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:369][570]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:374][571]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:376][571]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:383][572]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:385][572]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:391][573]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:393][573]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:399][574]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:401][574]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:408][575]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:409][575]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:416][576]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:416][576]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:418][576]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:424][577]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:426][577]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:433][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:435][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:441][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:441][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:444][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:449][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:450][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:452][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:458][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:460][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:466][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:468][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:474][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:475][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:477][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:483][584]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:485][584]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:491][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:491][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:494][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:499][586]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:501][586]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:507][587]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.28.59:509][587]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:487][698]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:497][699]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:505][700]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:513][701]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:513][701]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:733][724]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:733][724]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:734][724]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:735][724]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:737][724]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.00:748][725]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:357][917]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:357][917]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:360][917]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:362][917]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:367][918]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:370][918]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:375][919]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:375][919]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:377][919]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:550][937]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:550][937]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:553][937]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:555][937]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:598][941]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:598][941]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:600][941]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.02:602][941]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:940][ 98]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:940][ 98]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:942][ 98]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:943][ 98]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:945][ 98]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:949][ 99]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.03:951][ 99]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.29.05:065][232]BlueprintLog: New page: Compile SlimeBlock
+[2021.03.12-13.29.05:399][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.03.12-13.29.07:800][496]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeBlock48C9A1D940ECF4E111D8FCB6A79BE316.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/SlimeBlock.uasset'
+[2021.03.12-13.29.07:817][496]AssetCheck: New page: Asset Save: SlimeBlock
+[2021.03.12-13.29.07:817][496]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/SlimeBlock.SlimeBlock
+[2021.03.12-13.30.11:494][ 12]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.30.11:845][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.12-13.30.12:635][ 81]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacter16E4761F4C9F36C87AE281B0502BFD6A.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.12-13.30.12:650][ 81]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.12-13.30.12:650][ 81]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.12-13.30.13:785][204]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.13:785][204]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.13:844][211]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.13:844][211]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.13:852][212]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.13:852][212]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.16:497][526]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.16:497][526]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.17:826][684]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.30.17:841][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.30.17:841][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.30.17:841][684]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:30:17 PM)
+[2021.03.12-13.30.17:842][684]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.30.17:854][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012358s)
+[2021.03.12-13.30.17:855][684]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.30.17:855][684]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2021.03.12-13.30.17:855][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.013726s)
+[2021.03.12-13.30.17:903][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.30.17:904][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.30.17:904][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.30.17:905][684]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.30.17:905][684]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.30.17:919][684]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.30.17:939][684]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.30.17:940][684]LogInit: FAudioDevice initialized.
+[2021.03.12-13.30.17:988][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.30.17:989][684]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.30.17:992][684]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.30.17
+[2021.03.12-13.30.17:992][684]LogWorld: Bringing up level for play took: 0.002130
+[2021.03.12-13.30.17:992][684]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.03.12-13.30.17:996][684]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.078
+[2021.03.12-13.30.17:997][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.30.20:558][976]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.03.12-13.30.23:216][295]LogBlueprintUserMessages: [SlimeBlock2] 2
+[2021.03.12-13.30.26:049][635]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.30.26:057][636]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.30.28:971][985]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.30.39:397][236]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.03.12-13.30.43:447][722]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.30.43:456][723]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.30.47:797][244]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.30.49:539][453]LogBlueprintUserMessages: [SlimeBlock_2] 2
+[2021.03.12-13.30.50:540][573]LogBlueprintUserMessages: [SlimeBlock3] 3
+[2021.03.12-13.30.53:273][901]LogBlueprintUserMessages: [HiteableCube] 2
+[2021.03.12-13.30.53:281][902]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.30.53:289][903]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.30.55:165][128]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.30.55:166][128]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.12-13.30.55:186][128]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.12-13.30.55:186][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.30.55:186][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.30.55:186][128]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.30.55:202][128]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.12-13.30.55:207][128]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.30.55:207][128]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.30.55:208][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.30.55:251][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.30.55:252][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.30.55:257][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.30.55:300][128]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.30.55:307][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.03.12-13.30.55:355][129]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.03.12-13.30.56:457][259]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.56:457][259]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.56:460][259]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.30.56:463][259]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.32.06:712][502]LogEditorTransaction: Undo Break Pin Links
+[2021.03.12-13.32.30:208][217]LogEditorTransaction: Undo Create Pin Link
+[2021.03.12-13.32.30:609][226]LogEditorTransaction: Undo Break Pin Links
+[2021.03.12-13.32.46:300][981]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.32.46:666][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.03.12-13.32.47:181][ 16]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacterB4A4440A474425042518FC9833316AA6.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.12-13.32.47:197][ 16]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.12-13.32.47:197][ 16]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.12-13.32.48:111][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.32.48:127][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.32.48:127][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.32.48:127][117]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:32:48 PM)
+[2021.03.12-13.32.48:127][117]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.32.48:140][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012104s)
+[2021.03.12-13.32.48:141][117]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.32.48:141][117]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.03.12-13.32.48:141][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.013415s)
+[2021.03.12-13.32.48:189][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.32.48:190][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.32.48:190][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.32.48:190][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.32.48:205][117]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.32.48:224][117]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.32.48:226][117]LogInit: FAudioDevice initialized.
+[2021.03.12-13.32.48:260][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.32.48:261][117]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.32.48:263][117]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.32.48
+[2021.03.12-13.32.48:264][117]LogWorld: Bringing up level for play took: 0.002146
+[2021.03.12-13.32.48:264][117]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.03.12-13.32.48:268][117]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.35
+[2021.03.12-13.32.48:268][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.32.50:534][369]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.03.12-13.32.52:263][572]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.03.12-13.32.52:883][646]LogBlueprintUserMessages: [SlimeBlock2] 3
+[2021.03.12-13.32.55:054][901]LogBlueprintUserMessages: [HiteableCube] 2
+[2021.03.12-13.32.55:062][902]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.32.55:071][903]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.32.58:827][348]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.03.12-13.32.59:391][414]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.03.12-13.33.00:267][515]LogBlueprintUserMessages: [SlimeBlock_2] 3
+[2021.03.12-13.33.03:437][885]LogBlueprintUserMessages: [HiteableCube] 2
+[2021.03.12-13.33.03:446][886]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.33.03:455][887]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.33.18:862][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.33.18:863][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.33.18:863][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.33.18:863][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.33.18:863][701]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.33.18:877][701]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.12-13.33.18:884][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.33.18:885][701]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.33.18:885][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.33.18:916][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.33.18:916][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.33.18:921][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.33.18:960][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.33.18:968][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.03.12-13.33.19:028][702]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.03.12-13.35.14:138][258]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.35.14:138][258]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.35.14:391][288]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.35.14:391][288]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.36.07:367][458]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.36.07:374][458]LogBlueprint: Warning: [Compiler HiteableCube] Could not find a variable named "HitedSlimes" in 'HiteableCube_C'.
+Make sure 'HiteableCube_C' has been compiled for  Get HitedSlimes
+[2021.03.12-13.36.07:374][458]LogBlueprint: Warning: [Compiler HiteableCube] Could not find a variable named "HitedSlimes" in 'HiteableCube_C'.
+Make sure 'HiteableCube_C' has been compiled for  Set HitedSlimes
+[2021.03.12-13.36.07:376][458]LogBlueprint: Error: [Compiler HiteableCube] The property associated with  Hited Slimes  could not be found in '/Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube_C'
+[2021.03.12-13.36.07:376][458]LogBlueprint: Error: [Compiler HiteableCube] The property associated with  Hited Slimes  could not be found in '/Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube_C'
+[2021.03.12-13.36.07:704][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.03.12-13.36.37:125][681]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.36.37:132][681]LogBlueprint: Warning: [Compiler HiteableCube] Could not find a variable named "HitedSlimes" in 'HiteableCube_C'.
+Make sure 'HiteableCube_C' has been compiled for  Set HitedSlimes
+[2021.03.12-13.36.37:134][681]LogBlueprint: Error: [Compiler HiteableCube] The property associated with  Hited Slimes  could not be found in '/Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube_C'
+[2021.03.12-13.36.37:450][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.03.12-13.37.12:426][587]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.37.12:434][587]LogBlueprint: Error: [Compiler HiteableCube] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2021.03.12-13.37.12:435][587]LogBlueprint: Error: [Compiler HiteableCube] Variable node  Set HitedSlimes  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.03.12-13.37.12:755][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.03.12-13.37.33:334][972]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.37.33:665][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.03.12-13.37.43:952][136]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.37.44:315][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.12-13.37.44:768][164]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacterD476F5A9476233AA220B6ABEE8479B3C.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.12-13.37.44:782][164]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.12-13.37.44:782][164]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.12-13.37.56:174][484]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:174][484]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:176][484]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:178][484]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:185][485]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:186][485]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:189][485]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:194][486]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:194][486]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:197][486]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:202][487]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:203][487]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:205][487]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:211][488]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:211][488]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:212][488]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:214][488]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:219][489]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:219][489]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:222][489]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:227][490]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:228][490]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:230][490]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:236][491]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:236][491]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:239][491]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:635][539]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:635][539]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:637][539]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:638][539]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:640][539]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:644][540]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:647][540]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:653][541]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:655][541]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:660][542]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:662][542]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:664][542]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:669][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:669][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:672][543]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:677][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:678][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:680][544]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:686][545]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:688][545]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:694][546]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:697][546]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:703][547]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:705][547]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:711][548]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:714][548]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:719][549]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:722][549]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:728][550]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:730][550]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:736][551]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:738][551]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:744][552]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:747][552]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:753][553]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:755][553]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:761][554]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:763][554]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:769][555]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:772][555]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:778][556]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:780][556]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:786][557]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:788][557]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:795][558]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:797][558]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:803][559]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:806][559]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:811][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:812][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:814][560]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:820][561]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:822][561]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:828][562]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:831][562]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:836][563]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:837][563]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:840][563]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:845][564]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:847][564]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:853][565]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:856][565]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:861][566]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:864][566]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:870][567]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:872][567]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:878][568]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:880][568]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:886][569]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:889][569]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:895][570]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:897][570]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:903][571]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:905][571]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:911][572]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:914][572]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:920][573]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:922][573]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:928][574]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:930][574]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:937][575]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:939][575]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:945][576]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:947][576]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:953][577]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:953][577]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:956][577]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:961][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:962][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:964][578]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:970][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:970][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:973][579]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:978][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:978][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:981][580]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:986][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:988][581]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:994][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:994][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.56:997][582]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:002][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:005][583]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:010][584]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:011][584]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:014][584]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:019][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:020][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:022][585]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:027][586]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:028][586]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:031][586]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:036][587]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:039][587]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:044][588]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:045][588]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:047][588]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:052][589]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:053][589]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:056][589]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:061][590]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:062][590]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:064][590]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:069][591]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:070][591]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:072][591]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:078][592]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:078][592]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:081][592]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:086][593]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:087][593]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:089][593]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:095][594]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:097][594]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:103][595]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:105][595]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:111][596]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:112][596]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:114][596]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:120][597]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:122][597]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:128][598]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:130][598]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:136][599]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:137][599]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:139][599]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:144][600]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:145][600]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:147][600]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:153][601]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:154][601]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:156][601]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:161][602]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:162][602]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:164][602]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:170][603]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:172][603]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:178][604]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:178][604]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:181][604]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:187][605]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:189][605]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:195][606]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:197][606]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:203][607]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:206][607]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:211][608]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:213][608]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:220][609]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:221][609]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:227][610]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:229][610]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:236][611]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:238][611]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:244][612]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:247][612]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:253][613]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:255][613]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:261][614]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:264][614]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:270][615]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:272][615]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:278][616]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:280][616]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:286][617]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:288][617]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:295][618]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:297][618]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:303][619]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:305][619]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:312][620]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:314][620]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:320][621]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:322][621]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:328][622]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:330][622]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:336][623]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:338][623]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:345][624]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:347][624]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:353][625]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:355][625]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:361][626]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:364][626]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:370][627]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:372][627]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:378][628]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:380][628]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:386][629]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:389][629]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:395][630]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:397][630]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:403][631]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:405][631]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:411][632]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:414][632]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:420][633]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:422][633]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:428][634]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:431][634]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:436][635]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:438][635]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:444][636]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:447][636]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:453][637]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:455][637]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:461][638]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:463][638]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:469][639]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:472][639]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:478][640]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:480][640]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:486][641]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:488][641]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:494][642]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:497][642]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:503][643]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:505][643]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:511][644]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:514][644]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:520][645]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:522][645]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:528][646]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:530][646]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:536][647]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:538][647]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:544][648]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:546][648]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:552][649]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:555][649]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:561][650]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:563][650]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:569][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:571][651]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:577][652]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:580][652]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:586][653]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:588][653]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:594][654]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:597][654]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:603][655]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:605][655]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:611][656]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:613][656]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:619][657]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:621][657]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:628][658]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:630][658]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:636][659]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:639][659]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:645][660]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:647][660]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:653][661]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:655][661]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:661][662]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:664][662]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:670][663]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:672][663]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:678][664]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:680][664]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:687][665]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:689][665]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:695][666]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:697][666]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:703][667]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:705][667]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:712][668]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:714][668]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:720][669]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:722][669]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:728][670]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:731][670]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:737][671]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:738][671]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:744][672]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:746][672]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:752][673]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:755][673]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:761][674]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:763][674]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:769][675]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:771][675]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:777][676]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:780][676]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:786][677]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:788][677]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:794][678]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:796][678]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:803][679]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:805][679]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:810][680]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:811][680]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:814][680]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:819][681]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:822][681]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:827][682]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:828][682]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:830][682]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:836][683]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:838][683]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:844][684]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:846][684]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:852][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:853][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:855][685]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:861][686]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:864][686]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:869][687]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:871][687]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:877][688]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:880][688]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:885][689]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:886][689]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:889][689]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:894][690]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.37.57:897][690]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.38.02:063][174]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.38.02:064][174]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.38.02:067][174]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.38.02:070][174]LogUObjectArray: Warning: Other object in slot
+[2021.03.12-13.38.22:695][518]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.38.23:029][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.12-13.38.23:468][550]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/HiteableCubeB60E2B6D4B6E1FEA68181B88C518A87D.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/HiteableCube.uasset'
+[2021.03.12-13.38.23:484][550]AssetCheck: New page: Asset Save: HiteableCube
+[2021.03.12-13.38.23:484][550]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
+[2021.03.12-13.38.24:395][655]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.12-13.38.24:411][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.38.24:411][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.12-13.38.24:411][655]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 12, 2021, 3:38:24 PM)
+[2021.03.12-13.38.24:411][655]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.38.24:424][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012407s)
+[2021.03.12-13.38.24:425][655]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.12-13.38.24:425][655]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.03.12-13.38.24:425][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.013714s)
+[2021.03.12-13.38.24:473][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.12-13.38.24:474][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.12-13.38.24:474][655]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.12-13.38.24:474][655]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Is Default: Yes
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: Channel Order:
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.12-13.38.24:490][655]LogAudioMixer: Display: 1: FrontRight
+[2021.03.12-13.38.24:509][655]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.12-13.38.24:511][655]LogInit: FAudioDevice initialized.
+[2021.03.12-13.38.24:556][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.38.24:556][655]LogLoad: Game class is 'GameModeBase'
+[2021.03.12-13.38.24:559][655]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.12-14.38.24
+[2021.03.12-13.38.24:559][655]LogWorld: Bringing up level for play took: 0.002404
+[2021.03.12-13.38.24:559][655]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.03.12-13.38.24:564][655]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.646
+[2021.03.12-13.38.24:564][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.38.26:945][924]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.03.12-13.38.27:720][ 17]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.03.12-13.38.28:428][102]LogBlueprintUserMessages: [SlimeBlock2] 3
+[2021.03.12-13.38.29:471][227]LogBlueprintUserMessages: [HiteableCube] 2
+[2021.03.12-13.38.29:479][228]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.38.29:487][229]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.38.32:713][616]LogBlueprintUserMessages: [SlimeBlock3] 1
+[2021.03.12-13.38.33:346][692]LogBlueprintUserMessages: [SlimeBlock_2] 2
+[2021.03.12-13.38.36:279][ 44]LogBlueprintUserMessages: [HiteableCube] 1
+[2021.03.12-13.38.36:287][ 45]LogBlueprintUserMessages: [HiteableCube] 0
+[2021.03.12-13.38.38:514][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.38.38:526][312]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.12-13.38.38:545][312]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.12-13.38.38:546][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.38.38:546][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.12-13.38.38:546][312]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.12-13.38.38:562][312]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.12-13.38.38:569][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.38.38:569][312]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.38.38:570][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.38.38:622][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.12-13.38.38:622][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.12-13.38.38:627][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.38.38:671][312]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.12-13.38.38:678][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.03.12-13.38.38:730][313]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.03.12-13.39.19:562][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.12-13.39.19:878][ 88]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto1_Auto8A19C57E640CF3C83948E1F99C1B6855D.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Maps/SlimeLord_Proto1_Auto8.umap'
+[2021.03.12-13.39.19:879][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Maps/SlimeLord_Proto1' took 0.360
+[2021.03.12-13.39.19:879][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.360
+[2021.03.12-13.39.49:908][526]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-13.39.50:237][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.03.12-13.39.53:366][874]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.39.53:735][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.03.12-13.40.36:910][349]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.12-13.40.37:262][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.03.12-13.40.37:650][370]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacterB9A9E5A44F5067442A76388B5D213929.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.12-13.40.37:666][370]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.12-13.40.37:666][370]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.12-13.40.38:712][493]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.12-13.40.38:713][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.12-13.40.40:670][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.12-13.40.41:785][670]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto145B1D7844F55F7E7D8DD40971E71354C.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap'
+[2021.03.12-13.40.41:917][670]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto1_BuiltData4466ABED44F4774593FA6EB4674DF166.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1_BuiltData.uasset'
+[2021.03.12-13.40.41:956][670]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-13.40.41:956][670]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
+[2021.03.12-13.40.41:956][670]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Maps/SlimeLord_Proto1_BuiltData.SlimeLord_Proto1_BuiltData
+[2021.03.12-13.40.43:832][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.03.12-13.40.43:922][873]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/HiteableCube45A4F395448FD99248B71FA86E963BA9.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/HiteableCube.uasset'
+[2021.03.12-13.40.43:934][873]AssetCheck: New page: Asset Save: HiteableCube
+[2021.03.12-13.40.43:935][873]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
