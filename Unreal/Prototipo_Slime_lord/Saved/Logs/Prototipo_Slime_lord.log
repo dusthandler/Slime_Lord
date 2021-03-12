@@ -701,3 +701,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.12-15.41.29:963][560]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
 [2021.03.12-15.41.29:963][560]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.03.12-15.41.29:963][560]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
+[2021.03.12-15.42.05:267][131]BlueprintLog: New page: Compile HiteableCube
+[2021.03.12-15.42.05:467][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.03.12-15.42.18:965][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/SlimeBlock.SlimeBlock
+[2021.03.12-15.42.26:280][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.12-15.42.26:331][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.12-15.42.26:511][429]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto1028189CE4E8BC924BDB35CAC3AB10D22.tmp' to 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap'
+[2021.03.12-15.42.26:534][429]LogFileHelpers: Saving map 'SlimeLord_Proto1' took 0.236
+[2021.03.12-15.42.26:580][429]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/HiteableCubeB18E7AD44620A258461572B29C214947.tmp' to 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/HiteableCube.uasset'
+[2021.03.12-15.42.26:595][429]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.12-15.42.26:595][429]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
+[2021.03.12-15.42.26:595][429]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/HiteableCube.HiteableCube
