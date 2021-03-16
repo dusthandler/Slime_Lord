@@ -1,4 +1,4 @@
-﻿Log file open, 03/16/21 22:06:55
+﻿Log file open, 03/16/21 22:57:49
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Prototipo_Slime_lord
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 4.684726
+LogStats: Stats thread started at 0.182100
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -163,515 +163,943 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.03.16-21.06.59:197][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.03.16-21.06.59:197][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:198][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.03.16-21.06.59:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.03.16-21.06.59:246][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.03.16-21.06.59:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.03.16-21.06.59:248][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.03.16-21.06.59:249][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.03.16-21.06.59:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.03.16-21.06.59:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.03.16-21.06.59:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.03.16-21.06.59:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.03.16-21.06.59:250][  0]LogInit: Selected Device Profile: [Windows]
-[2021.03.16-21.06.59:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.03.16-21.06.59:324][  0]LogHAL: Display: Platform has ~ 16 GB [17116475392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.03.16-21.06.59:324][  0]LogInit: Going up to parent DeviceProfile []
-[2021.03.16-21.06.59:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.03.16-21.06.59:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.03.16-21.06.59:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.03.16-21.06.59:326][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
-[2021.03.16-21.06.59:327][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.03.16-21.06.59:351][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.03.16-21.06.59:352][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.03.16-21.06.59:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
-[2021.03.16-21.06.59:417][  0]LogInit: Computer: DESKTOP-96QSINR
-[2021.03.16-21.06.59:417][  0]LogInit: User: Alan
-[2021.03.16-21.06.59:417][  0]LogInit: CPU Page size=4096, Cores=6
-[2021.03.16-21.06.59:417][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.03.16-21.06.59:418][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2021.03.16-21.06.59:418][  0]LogMemory: Platform Memory Stats for Windows
-[2021.03.16-21.06.59:418][  0]LogMemory: Process Physical Memory: 105.50 MB used, 105.50 MB peak
-[2021.03.16-21.06.59:418][  0]LogMemory: Process Virtual Memory: 100.09 MB used, 100.09 MB peak
-[2021.03.16-21.06.59:418][  0]LogMemory: Physical Memory: 3422.90 MB used,  12900.64 MB free, 16323.54 MB total
-[2021.03.16-21.06.59:418][  0]LogMemory: Virtual Memory: 5133.44 MB used,  134212592.00 MB free, 134217728.00 MB total
-[2021.03.16-21.06.59:428][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.03.16-21.07.00:328][  0]LogInit: Overriding language with editor language configuration option (en).
-[2021.03.16-21.07.00:328][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2021.03.16-21.07.01:115][  0]LogInit: Setting process to per monitor DPI aware
-[2021.03.16-21.07.01:593][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.03.16-21.07.01:593][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.03.16-21.07.06:322][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.03.16-21.07.06:322][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.03.16-21.07.06:322][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.03.16-21.07.06:322][  0]LogD3D11RHI: D3D11 adapters:
-[2021.03.16-21.07.06:489][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
-[2021.03.16-21.07.06:489][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2021.03.16-21.07.06:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.03.16-21.07.06:492][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.03.16-21.07.06:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.03.16-21.07.06:508][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.03.16-21.07.06:508][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
-[2021.03.16-21.07.06:508][  0]LogWindows: EnumDisplayDevices:
-[2021.03.16-21.07.06:508][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
-[2021.03.16-21.07.06:509][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2021.03.16-21.07.06:509][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2021.03.16-21.07.06:509][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2021.03.16-21.07.06:509][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2021.03.16-21.07.06:509][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
-[2021.03.16-21.07.06:509][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
-[2021.03.16-21.07.06:509][  0]LogD3D11RHI:      Driver Date: 12-3-2020
-[2021.03.16-21.07.06:510][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2021.03.16-21.07.06:604][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.03.16-21.07.06:605][  0]LogD3D11RHI: Async texture creation enabled
-[2021.03.16-21.07.06:779][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.03.16-21.07.07:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.03.16-21.07.07:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.03.16-21.07.07:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.03.16-21.07.07:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.03.16-21.07.07:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.03.16-21.07.07:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.03.16-21.07.08:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.03.16-21.07.08:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.03.16-21.07.08:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.03.16-21.07.08:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.03.16-21.07.08:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.03.16-21.07.08:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.03.16-21.07.08:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.03.16-21.07.08:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.03.16-21.07.08:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.03.16-21.07.08:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.03.16-21.07.08:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.03.16-21.07.08:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.03.16-21.07.08:389][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.03.16-21.07.08:694][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.03.16-21.07.09:749][  0]LogShaderCompilers: Guid format shader working directory is -71 characters bigger than the processId version (../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Intermediate/Shaders/WorkingDirectory/11416/).
-[2021.03.16-21.07.09:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alan/AppData/Local/Temp/UnrealShaderWorkingDir/BA083B434C17B203A3C9C790EA2BB2CE/'.
-[2021.03.16-21.07.09:750][  0]LogXGEController: Cleaning working directory: C:/Users/Alan/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2021.03.16-21.07.09:751][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2021.03.16-21.07.09:751][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.03.16-21.07.09:751][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.03.16-21.07.14:154][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.03.16-21.07.14:381][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.03.16-21.07.14:481][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.03.16-21.07.14:481][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.03.16-21.07.14:481][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.03.16-21.07.14:483][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.03.16-21.07.14:483][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.03.16-21.07.14:484][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.03.16-21.07.14:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2021.03.16-21.07.14:630][  0]LogSlate: Using FreeType 2.10.0
-[2021.03.16-21.07.14:746][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.03.16-21.07.17:328][  0]LogAssetRegistry: FAssetRegistry took 0.0120 seconds to start up
-[2021.03.16-21.07.20:924][  0]LogInit: Selected Device Profile: [Windows]
-[2021.03.16-21.07.23:424][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.03.16-21.07.23:424][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.03.16-21.07.23:424][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.03.16-21.07.23:424][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.03.16-21.07.23:424][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.03.16-21.07.23:680][  0]LogNetVersion: Prototipo_Slime_lord 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4117905438)
-[2021.03.16-21.07.41:075][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053416 seconds
-[2021.03.16-21.07.41:091][  0]LogUObjectArray: 46753 objects as part of root set at end of initial load.
-[2021.03.16-21.07.41:091][  0]LogUObjectAllocator: 8137816 out of 0 bytes used by permanent object pool.
-[2021.03.16-21.07.41:091][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.03.16-21.07.45:841][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.03.16-21.07.45:883][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.03.16-21.07.46:694][  0]SourceControl: Source control is disabled
-[2021.03.16-21.07.46:695][  0]SourceControl: Source control is disabled
-[2021.03.16-21.07.46:783][  0]SourceControl: Source control is disabled
-[2021.03.16-21.07.46:816][  0]SourceControl: Source control is disabled
-[2021.03.16-21.07.46:850][  0]SourceControl: Source control is disabled
-[2021.03.16-21.07.48:648][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.03.16-21.07.48:823][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.03.16-21.07.48:823][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.03.16-21.07.49:341][  0]LogOcInput: OculusInput pre-init called
-[2021.03.16-21.07.49:461][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.03.16-21.07.49:461][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.03.16-21.07.50:441][  0]LogEngine: Initializing Engine...
-[2021.03.16-21.07.50:454][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.03.16-21.07.50:496][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.016 s
-[2021.03.16-21.07.51:572][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.03.16-21.07.51:928][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.03.16-21.07.51:985][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.03.16-21.07.51:985][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.03.16-21.07.51:992][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.03.16-21.07.51:992][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.03.16-21.07.52:095][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
-[2021.03.16-21.07.52:095][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
-[2021.03.16-21.07.52:095][  0]LogAudioMixer: Display: Is Default: Yes
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: Sample Rate: 48000
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: Channel Count Used: 2
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: Device Channel Count: 2
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: Channel Order:
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.03.16-21.07.52:096][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.03.16-21.07.52:144][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
-[2021.03.16-21.07.52:155][  0]LogInit: FAudioDevice initialized.
-[2021.03.16-21.07.52:155][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.03.16-21.07.52:226][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2021.03.16-21.07.52:230][  0]LogInit: Texture streaming: Enabled
-[2021.03.16-21.07.52:435][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.03.16-21.07.52:435][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={A0BCB955-4524-028D-89E3-C4BF105808FC}
-[2021.03.16-21.07.52:435][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.03.16-21.07.52:437][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.03.16-21.07.53:111][  0]LogInit: Transaction tracking system initialized
-[2021.03.16-21.07.55:095][  0]BlueprintLog: New page: Editor Load
-[2021.03.16-21.07.56:561][  0]LocalizationService: Localization service is disabled
-[2021.03.16-21.08.01:371][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/' took 0.01s
-[2021.03.16-21.08.01:371][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2021.03.16-21.08.01:371][  0]LogCook: Display: Mobile HDR setting 1
-[2021.03.16-21.08.06:200][  0]SourceControl: Source control is disabled
-[2021.03.16-21.08.06:240][  0]LightingResults: New page: Lighting Build
-[2021.03.16-21.08.06:542][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.03.16-21.08.06:583][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.16-21.08.06:597][  0]MapCheck: New page: Map Check
-[2021.03.16-21.08.06:597][  0]LightingResults: New page: Lighting Build
-[2021.03.16-21.08.06:928][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
-[2021.03.16-21.08.12:720][  0]LogAIModule: Creating AISystem for world SlimeLord_Proto1
-[2021.03.16-21.08.13:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.03.16-21.08.13:877][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
-[2021.03.16-21.08.13:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.03.16-21.08.13:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.424ms to complete.
-[2021.03.16-21.08.13:878][  0]LogFileHelpers: Loading map 'SlimeLord_Proto1' took 7.659
-[2021.03.16-21.08.15:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.15:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.15:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.15:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.15:874][  0]LogCollectionManager: Loaded 0 collections in 0.000925 seconds
-[2021.03.16-21.08.16:047][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Collections/' took 0.00s
-[2021.03.16-21.08.16:048][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Developers/Alan/Collections/' took 0.00s
-[2021.03.16-21.08.16:048][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Collections/' took 0.00s
-[2021.03.16-21.08.16:048][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 3015 classes and 717 folders.
-[2021.03.16-21.08.16:084][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.03.16-21.08.17:366][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.03.16-21.08.17:398][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
-[2021.03.16-21.08.18:216][  0]LogSlate: Took 0.155855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.03.16-21.08.18:321][  0]LogSlate: Took 0.091396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.03.16-21.08.18:401][  0]LogSlate: Took 0.019357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.03.16-21.08.18:802][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2021.03.16-21.08.19:212][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.03.16-21.08.19:212][  0]LogLoad: (Engine Initialization) Total time: 94.67 seconds
-[2021.03.16-21.08.19:212][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.03.16-21.08.19:584][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.03.16-21.08.19:751][  0]LogSlate: Took 0.037117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.03.16-21.08.21:434][ 28]LogAssetRegistry: Asset discovery search completed in 64.1090 seconds
-[2021.03.16-21.08.21:437][ 28]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
-[2021.03.16-21.08.47:656][954]LogTemp: Repeating last play command: Selected Viewport
-[2021.03.16-21.08.47:666][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
-[2021.03.16-21.08.47:666][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2021.03.16-21.08.47:767][954]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 16, 2021, 11:08:47 PM)
-[2021.03.16-21.08.47:827][954]LogOnline: OSS: Creating online subsystem instance for: NULL
-[2021.03.16-21.08.47:828][954]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-[2021.03.16-21.08.47:828][954]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
-[2021.03.16-21.08.47:843][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014674s)
-[2021.03.16-21.08.47:844][954]LogAIModule: Creating AISystem for world SlimeLord_Proto1
-[2021.03.16-21.08.47:845][954]LogPlayLevel: PIE: World Init took: (0.001153s)
-[2021.03.16-21.08.47:845][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016068s)
-[2021.03.16-21.08.47:876][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.03.16-21.08.47:878][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.03.16-21.08.47:878][954]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.03.16-21.08.47:879][954]LogAudio: Display: Using built-in audio occlusion.
-[2021.03.16-21.08.47:879][954]LogAudioMixer: Display: Initializing audio mixer.
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Audio Device Output Speaker Info:
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Is Default: Yes
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Sample Rate: 48000
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Channel Count Used: 2
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Device Channel Count: 2
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: Channel Order:
-[2021.03.16-21.08.47:893][954]LogAudioMixer: Display: 0: FrontLeft
-[2021.03.16-21.08.47:894][954]LogAudioMixer: Display: 1: FrontRight
-[2021.03.16-21.08.47:915][954]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
-[2021.03.16-21.08.47:916][954]LogInit: FAudioDevice initialized.
-[2021.03.16-21.08.47:933][954]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
-[2021.03.16-21.08.47:933][954]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
-[2021.03.16-21.08.47:933][954]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
-[2021.03.16-21.08.47:933][954]LogLoad: Game class is 'GameModeBase'
-[2021.03.16-21.08.47:988][954]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-22.08.47
-[2021.03.16-21.08.48:008][954]LogWorld: Bringing up level for play took: 0.022941
-[2021.03.16-21.08.48:008][954]LogOnline: OSS: Creating online subsystem instance for: :Context_8
-[2021.03.16-21.08.48:088][954]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
-[2021.03.16-21.08.48:120][954]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.982
-[2021.03.16-21.08.48:120][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
-[2021.03.16-21.08.53:192][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
-[2021.03.16-21.08.53:192][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
-[2021.03.16-21.08.53:192][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
-[2021.03.16-21.08.53:192][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.53:192][534]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
-[2021.03.16-21.08.53:192][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
-[2021.03.16-21.08.53:192][534]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
-[2021.03.16-21.08.53:192][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.16-21.08.53:200][534]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2021.03.16-21.08.53:200][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
-[2021.03.16-21.08.53:202][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.03.16-21.08.53:230][534]LogAudioMixer: Display: No commands were queued while flushing the source manager.
-[2021.03.16-21.08.53:233][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.03.16-21.08.53:287][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
-[2021.03.16-21.08.53:305][535]LogPlayLevel: Display: Destroying online subsystem :Context_8
-[2021.03.16-21.08.55:013][722]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.03.16-21.08.55:074][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
-[2021.03.16-21.08.55:709][722]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto1CD188F4C4BDD591BC4C9E5ACC959DA97.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap'
-[2021.03.16-21.08.55:747][722]AssetCheck: New page: Asset Save: SlimeLord_Proto1
-[2021.03.16-21.08.55:747][722]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
-[2021.03.16-21.08.57:095][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
-[2021.03.16-21.09.01:194][353]LogEditorViewport: Clicking on Actor (LMB): TrampaPendulo_C (TrampaPendulo)
-[2021.03.16-21.09.03:254][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
-[2021.03.16-21.09.03:866][570]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
-[2021.03.16-21.10.04:268][224]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
-[2021.03.16-21.10.06:043][401]LogSlate: Window 'TrampaPendulo' being destroyed
-[2021.03.16-21.10.07:112][527]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
-[2021.03.16-21.10.07:112][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.16-21.57.50:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.16-21.57.50:683][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:683][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:685][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-21.57.50:685][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.16-21.57.50:686][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:686][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-21.57.50:687][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-21.57.50:687][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.16-21.57.50:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.16-21.57.50:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.16-21.57.50:687][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-21.57.50:687][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.16-21.57.50:695][  0]LogHAL: Display: Platform has ~ 16 GB [17116475392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.16-21.57.50:695][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.16-21.57.50:695][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:695][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-21.57.50:695][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-21.57.50:696][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.16-21.57.50:697][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.16-21.57.50:704][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.16-21.57.50:705][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.16-21.57.50:705][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Config/Windows/Engine.ini]
+[2021.03.16-21.57.50:705][  0]LogInit: Computer: DESKTOP-96QSINR
+[2021.03.16-21.57.50:705][  0]LogInit: User: Alan
+[2021.03.16-21.57.50:705][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.16-21.57.50:705][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.16-21.57.50:705][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.16-21.57.50:705][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.16-21.57.50:705][  0]LogMemory: Process Physical Memory: 105.09 MB used, 105.09 MB peak
+[2021.03.16-21.57.50:705][  0]LogMemory: Process Virtual Memory: 100.07 MB used, 100.07 MB peak
+[2021.03.16-21.57.50:705][  0]LogMemory: Physical Memory: 4699.39 MB used,  11624.16 MB free, 16323.54 MB total
+[2021.03.16-21.57.50:705][  0]LogMemory: Virtual Memory: 5133.44 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.03.16-21.57.50:707][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.16-21.57.50:946][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.03.16-21.57.50:946][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2021.03.16-21.57.51:184][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.16-21.57.51:269][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.16-21.57.51:269][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.16-21.57.54:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.16-21.57.54:637][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.16-21.57.54:637][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.16-21.57.54:637][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.16-21.57.54:756][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.03.16-21.57.54:756][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.16-21.57.54:759][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.16-21.57.54:759][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.16-21.57.54:759][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.16-21.57.54:764][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.16-21.57.54:764][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.16-21.57.54:764][  0]LogWindows: EnumDisplayDevices:
+[2021.03.16-21.57.54:764][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.03.16-21.57.54:764][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.16-21.57.54:765][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.16-21.57.54:765][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.03.16-21.57.54:765][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.16-21.57.54:765][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.03.16-21.57.54:765][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.03.16-21.57.54:765][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.03.16-21.57.54:765][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.03.16-21.57.54:855][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.16-21.57.54:855][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.16-21.57.54:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.16-21.57.55:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.16-21.57.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.16-21.57.55:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.16-21.57.55:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.16-21.57.55:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.16-21.57.55:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.16-21.57.55:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.16-21.57.55:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.16-21.57.55:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.16-21.57.55:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.16-21.57.55:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.16-21.57.55:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.16-21.57.55:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.16-21.57.55:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.16-21.57.55:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.16-21.57.55:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.16-21.57.55:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.16-21.57.55:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.16-21.57.55:846][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.16-21.57.55:912][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.16-21.57.56:200][  0]LogShaderCompilers: Guid format shader working directory is -71 characters bigger than the processId version (../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Intermediate/Shaders/WorkingDirectory/11756/).
+[2021.03.16-21.57.56:200][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alan/AppData/Local/Temp/UnrealShaderWorkingDir/92D992FE47B320B1D5AD04A2C392F886/'.
+[2021.03.16-21.57.56:201][  0]LogXGEController: Cleaning working directory: C:/Users/Alan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.16-21.57.56:201][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.16-21.57.56:201][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.16-21.57.56:201][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.16-21.57.59:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.16-21.57.59:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.16-21.57.59:486][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.16-21.57.59:487][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.16-21.57.59:487][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.16-21.57.59:488][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.16-21.57.59:488][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.16-21.57.59:488][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.16-21.57.59:513][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.16-21.57.59:516][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.16-21.57.59:531][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.16-21.58.00:579][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.03.16-21.58.00:878][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-21.58.01:299][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.16-21.58.01:299][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.16-21.58.01:299][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.16-21.58.01:299][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.16-21.58.01:299][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.16-21.58.01:340][  0]LogNetVersion: Prototipo_Slime_lord 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4117905438)
+[2021.03.16-21.58.12:281][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048222 seconds
+[2021.03.16-21.58.12:288][  0]LogUObjectArray: 46753 objects as part of root set at end of initial load.
+[2021.03.16-21.58.12:288][  0]LogUObjectAllocator: 8137816 out of 0 bytes used by permanent object pool.
+[2021.03.16-21.58.12:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.16-21.58.14:146][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.16-21.58.14:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.16-21.58.14:465][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.14:465][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.14:482][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.14:497][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.14:513][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.15:147][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.16-21.58.15:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.16-21.58.15:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.16-21.58.15:497][  0]LogOcInput: OculusInput pre-init called
+[2021.03.16-21.58.15:534][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.16-21.58.15:534][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.16-21.58.15:720][  0]LogEngine: Initializing Engine...
+[2021.03.16-21.58.15:721][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.16-21.58.15:722][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.16-21.58.16:282][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.16-21.58.16:303][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-21.58.16:319][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-21.58.16:319][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-21.58.16:319][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: Channel Order:
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-21.58.16:339][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-21.58.16:366][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-21.58.16:370][  0]LogInit: FAudioDevice initialized.
+[2021.03.16-21.58.16:370][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.16-21.58.16:445][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Alan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.03.16-21.58.16:451][  0]LogInit: Texture streaming: Enabled
+[2021.03.16-21.58.16:516][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.16-21.58.16:516][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.16-21.58.16:518][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.16-21.58.16:611][  0]LogInit: Transaction tracking system initialized
+[2021.03.16-21.58.16:710][  0]BlueprintLog: New page: Editor Load
+[2021.03.16-21.58.16:975][  0]LocalizationService: Localization service is disabled
+[2021.03.16-21.58.17:814][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/' took 0.01s
+[2021.03.16-21.58.17:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.16-21.58.17:814][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.16-21.58.19:414][  0]SourceControl: Source control is disabled
+[2021.03.16-21.58.19:414][  0]LightingResults: New page: Lighting Build
+[2021.03.16-21.58.19:415][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-21.58.19:415][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.58.19:415][  0]MapCheck: New page: Map Check
+[2021.03.16-21.58.19:415][  0]LightingResults: New page: Lighting Build
+[2021.03.16-21.58.19:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.16-21.58.20:645][  0]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-21.58.20:684][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.16-21.58.20:718][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.03.16-21.58.20:718][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.16-21.58.20:718][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2021.03.16-21.58.20:718][  0]LogFileHelpers: Loading map 'SlimeLord_Proto1' took 1.304
+[2021.03.16-21.58.20:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.58.20:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.58.20:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.58.20:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.58.20:903][  0]LogCollectionManager: Loaded 0 collections in 0.000812 seconds
+[2021.03.16-21.58.20:914][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Collections/' took 0.00s
+[2021.03.16-21.58.20:914][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Developers/Alan/Collections/' took 0.00s
+[2021.03.16-21.58.20:914][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Collections/' took 0.00s
+[2021.03.16-21.58.20:914][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3015 classes and 717 folders.
+[2021.03.16-21.58.20:918][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.16-21.58.21:402][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.16-21.58.21:420][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.03.16-21.58.21:550][  0]LogSlate: Took 0.005526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.16-21.58.21:557][  0]LogSlate: Took 0.005156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.16-21.58.21:566][  0]LogSlate: Took 0.005990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.16-21.58.21:712][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.16-21.58.21:842][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.16-21.58.21:842][  0]LogLoad: (Engine Initialization) Total time: 35.35 seconds
+[2021.03.16-21.58.21:842][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.16-21.58.21:903][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.16-21.58.21:934][  0]LogSlate: Took 0.005590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.16-21.58.22:629][ 13]LogAssetRegistry: Asset discovery search completed in 22.0507 seconds
+[2021.03.16-21.58.22:632][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.03.16-21.58.32:312][ 42]LogEditorViewport: Clicking on Actor (LMB): TrampaPendulo_C (TrampaPendulo)
+[2021.03.16-21.58.40:700][ 19]LogEditorViewport: Clicking on Actor (LMB): HiteableCube_C (HiteableCube)
+[2021.03.16-21.58.45:198][534]LogEditorViewport: Clicking on Actor (LMB): SlimeBlock_C (SlimeBlock)
+[2021.03.16-21.58.48:718][937]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-21.58.48:727][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-21.58.48:727][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-21.58.48:733][937]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 16, 2021, 11:58:48 PM)
+[2021.03.16-21.58.48:733][937]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.16-21.58.48:734][937]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.16-21.58.48:734][937]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.58.48:750][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014917s)
+[2021.03.16-21.58.48:750][937]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-21.58.48:751][937]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2021.03.16-21.58.48:751][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016199s)
+[2021.03.16-21.58.48:781][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-21.58.48:783][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-21.58.48:783][937]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-21.58.48:783][937]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: Channel Order:
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-21.58.48:798][937]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-21.58.48:817][937]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-21.58.48:819][937]LogInit: FAudioDevice initialized.
+[2021.03.16-21.58.48:828][937]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.03.16-21.58.48:828][937]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.03.16-21.58.48:828][937]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2021.03.16-21.58.48:828][937]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-21.58.48:832][937]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-22.58.48
+[2021.03.16-21.58.48:832][937]LogWorld: Bringing up level for play took: 0.003338
+[2021.03.16-21.58.48:832][937]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.16-21.58.48:835][937]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.16-21.58.48:836][937]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 -0.302
+[2021.03.16-21.58.48:836][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-21.58.54:922][664]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-21.58.54:922][664]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-21.58.54:922][664]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.58.54:922][664]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-21.58.54:923][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.58.54:943][664]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-21.58.54:963][664]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-21.58.54:992][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.03.16-21.58.54:994][664]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.58.55:008][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014642s)
+[2021.03.16-21.58.55:009][664]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-21.58.55:009][664]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.03.16-21.58.55:009][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.015717s)
+[2021.03.16-21.58.55:010][664]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-21.58.55:020][664]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-22.58.55
+[2021.03.16-21.58.55:020][664]LogWorld: Bringing up level for play took: 0.009867
+[2021.03.16-21.58.55:022][664]LogLoad: Took 0.099513 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-21.58.58:741][108]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-21.59.00:416][309]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-21.59.05:182][881]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-21.59.06:508][ 40]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-21.59.09:924][450]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-21.59.09:924][450]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-21.59.09:924][450]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.59.09:925][450]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-21.59.09:925][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.59.09:933][450]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-21.59.09:963][450]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-21.59.09:992][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.03.16-21.59.09:993][450]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.59.10:008][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014802s)
+[2021.03.16-21.59.10:009][450]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-21.59.10:009][450]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.03.16-21.59.10:009][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016310s)
+[2021.03.16-21.59.10:010][450]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-21.59.10:023][450]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-22.59.10
+[2021.03.16-21.59.10:023][450]LogWorld: Bringing up level for play took: 0.012741
+[2021.03.16-21.59.10:024][450]LogLoad: Took 0.099887 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-21.59.11:336][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-21.59.11:336][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-21.59.11:336][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-21.59.11:336][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.59.11:336][606]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-21.59.11:336][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-21.59.11:336][606]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-21.59.11:337][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.59.11:341][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-21.59.11:341][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-21.59.11:343][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-21.59.11:370][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-21.59.11:373][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-21.59.11:375][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.03.16-21.59.11:439][611]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.16-21.59.14:339][954]LogEditorViewport: Clicking on Actor (LMB): HiteableCube_C (HiteableCube2)
+[2021.03.16-21.59.16:669][211]LogEditorViewport: Clicking on Actor (LMB): TrampaPendulo_C (TrampaPendulo)
+[2021.03.16-21.59.17:551][313]LogSlate: Took 0.005545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.16-21.59.19:297][516]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.16-21.59.19:321][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-21.59.19:477][516]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.03.16-21.59.21:851][680]LogSlate: Took 0.005558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.16-22.00.18:530][433]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2021.03.16-22.01.16:453][357]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.01.16:703][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.03.16-22.01.40:260][143]LogEditorTransaction: Undo Set Vector Property
+[2021.03.16-22.01.45:820][750]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.01.46:109][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.03.16-22.01.46:636][797]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloF71CFB5145B182CCFF30569A7C7AD6A2.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.01.46:653][797]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.01.46:653][797]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.02.12:215][ 91]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.02.12:458][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.03.16-22.02.23:247][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCube.HiteableCube
+[2021.03.16-22.02.25:815][493]LogSlate: Window 'HiteableCube' being destroyed
+[2021.03.16-22.02.45:223][688]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.02.45:471][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.03.16-22.02.46:137][746]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPendulo62623D6F433DA82E21B3D781399AF14B.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.02.46:150][746]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.02.46:150][746]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.03.22:282][543]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.03.22:538][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.03.16-22.03.22:965][578]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPendulo3BE05DF5439EBF54109EB6B5C2398997.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.03.22:980][578]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.03.22:980][578]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.04.03:812][929]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.04.04:065][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.03.16-22.04.04:485][966]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloF730657D4EC582989D721D83344A2591.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.04.04:500][966]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.04.04:500][966]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.04.17:701][523]LogEditorTransaction: Undo Move Node
+[2021.03.16-22.04.49:112][115]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.04.49:363][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.03.16-22.04.49:755][147]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloEA74278A4F899BA516A84AB8412A3137.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.04.49:770][147]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.04.49:770][147]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.05.01:713][364]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.05.01:969][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.03.16-22.05.02:419][402]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPendulo1B5DCC704724FE15AF8DCD98EE3819C9.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.05.02:432][402]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.05.02:432][402]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.07.39:402][293]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.07.39:659][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.03.16-22.07.40:133][332]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloD74EF3934BD5300D0C00728F11D2D546.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.07.40:147][332]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.07.40:147][332]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.07.41:726][499]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-22.07.41:736][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.07.41:736][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-22.07.41:736][499]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 17, 2021, 12:07:41 AM)
+[2021.03.16-22.07.41:736][499]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.07.41:752][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015357s)
+[2021.03.16-22.07.41:753][499]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.07.41:753][499]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2021.03.16-22.07.41:753][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016694s)
+[2021.03.16-22.07.41:791][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-22.07.41:793][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-22.07.41:793][499]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-22.07.41:793][499]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-22.07.41:808][499]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-22.07.41:809][499]LogAudioMixer: Display: Channel Order:
+[2021.03.16-22.07.41:809][499]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-22.07.41:809][499]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-22.07.41:828][499]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-22.07.41:829][499]LogInit: FAudioDevice initialized.
+[2021.03.16-22.07.41:835][499]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.07.41:838][499]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.07.41
+[2021.03.16-22.07.41:838][499]LogWorld: Bringing up level for play took: 0.003276
+[2021.03.16-22.07.41:839][499]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.16-22.07.41:841][499]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.703
+[2021.03.16-22.07.41:841][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.07.44:167][775]LogBlueprintUserMessages: [SlimeDoubleJump_2] 1
+[2021.03.16-22.07.46:108][  8]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.07.52:089][702]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.07.52:089][702]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.07.52:089][702]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.07.52:089][702]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.07.52:090][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.07.52:093][702]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.07.52:112][702]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.07.52:151][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.03.16-22.07.52:152][702]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.07.52:168][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015397s)
+[2021.03.16-22.07.52:169][702]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.07.52:169][702]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.03.16-22.07.52:169][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016609s)
+[2021.03.16-22.07.52:169][702]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.07.52:185][702]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.07.52
+[2021.03.16-22.07.52:185][702]LogWorld: Bringing up level for play took: 0.015084
+[2021.03.16-22.07.52:186][702]LogLoad: Took 0.096878 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-22.08.01:400][806]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.08.03:859][101]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.08.07:984][596]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.08.09:676][799]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.08.09:710][803]LogBlueprintUserMessages: [TrampaPendulo_2] InTrigger
+[2021.03.16-22.08.09:718][804]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.08.09:718][804]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.08.10:317][876]LogBlueprintUserMessages: [TrampaPendulo_2] OutTrigger
+[2021.03.16-22.08.13:893][305]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.08.13:893][305]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.08.13:893][305]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.08.13:894][305]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.08.13:894][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.08.13:913][305]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.08.13:933][305]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.08.13:969][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.03.16-22.08.13:971][305]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.08.13:985][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014573s)
+[2021.03.16-22.08.13:986][305]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.08.13:987][305]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2021.03.16-22.08.13:987][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.015799s)
+[2021.03.16-22.08.13:987][305]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.08.14:003][305]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.08.14
+[2021.03.16-22.08.14:003][305]LogWorld: Bringing up level for play took: 0.015087
+[2021.03.16-22.08.14:004][305]LogLoad: Took 0.110662 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-22.08.18:748][873]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.08.18:752][873]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.08.18:772][873]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.08.18:772][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.08.18:773][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.08.18:773][873]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.08.18:773][873]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.08.18:773][873]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.08.18:773][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.08.18:781][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-22.08.18:781][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.08.18:785][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.08.18:819][873]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.08.18:823][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.08.18:827][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.03.16-22.08.18:871][875]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.16-22.08.21:552][185]LogEditorViewport: Clicking on Actor (LMB): HiteableCube_C (HiteableCube2)
+[2021.03.16-22.09.41:957][518]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.09.42:207][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.03.16-22.09.42:563][541]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPendulo4FB0F8E44E02F740456172AA1577BCE9.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.09.42:576][541]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.09.42:576][541]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.09.45:386][850]LogEditorViewport: Clicking on Actor (LMB): TrampaPendulo_C (TrampaPendulo)
+[2021.03.16-22.09.56:055][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.03.16-22.09.56:316][ 78]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto19BE83B1741F77DA464648797C5BECB4D.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap'
+[2021.03.16-22.09.56:352][ 78]AssetCheck: New page: Asset Save: SlimeLord_Proto1
+[2021.03.16-22.09.56:352][ 78]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
+[2021.03.16-22.09.57:049][159]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-22.09.57:075][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.09.57:075][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-22.09.57:076][159]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 17, 2021, 12:09:57 AM)
+[2021.03.16-22.09.57:076][159]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.09.57:091][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014980s)
+[2021.03.16-22.09.57:092][159]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.09.57:092][159]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.03.16-22.09.57:092][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016095s)
+[2021.03.16-22.09.57:132][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-22.09.57:133][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-22.09.57:133][159]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-22.09.57:133][159]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-22.09.57:148][159]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-22.09.57:148][159]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: Channel Order:
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-22.09.57:149][159]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-22.09.57:168][159]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-22.09.57:170][159]LogInit: FAudioDevice initialized.
+[2021.03.16-22.09.57:177][159]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.09.57:182][159]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.09.57
+[2021.03.16-22.09.57:182][159]LogWorld: Bringing up level for play took: 0.003410
+[2021.03.16-22.09.57:182][159]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.16-22.09.57:184][159]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.046
+[2021.03.16-22.09.57:184][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.09.58:723][337]LogBlueprintUserMessages: [SlimeDoubleJump_2] 1
+[2021.03.16-22.10.00:997][610]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.10.02:439][783]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.10.02:615][804]LogBlueprintUserMessages: [TrampaPendulo_2] InTrigger
+[2021.03.16-22.10.02:623][805]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.10.02:623][805]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.10.02:681][812]LogBlueprintUserMessages: [TrampaPendulo_2] OutTrigger
+[2021.03.16-22.10.07:464][386]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.10.07:464][386]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.10.07:464][386]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.10.07:465][386]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.10.07:465][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.10.07:472][386]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.10.07:492][386]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.10.07:530][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.03.16-22.10.07:532][386]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.10.07:546][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014632s)
+[2021.03.16-22.10.07:547][386]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.10.07:548][386]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2021.03.16-22.10.07:548][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.015914s)
+[2021.03.16-22.10.07:548][386]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.10.07:564][386]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.10.07
+[2021.03.16-22.10.07:565][386]LogWorld: Bringing up level for play took: 0.015892
+[2021.03.16-22.10.07:566][386]LogLoad: Took 0.101446 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-22.10.08:637][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.08:642][513]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.10.08:663][513]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.10.08:663][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.08:663][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.10.08:663][513]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.10.08:663][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.08:663][513]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.10.08:663][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.10.08:667][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-22.10.08:667][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.08:671][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.10.08:705][513]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.08:708][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.10.08:712][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.03.16-22.10.08:753][515]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.16-22.10.26:267][542]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.10.26:512][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.03.16-22.10.27:501][641]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloD130DFA144A9673E156B5C9CCA918A9F.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.10.27:515][641]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.10.27:515][641]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.10.42:541][391]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-22.10.42:562][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.42:562][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-22.10.42:562][391]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 17, 2021, 12:10:42 AM)
+[2021.03.16-22.10.42:562][391]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.10.42:577][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014868s)
+[2021.03.16-22.10.42:578][391]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.10.42:578][391]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2021.03.16-22.10.42:578][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016088s)
+[2021.03.16-22.10.42:618][391]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-22.10.42:620][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-22.10.42:620][391]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-22.10.42:620][391]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: Channel Order:
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-22.10.42:635][391]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-22.10.42:655][391]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-22.10.42:656][391]LogInit: FAudioDevice initialized.
+[2021.03.16-22.10.42:665][391]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.10.42:669][391]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.10.42
+[2021.03.16-22.10.42:669][391]LogWorld: Bringing up level for play took: 0.003175
+[2021.03.16-22.10.42:670][391]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.16-22.10.42:671][391]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 -0.466
+[2021.03.16-22.10.42:672][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.46:226][815]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.10.48:202][ 52]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.10.48:377][ 73]LogBlueprintUserMessages: [TrampaPendulo_2] InTrigger
+[2021.03.16-22.10.48:385][ 74]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.10.48:385][ 74]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.10.48:452][ 82]LogBlueprintUserMessages: [TrampaPendulo_2] OutTrigger
+[2021.03.16-22.10.51:052][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.51:052][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.51:052][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.51:052][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.10.51:052][394]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.10.51:052][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.51:054][394]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.10.51:054][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.10.51:067][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-22.10.51:067][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.10.51:071][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.10.51:104][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.10.51:107][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.10.51:111][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.03.16-22.10.51:152][396]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.16-22.11.00:901][526]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.11.01:173][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.03.16-22.11.01:532][553]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPendulo39FEEA434599B335EEB186B8C113D358.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.11.01:547][553]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.11.01:547][553]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.11.03:061][722]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.16-22.11.03:070][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.11.03:070][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-22.11.03:070][722]PIE: New page: PIE session: SlimeLord_Proto1 (Mar 17, 2021, 12:11:03 AM)
+[2021.03.16-22.11.03:070][722]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.11.03:085][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014877s)
+[2021.03.16-22.11.03:086][722]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.11.03:086][722]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2021.03.16-22.11.03:086][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016131s)
+[2021.03.16-22.11.03:124][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-22.11.03:125][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-22.11.03:125][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-22.11.03:126][722]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-22.11.03:126][722]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-22.11.03:140][722]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.16-22.11.03:140][722]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2021.03.16-22.11.03:140][722]LogAudioMixer: Display: Is Default: Yes
+[2021.03.16-22.11.03:140][722]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.16-22.11.03:141][722]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.16-22.11.03:141][722]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.16-22.11.03:141][722]LogAudioMixer: Display: Channel Order:
+[2021.03.16-22.11.03:141][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-22.11.03:141][722]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-22.11.03:159][722]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.03.16-22.11.03:161][722]LogInit: FAudioDevice initialized.
+[2021.03.16-22.11.03:169][722]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.11.03:173][722]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.11.03
+[2021.03.16-22.11.03:173][722]LogWorld: Bringing up level for play took: 0.003372
+[2021.03.16-22.11.03:173][722]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.16-22.11.03:175][722]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1 0.037
+[2021.03.16-22.11.03:176][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.11.06:850][160]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.11.08:409][347]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.11.08:526][361]LogBlueprintUserMessages: [TrampaPendulo_2] InTrigger
+[2021.03.16-22.11.08:534][362]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.11.08:534][362]LogBlueprintUserMessages: [TrampaPendulo_2] RotationStop
+[2021.03.16-22.11.13:984][ 16]LogBlueprintUserMessages: [SlimeBlock4] 1
+[2021.03.16-22.11.15:685][220]LogBlueprintUserMessages: [HiteableCube2] 0
+[2021.03.16-22.11.16:035][262]LogBlueprintUserMessages: [TrampaPendulo_2] OutTrigger
+[2021.03.16-22.11.19:467][674]LogNet: Browse: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.11.19:467][674]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/SlimeLord_Proto1
+[2021.03.16-22.11.19:467][674]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.11.19:468][674]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.11.19:468][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.11.19:473][674]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.16-22.11.19:502][674]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.16-22.11.19:540][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.03.16-22.11.19:542][674]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.11.19:557][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014866s)
+[2021.03.16-22.11.19:558][674]LogAIModule: Creating AISystem for world SlimeLord_Proto1
+[2021.03.16-22.11.19:558][674]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2021.03.16-22.11.19:558][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1 to /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 (0.016093s)
+[2021.03.16-22.11.19:559][674]LogLoad: Game class is 'GameModeBase'
+[2021.03.16-22.11.19:577][674]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1.SlimeLord_Proto1 up for play (max tick rate 0) at 2021.03.16-23.11.19
+[2021.03.16-22.11.19:577][674]LogWorld: Bringing up level for play took: 0.017481
+[2021.03.16-22.11.19:578][674]LogLoad: Took 0.110449 seconds to LoadMap(/Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1)
+[2021.03.16-22.11.20:562][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.11.20:562][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.11.20:562][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.11.20:562][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.11.20:562][790]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_SlimeLord_Proto1
+[2021.03.16-22.11.20:562][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.11.20:563][790]LogWorld: UWorld::CleanupWorld for SlimeLord_Proto1, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.11.20:563][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.11.20:568][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-22.11.20:568][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1' with GeneratedClass '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1:PersistentLevel.SlimeLord_Proto1'
+[2021.03.16-22.11.20:572][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.11.20:606][790]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.16-22.11.20:608][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-22.11.20:612][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.03.16-22.11.20:663][793]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.16-22.11.22:049][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.16-22.11.22:300][947]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/SlimeLord_Proto118CE429C461B9FF1065284B941E56D5C.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap'
+[2021.03.16-22.11.22:330][947]AssetCheck: New page: Asset Save: SlimeLord_Proto1
+[2021.03.16-22.11.22:330][947]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/SlimeLord_Proto1.SlimeLord_Proto1
+[2021.03.16-22.11.24:047][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.03.16-22.11.26:234][386]BlueprintLog: New page: Compile TrampaPendulo
+[2021.03.16-22.11.26:480][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.03.16-22.11.26:833][413]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TrampaPenduloF56F7BA54A12D9FF504D21BC2DF8474B.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset'
+[2021.03.16-22.11.26:844][413]AssetCheck: New page: Asset Save: TrampaPendulo
+[2021.03.16-22.11.26:844][413]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.TrampaPendulo
+[2021.03.16-22.11.27:611][503]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.11.27:611][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-22.11.28:617][616]BlueprintLog: New page: Compile HiteableCube
+[2021.03.16-22.11.28:883][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.03.16-22.11.29:346][659]LogSavePackage: Moving '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/HiteableCube0409A5DB4EBA0927B69AFE80E7EFB67F.tmp' to '../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCube.uasset'
+[2021.03.16-22.11.29:362][659]AssetCheck: New page: Asset Save: HiteableCube
+[2021.03.16-22.11.29:362][659]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCube.HiteableCube
+[2021.03.16-22.11.30:520][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.16-22.11.30:520][796]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-22.11.30:520][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
