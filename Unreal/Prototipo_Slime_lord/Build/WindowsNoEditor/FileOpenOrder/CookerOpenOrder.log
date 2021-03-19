@@ -1,0 +1,726 @@
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 3
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 7
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 8
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 9
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 10
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 11
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 12
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Meshes/BaseMaterial.uasset" 13
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 14
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 15
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPersonBP/FirstPersonOverview.uasset" 16
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 17
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 18
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 20
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 21
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 22
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 23
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 24
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 25
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 26
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 27
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 28
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 29
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 30
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 31
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 32
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 33
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 34
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 35
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 36
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 37
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 38
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 39
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 40
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 41
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 42
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 43
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 44
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 45
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 46
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 47
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 48
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 49
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 50
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 51
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 52
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 53
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 54
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/MaderaCubo/MaderaCartoon.uasset" 55
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/MaderaCubo/MaderaCartoonAO.uasset" 56
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/MaderaCubo/MaderaCartoonNormal.uasset" 57
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/maderacutre.uasset" 58
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/ZonaBajaMuro/Muro_AO.uasset" 59
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/ZonaBajaMuro/Muro_BaseColor.uasset" 60
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/ZonaBajaMuro/Muro_height.uasset" 61
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/ZonaBajaMuro/Muro_Normal.uasset" 62
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/ZonaBajaMuro/Muro_Roughness.uasset" 63
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/MuroZonaBaja.uasset" 64
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/ThirdPersonOverview.uasset" 65
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 66
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 67
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 68
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 69
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonRun.uasset" 70
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 71
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 72
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 73
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/ShotSlimeMaterial.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 75
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 76
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 77
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 78
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 79
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeBullet.uasset" 80
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 81
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 82
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 83
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 84
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 85
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 86
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 87
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 88
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 89
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 90
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 91
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 92
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 93
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 94
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 95
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 96
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 97
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Explosion01.uasset" 98
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Burst_M.uasset" 99
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Burst.uasset" 100
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 101
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 102
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 103
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 104
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 105
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 106
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 107
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 108
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Explosion.uasset" 109
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/UI/Controls.uasset" 110
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/UI/PauseMenu.uasset" 111
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonCharacter.uasset" 112
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Geometry/Meshes/CubeMaterial.uasset" 113
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 114
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCube.uasset" 115
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/HiteableCube.uasset" 116
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/HiteableCube.uasset" 117
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/BlockSlimeMaterial.uasset" 118
+"../../../Engine/Content/BasicShapes/Cone.uasset" 119
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeBlock.uasset" 120
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/SlimeBlock.uasset" 121
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/DashSlimeMaterial.uasset" 122
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeDash.uasset" 123
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/SlimeDash.uasset" 124
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/DoubleJumpSlimeMaterial.uasset" 125
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeDoubleJump.uasset" 126
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/SlimeDoubleJump.uasset" 127
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeShot.uasset" 128
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/SlimeShot.uasset" 129
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonGameMode.uasset" 130
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 131
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/Diana1.uasset" 132
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Diana1.uasset" 133
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/Diana2.uasset" 134
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Diana2.uasset" 135
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp1.uasset" 136
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp.uasset" 137
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/DianaTemp.uasset" 138
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 139
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 140
+"../../../Engine/Content/BasicShapes/Cube.uasset" 141
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDiana1.uasset" 142
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Puerta1.uasset" 143
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDiana2.uasset" 144
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Puerta2.uasset" 145
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemporal.uasset" 146
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemp.uasset" 147
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PuertaTemp.uasset" 148
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" 149
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonPersonaje1.uasset" 150
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonPersonaje.uasset" 151
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonPersonaje3.uasset" 152
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonPersonaje4.uasset" 153
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PuertaPiston1.uasset" 154
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PuertaPiston.uasset" 155
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 156
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 157
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaMovil2.uasset" 158
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level8_BuiltData.uasset" 159
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1_BuiltData.uasset" 160
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Basic_Wall.uasset" 161
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Pillar_50x500.uasset" 162
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_400x300.uasset" 163
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_400x400.uasset" 164
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_500x500.uasset" 165
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 166
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 167
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Collapse01.uasset" 168
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Collapse02.uasset" 169
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Explosion02.uasset" 170
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Fire01.uasset" 171
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Fire_Sparks01.uasset" 172
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Light01.uasset" 173
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Light01_Cue.uasset" 174
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Light02.uasset" 175
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Light02_Cue.uasset" 176
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Smoke01.uasset" 177
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Birds01.uasset" 178
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Music01.uasset" 179
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Wind05.uasset" 180
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Wind06.uasset" 181
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Steam01.uasset" 182
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Explosion_Cue.uasset" 183
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 184
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 185
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 186
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Bush_D.uasset" 187
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Bush_N.uasset" 188
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Bush.uasset" 189
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Bush.uasset" 190
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Chair_M.uasset" 191
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Chair_N.uasset" 192
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Chair.uasset" 193
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Couch.uasset" 194
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Glass.uasset" 195
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Door_M.uasset" 196
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Door_N.uasset" 197
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Door.uasset" 198
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Door.uasset" 199
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 200
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 201
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 202
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 203
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 204
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_RockMesh_M.uasset" 205
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_RockMesh_N.uasset" 206
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Rock.uasset" 207
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Rock.uasset" 208
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Shelf_M.uasset" 209
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Shelf_N.uasset" 210
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Shelf.uasset" 211
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Shelf.uasset" 212
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Basic_Floor.uasset" 213
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Stairs.uasset" 214
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Cone.uasset" 215
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 216
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 217
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Pipe.uasset" 218
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 219
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 220
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Plane.uasset" 221
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Torus.uasset" 222
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Trim.uasset" 223
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 224
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 225
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 226
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Tube.uasset" 227
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 228
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 229
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 230
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 231
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 232
+"../../../Engine/Content/BasicShapes/Plane.uasset" 233
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 234
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 235
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 236
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 237
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 249
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 250
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 251
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 252
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 253
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 254
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 255
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 256
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 257
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 258
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 259
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 260
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 261
+"../../../Engine/Content/EditorResources/S_Note.uasset" 262
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 263
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 264
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 265
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 266
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 267
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 268
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 269
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 270
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 271
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 272
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 273
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 274
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 275
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 276
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 277
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 279
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 280
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 281
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 282
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 283
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 284
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 285
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 286
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 287
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 288
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 289
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 290
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 291
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 292
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 293
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 295
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 296
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 297
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 298
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 299
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 302
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 303
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 304
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 305
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 306
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 308
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 309
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 310
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 311
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 312
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 313
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 314
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 316
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 317
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 318
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 319
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 320
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 321
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 322
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 323
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 324
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 325
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 326
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 327
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 328
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 329
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 330
+"../../../Engine/Content/EngineResources/Black.uasset" 331
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 332
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 333
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 334
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 335
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 336
+"../../../Engine/Content/EngineSounds/Master.uasset" 337
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 339
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 340
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 341
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 342
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 343
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 361
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 362
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 363
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 364
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 365
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 366
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 367
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 368
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 369
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 370
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 371
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 372
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 373
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 374
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 375
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 376
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 377
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 378
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 379
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 380
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 381
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 382
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 383
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 384
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 385
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 390
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 391
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 392
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 393
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 394
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 395
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 396
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 397
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 398
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 399
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 400
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 401
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 403
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 404
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 405
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Geometry/Meshes/1M_Cube.uasset" 406
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 407
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonPersonaje2.uasset" 408
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PuertaPiston2.uasset" 409
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel1.uasset" 410
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level1_BuiltData.uasset" 411
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/ConstruccionCristal.uasset" 412
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/ConstruccionNivel.uasset" 413
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level1.umap" 414
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Mannequin/Character/Materials/M_UE4Man_Body1.uasset" 415
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ThirdPersonRey.uasset" 416
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialTranslucent.uasset" 417
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/THEKING.uasset" 418
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level10_BuiltData.uasset" 419
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/OroTrono.uasset" 420
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level10.umap" 421
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaElevadora1.uasset" 422
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaMovil1.uasset" 423
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel2.uasset" 424
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level2_BuiltData.uasset" 425
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level2.umap" 426
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaElevadora2.uasset" 427
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel3.uasset" 428
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level3_BuiltData.uasset" 429
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level3.umap" 430
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/PistonBloque.uasset" 431
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/PuertaBloque.uasset" 432
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel4.uasset" 433
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level4_BuiltData.uasset" 434
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level4.umap" 435
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaMovil3.uasset" 436
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel5.uasset" 437
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level5_BuiltData.uasset" 438
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level5.umap" 439
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp2.uasset" 440
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp3.uasset" 441
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PlataformaDianaTemporal1.uasset" 442
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PlataformaDianaTemporal2.uasset" 443
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PlataformaDianaTemporal3.uasset" 444
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel6.uasset" 445
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6_BuiltData.uasset" 446
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap" 447
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/Pinchos.uasset" 448
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaHachas.uasset" 449
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaRodillo.uasset" 450
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel7.uasset" 451
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7_BuiltData.uasset" 452
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap" 453
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCubeRotative.uasset" 454
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp4.uasset" 455
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp5.uasset" 456
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PlataformaDianaTemporal4.uasset" 457
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PlataformaDianaTemporal5.uasset" 458
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 459
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Water_N.uasset" 460
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Water_Lake.uasset" 461
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/AguaFija.uasset" 462
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/AguaTrampa.uasset" 463
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/PistonAgua.uasset" 464
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaPendulo.uasset" 465
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel8.uasset" 466
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level8.umap" 467
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Cubos/HiteableCubeLigero.uasset" 468
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/DianaTemp5Movible.uasset" 469
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemporal2.uasset" 470
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemporal3.uasset" 471
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemporal4.uasset" 472
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Dianas/PuertaDianaTemporal5.uasset" 473
+"../../../Engine/Content/BasicShapes/Cube1.uasset" 474
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PistonRey1.uasset" 475
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PuertaPiston3.uasset" 476
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/Pistones/PuertaPiston4.uasset" 477
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/BloquesYPlataformas/PlataformasMovibles/PlataformaMovilDianas.uasset" 478
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 479
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 480
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/ReyCubo.uasset" 481
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeBlockMULTIPLE.uasset" 482
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeDashMULTIPLE.uasset" 483
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeDoubleJumpMULTIPLE.uasset" 484
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Slimes/SlimeShotMULTIPLE.uasset" 485
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/MuerteDeRey.uasset" 486
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/PararMuerteDeRey.uasset" 487
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/PinchosMovibles.uasset" 488
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/PinchosMovibles2.uasset" 489
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/PinchosMovibles3.uasset" 490
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/Trampas/TrampaRodilloCae.uasset" 491
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Blueprints/TriggersPrincipioYFin/FinalLevel9.uasset" 492
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level9_BuiltData.uasset" 493
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level9.umap" 494
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/GemasBloque/Roca_gemas_BaseColor.uasset" 495
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/GemasBloque/Roca_gemas_Emissive.uasset" 496
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/GemasBloque/Roca_gemas_Normal.uasset" 497
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/GemasBloque/Roca_gemas_OcclusionRoughnessMetallic.uasset" 498
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/BloqueZonaBajaGemas.uasset" 499
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/MaderaBloque/Roca_madera_BaseColor.uasset" 500
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/MaderaBloque/Roca_madera_Normal.uasset" 501
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/MaderaBloque/Roca_Madera_OcclusionRoughnessMetallic.uasset" 502
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/BloqueZonaBajaMadera.uasset" 503
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/RocaBloque/Roca_piedra_BaseColor.uasset" 504
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/RocaBloque/Roca_piedra_Emissive.uasset" 505
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/RocaBloque/Roca_piedra_Normal.uasset" 506
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Texturas/BloqueZonaBaja/RocaBloque/Roca_piedra_OcclusionRoughnessMetallic.uasset" 507
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/BloqueZonaBajaPiedra.uasset" 508
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Box001Mat.uasset" 509
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Zona_baja_plataforma_voladora_Box001.uasset" 510
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Box002Mat.uasset" 511
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Zona_baja_plataforma_voladora_Box002.uasset" 512
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Box004Mat.uasset" 513
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/Zona_baja_plataforma_voladora_Box004.uasset" 514
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Zona_baja_plataforma_voladora_Box001_Blueprint.uasset" 515
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/CuboZonaBaja.uasset" 516
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/CellShader.uasset" 517
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/materials/CellShader_Inst.uasset" 518
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Geometry/Meshes/TemplateFloor.uasset" 519
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/RampMaterial.uasset" 520
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 521
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 522
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 523
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 524
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 525
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/SlimeLord_Proto1.umap" 526
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 527
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 528
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 529
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 530
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 531
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 532
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 533
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 534
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 535
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 536
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 537
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 538
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 539
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_AssetPlatform.uasset" 540
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 541
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 542
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 543
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 544
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 545
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 546
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 547
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 548
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/Advanced_Lighting.umap" 549
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 550
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_MacroVariation.uasset" 551
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 552
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 553
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 554
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 555
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 556
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Copper.uasset" 557
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Statue_M.uasset" 558
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Statue_N.uasset" 559
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 560
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Floor_400x400.uasset" 561
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 562
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Chair.uasset" 563
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Statue.uasset" 564
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Statue.uasset" 565
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_TableRound_M.uasset" 566
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_TableRound_N.uasset" 567
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_TableRound.uasset" 568
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_TableRound.uasset" 569
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/Minimal_Default.umap" 570
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Fire01_Cue.uasset" 571
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 572
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 573
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 574
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 575
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 576
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Fire.uasset" 577
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 578
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Smoke01_Cue.uasset" 579
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Smoke.uasset" 580
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 581
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 582
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Spark_Core.uasset" 583
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Spark.uasset" 584
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Sparks.uasset" 585
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 586
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Steam01_Cue.uasset" 587
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Steam_Lit.uasset" 588
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 589
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Lamp_M.uasset" 590
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Lamp_N.uasset" 591
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Lamp.uasset" 592
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 593
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 594
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 595
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 596
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 597
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 598
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 599
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 600
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 601
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 602
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 603
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 604
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 605
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 606
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 607
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 608
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 609
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 610
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 611
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 612
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 613
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 614
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 615
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 616
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 617
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 618
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 619
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 620
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 621
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 622
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 623
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 624
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 625
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Gradinet_01.uasset" 626
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 627
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 628
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 629
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 630
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 631
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 632
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 633
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 634
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 635
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 636
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 637
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 638
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 639
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 640
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 641
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 642
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 643
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 644
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 645
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 646
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 647
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 648
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Ground_Grass.uasset" 649
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 650
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 651
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 652
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 653
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 654
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Ground_Moss.uasset" 655
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 656
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 657
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Gold.uasset" 658
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 659
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Rust.uasset" 660
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 661
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 662
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Metal_Steel.uasset" 663
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 664
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 665
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 666
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 667
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 668
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 669
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 670
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 671
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Rock_Slate.uasset" 672
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 673
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 674
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 675
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 676
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 677
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 678
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 679
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 680
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 681
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 682
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 683
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Tech_Panel.uasset" 684
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Water_M.uasset" 685
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Water_Ocean.uasset" 686
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 687
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 688
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 689
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 690
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 691
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 692
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 693
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 694
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Wood_Oak.uasset" 695
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 696
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 697
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Wood_Pine.uasset" 698
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 699
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 700
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 701
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_400x200.uasset" 702
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 703
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 704
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Collapse_Cue.uasset" 705
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 706
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 707
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 708
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 709
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/MaterialSphere.uasset" 710
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Frame_M.uasset" 711
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Textures/T_Frame_N.uasset" 712
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/Materials/M_Frame.uasset" 713
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_CornerFrame.uasset" 714
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_DoorFrame.uasset" 715
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_GlassWindow.uasset" 716
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_PillarFrame.uasset" 717
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_PillarFrame300.uasset" 718
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Props/SM_WindowFrame.uasset" 719
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Cube.uasset" 720
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 721
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Shapes/Shape_Sphere.uasset" 722
+"../../../../Documentos Importantes/ENTI/2o/Proyecto II/Slime Lord COMPARTIDO/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/StarterContent/Maps/StarterMap.umap" 723
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 724
+"../../../Engine/Content/Maps/Entry.umap" 725

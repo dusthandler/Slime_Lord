@@ -7697,3 +7697,9 @@ Make sure 'PlataformaMovilDianas_C' has been compiled for  Get Rodillo
 [2021.03.19-13.57.18:871][120]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Maps/Level9.Level9
 [2021.03.19-13.57.18:871][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Maps/Level9_BuiltData.Level9_BuiltData
 [2021.03.19-13.57.20:206][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.03.19-13.58.43:795][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.03.19-13.58.43:987][638]LogSlate: Window 'Prototipo_Slime_lord - Unreal Editor' being destroyed
+[2021.03.19-13.58.44:398][639]Cmd: QUIT_EDITOR
+[2021.03.19-13.58.44:398][639]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.19-13.58.44:478][639]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.19-13.58.44:490][639]LogAudioMixer: Display: No commands were queued while flushing the source manager.
