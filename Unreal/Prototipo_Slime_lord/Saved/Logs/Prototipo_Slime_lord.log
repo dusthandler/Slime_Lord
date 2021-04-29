@@ -7220,3 +7220,889 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.29-12.20.07:436][525]LogContentValidation: Display: Validating Texture2D /Game/SlimeLordBP/Blueprints/BloquesYPlataformas/Zona_Media/Silla_zona_media/Silla_media_textura/DefaultMaterial_Height.DefaultMaterial_Height
 [2021.04.29-12.20.07:436][525]LogContentValidation: Display: Validating Texture2D /Game/SlimeLordBP/Blueprints/BloquesYPlataformas/Zona_Media/Silla_zona_media/Silla_media_textura/DefaultMaterial_Metallic.DefaultMaterial_Metallic
 [2021.04.29-12.20.07:436][525]LogContentValidation: Display: Validating Texture2D /Game/SlimeLordBP/Blueprints/BloquesYPlataformas/Zona_Media/Silla_zona_media/Silla_media_textura/DefaultMaterial_Normal.DefaultMaterial_Normal
+[2021.04.29-12.22.26:860][159]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.04.29-12.22.30:730][159]LogTexture: Display: Building textures: T_ML_FineRubber (AutoDXT, 2048X2048)
+[2021.04.29-12.22.30:734][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.04.29-12.22.58:562][159]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.29-12.23.23:726][159]LogUObjectGlobals: Force Deleting 48 Package(s):
+	Asset Name: /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Fire.FirstPerson_Fire
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Idle.FirstPerson_Idle
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+	Asset Name: /Game/FirstPerson/Animations/FirstPerson_Run.FirstPerson_Run
+	Asset Name: /Game/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+	Asset Name: /Game/FirstPerson/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2021.04.29-12.23.25:280][159]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2021.04.29-12.23.25:293][159]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2021.04.29-12.23.25:307][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:324][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:324][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:324][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:324][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:324][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:324][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:325][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:325][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:329][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:331][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:331][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:335][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:337][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:337][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:342][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:344][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:344][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:348][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:350][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:350][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:354][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:356][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:356][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:360][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:362][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:362][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:366][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:368][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:368][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:373][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:375][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:375][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:379][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:381][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:381][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:386][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:388][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:388][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:392][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:394][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:394][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:398][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:400][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:400][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:404][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:406][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:406][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:411][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:413][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:413][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:417][159]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.04.29-12.23.25:419][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:419][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:419][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:419][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:420][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:420][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:420][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:420][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:420][159]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2021.04.29-12.23.25:473][159]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2021.04.29-12.23.25:501][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:503][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:503][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:507][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:509][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:509][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:514][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:515][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:515][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:521][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:523][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:523][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:527][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:529][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:529][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:533][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:535][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:535][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:539][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:541][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:541][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:546][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:547][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:547][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:547][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:547][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:547][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:548][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:548][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:548][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:548][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:552][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:554][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:554][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:559][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:560][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:560][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:565][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:566][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:566][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:571][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:573][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:573][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:577][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:579][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:579][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:583][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:585][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:585][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:589][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:591][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:591][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:595][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:597][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:597][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:601][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:603][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:603][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:608][159]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.04.29-12.23.25:609][159]LogMaterial: Warning: D:\Unreal Engine\Slime Lord\Slime_Lord\Unreal\Prototipo_Slime_lord\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Missing Material Function
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.04.29-12.23.25:609][159]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.04.29-12.23.25:610][159]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2021.04.29-12.23.25:657][159]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2021.04.29-12.23.34:763][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.29-12.23.34:797][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.29-12.23.34:826][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.34:853][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.29-12.23.34:879][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.29-12.23.34:906][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.04.29-12.23.34:931][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.34:957][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.29-12.23.34:982][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.35:013][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:039][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.29-12.23.35:064][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.29-12.23.35:092][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:119][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.04.29-12.23.35:144][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:170][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.29-12.23.35:198][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:229][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:256][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.29-12.23.35:282][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:306][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:332][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.29-12.23.35:360][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:386][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.29-12.23.35:411][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.29-12.23.35:439][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.29-12.23.35:465][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:492][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:519][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.29-12.23.35:545][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.29-12.23.35:571][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.35:596][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:624][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.29-12.23.35:652][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.29-12.23.35:677][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:704][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.29-12.23.35:730][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:756][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.29-12.23.35:781][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:806][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.35:832][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.29-12.23.35:859][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:886][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.29-12.23.35:912][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.29-12.23.35:938][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.29-12.23.35:964][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.29-12.23.35:991][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.04.29-12.23.36:018][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.29-12.23.49:307][681]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-12.23.49:317][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.23.49:317][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-12.23.49:318][681]PIE: New page: PIE session: Level1 (29 abr. 2021 16:23:49)
+[2021.04.29-12.23.49:318][681]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.23.49:342][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024330s)
+[2021.04.29-12.23.49:343][681]LogAIModule: Creating AISystem for world Level1
+[2021.04.29-12.23.49:343][681]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.04.29-12.23.49:343][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/Level1.Level1 to /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 (0.025596s)
+[2021.04.29-12.23.49:372][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-12.23.49:377][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-12.23.49:377][681]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-12.23.49:377][681]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Is Default: Yes
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: Channel Order:
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-12.23.49:425][681]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-12.23.49:437][681]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.29-12.23.49:438][681]LogInit: FAudioDevice initialized.
+[2021.04.29-12.23.49:443][681]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.23.49:448][681]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.29-14.23.49
+[2021.04.29-12.23.49:449][681]LogWorld: Bringing up level for play took: 0.004508
+[2021.04.29-12.23.49:449][681]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2021.04.29-12.23.49:452][681]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1 -0,847
+[2021.04.29-12.23.49:452][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.24.10:919][209]LogBlueprintUserMessages: [FinalLevel1_5] level completed! entering next level
+[2021.04.29-12.24.12:930][403]LogNet: Browse: /Game/SlimeLordBP/Maps/Level2
+[2021.04.29-12.24.12:930][403]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level2
+[2021.04.29-12.24.12:930][403]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.24.12:931][403]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.24.12:931][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.24.12:932][403]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.24.12:965][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.04.29-12.24.13:747][403]LogAIModule: Creating AISystem for world Level2
+[2021.04.29-12.24.13:747][403]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.24.13:774][403]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.04.29-14.24.13
+[2021.04.29-12.24.13:774][403]LogWorld: Bringing up level for play took: 0.025918
+[2021.04.29-12.24.13:781][403]LogLoad: Took 0.850618 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level2)
+[2021.04.29-12.24.28:592][161]LogBlueprintUserMessages: [SlimeDoubleJump_10] 1
+[2021.04.29-12.24.31:410][499]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.24.34:971][925]LogBlueprintUserMessages: [SlimeDoubleJump4] 1
+[2021.04.29-12.24.35:579][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.24.57:810][661]LogBlueprintUserMessages: [SlimeDoubleJump2] 1
+[2021.04.29-12.25.10:202][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.25.17:562][ 30]LogBlueprintUserMessages: [SlimeDoubleJump3] 1
+[2021.04.29-12.25.26:080][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.25.36:767][327]LogBlueprintUserMessages: [SlimeDoubleJump2] 1
+[2021.04.29-12.25.52:606][221]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.25.57:848][850]LogBlueprintUserMessages: [SlimeDoubleJump3] 1
+[2021.04.29-12.27.01:064][381]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.27.12:533][754]LogBlueprintUserMessages: [FinalLevel2_7] level completed! entering next level
+[2021.04.29-12.27.14:537][949]LogNet: Browse: /Game/SlimeLordBP/Maps/Level3
+[2021.04.29-12.27.14:537][949]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level3
+[2021.04.29-12.27.14:537][949]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level2
+[2021.04.29-12.27.14:538][949]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.27.14:538][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.27.14:549][949]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.04.29-12.27.14:578][949]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.04.29-12.27.14:609][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.29-12.27.14:887][949]LogMaterial: Display: Missing cached shader map for material Dash, compiling. 
+[2021.04.29-12.27.15:103][949]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 99
+[2021.04.29-12.27.15:103][949]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2021.04.29-12.27.15:457][949]LogAIModule: Creating AISystem for world Level3
+[2021.04.29-12.27.15:457][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.27.15:469][949]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.04.29-14.27.15
+[2021.04.29-12.27.15:469][949]LogWorld: Bringing up level for play took: 0.011521
+[2021.04.29-12.27.15:472][949]LogLoad: Took 0.935097 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level3)
+[2021.04.29-12.27.18:452][246]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 79
+[2021.04.29-12.27.20:149][448]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2021.04.29-12.27.23:500][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2021.04.29-12.27.25:327][ 66]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2021.04.29-12.27.27:277][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.04.29-12.27.29:965][608]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.04.29-12.27.31:121][745]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.04.29-12.27.32:152][868]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.04.29-12.27.33:089][980]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.29-12.27.35:209][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.04.29-12.27.36:520][391]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.29-12.27.46:585][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.27.53:472][324]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.04.29-12.27.55:281][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.27.59:923][ 98]LogBlueprintUserMessages: [SlimeDash3] 1
+[2021.04.29-12.28.06:440][880]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.11:350][469]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.04.29-12.28.13:842][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.17:227][174]LogBlueprintUserMessages: [SlimeDash3] 1
+[2021.04.29-12.28.18:577][336]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.21:659][706]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.04.29-12.28.27:153][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.36:985][539]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.04.29-12.28.42:302][177]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.45:079][510]LogBlueprintUserMessages: [SlimeDoubleJump_4] 1
+[2021.04.29-12.28.47:420][791]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.49:054][987]LogBlueprintUserMessages: [SlimeDoubleJump2_9] 1
+[2021.04.29-12.28.52:546][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.28.54:897][688]LogBlueprintUserMessages: [FinalLevel3_2] level completed! entering next level
+[2021.04.29-12.28.56:896][928]LogNet: Browse: /Game/SlimeLordBP/Maps/Level4
+[2021.04.29-12.28.56:896][928]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level4
+[2021.04.29-12.28.56:896][928]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level3
+[2021.04.29-12.28.56:897][928]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.28.56:897][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.28.56:897][928]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.28.56:930][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.29-12.28.58:313][928]LogAIModule: Creating AISystem for world Level4
+[2021.04.29-12.28.58:313][928]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.28.58:337][928]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2021.04.29-14.28.58
+[2021.04.29-12.28.58:337][928]LogWorld: Bringing up level for play took: 0.022774
+[2021.04.29-12.28.58:340][928]LogLoad: Took 1.443289 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level4)
+[2021.04.29-12.29.13:926][785]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.04.29-12.29.14:135][810]LogBlueprintUserMessages: [SlimeBlock4_11] 2
+[2021.04.29-12.29.18:059][281]LogBlueprintUserMessages: [CubeHit2_5] 1
+[2021.04.29-12.29.19:398][440]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.21:725][719]LogBlueprintUserMessages: [SlimeBlock4_11] 1
+[2021.04.29-12.29.24:024][995]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.27:977][469]LogBlueprintUserMessages: [SlimeBlock4_11] 1
+[2021.04.29-12.29.30:502][772]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.31:444][885]LogBlueprintUserMessages: [SlimeBlock3_8] 1
+[2021.04.29-12.29.32:500][  8]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.35:042][313]LogBlueprintUserMessages: [SlimeBlock5_2] 1
+[2021.04.29-12.29.36:309][465]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.37:677][629]LogBlueprintUserMessages: [SlimeBlock8] 1
+[2021.04.29-12.29.38:435][720]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.39:493][847]LogBlueprintUserMessages: [SlimeBlock6_7] 1
+[2021.04.29-12.29.40:244][937]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.04.29-12.29.43:292][300]LogBlueprintUserMessages: [SlimeBlock3_8] 1
+[2021.04.29-12.29.44:508][446]LogBlueprintUserMessages: [SlimeBlock8] 2
+[2021.04.29-12.29.45:793][600]LogBlueprintUserMessages: [CubeHit2_5] 1
+[2021.04.29-12.29.50:851][207]LogBlueprintUserMessages: [SlimeDash3] 1
+[2021.04.29-12.30.00:876][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.30.03:269][697]LogBlueprintUserMessages: [SlimeDoubleJump3_2] 1
+[2021.04.29-12.30.03:927][776]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.30.06:919][135]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.04.29-12.30.07:619][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.30.08:611][338]LogBlueprintUserMessages: [SlimeBlock2_5] 2
+[2021.04.29-12.30.10:419][555]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.04.29-12.30.12:195][768]LogBlueprintUserMessages: [SlimeBlock7_2] 2
+[2021.04.29-12.30.21:413][874]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.04.29-12.30.25:619][376]LogBlueprintUserMessages: [SlimeBlock2_5] 2
+[2021.04.29-12.30.27:570][610]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.04.29-12.30.27:670][622]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.04.29-12.30.27:978][659]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.04.29-12.30.32:162][161]LogBlueprintUserMessages: [SlimeBlock7_2] 2
+[2021.04.29-12.30.32:917][248]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.04.29-12.30.32:975][255]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.04.29-12.30.33:099][270]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.04.29-12.30.35:967][614]LogBlueprintUserMessages: [SlimeBlock2_5] 2
+[2021.04.29-12.30.38:517][920]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.04.29-12.30.38:659][937]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.04.29-12.30.44:353][618]LogBlueprintUserMessages: [FinalLevel4_2] level completed! entering next level
+[2021.04.29-12.30.46:352][858]LogNet: Browse: /Game/SlimeLordBP/Maps/Level5
+[2021.04.29-12.30.46:352][858]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level5
+[2021.04.29-12.30.46:352][858]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level4
+[2021.04.29-12.30.46:353][858]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.30.46:353][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.30.46:368][858]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.04.29-12.30.46:388][858]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.04.29-12.30.46:420][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.04.29-12.30.47:067][858]LogAIModule: Creating AISystem for world Level5
+[2021.04.29-12.30.47:068][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.30.47:077][858]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2021.04.29-14.30.47
+[2021.04.29-12.30.47:077][858]LogWorld: Bringing up level for play took: 0.008404
+[2021.04.29-12.30.47:583][858]LogLoad: Took 1.230793 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level5)
+[2021.04.29-12.30.53:706][590]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.04.29-12.30.54:308][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.30.54:422][665]LogBlueprintUserMessages: [Diana1_2] Pegado
+[2021.04.29-12.30.54:617][688]LogBlueprintUserMessages: [Diana1_2] Despeado
+[2021.04.29-12.30.59:131][228]LogBlueprintUserMessages: [SlimeDoubleJump_2] 1
+[2021.04.29-12.31.02:572][641]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.31.08:857][395]LogBlueprintUserMessages: [SlimeDoubleJump_2] 1
+[2021.04.29-12.31.14:866][116]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.31.17:350][414]LogBlueprintUserMessages: [SlimeShot2_5] 1
+[2021.04.29-12.31.32:853][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.31.58:598][354]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.04.29-12.32.05:582][189]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.32.06:055][246]LogBlueprintUserMessages: [FinalLevel5_2] level completed! entering next level
+[2021.04.29-12.32.08:057][486]LogNet: Browse: /Game/SlimeLordBP/Maps/Level6
+[2021.04.29-12.32.08:057][486]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level6
+[2021.04.29-12.32.08:057][486]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level5
+[2021.04.29-12.32.08:057][486]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.32.08:058][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.32.08:058][486]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.04.29-12.32.08:079][486]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.04.29-12.32.08:109][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.04.29-12.32.08:732][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:732][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:734][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:734][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:735][486]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:735][486]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:735][486]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:735][486]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:744][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.08:744][486]LoadErrors: Failed to load /Game/SlimeLordBP/Maps/Level6_BuiltData.Level6_BuiltData Referenced by PersistentLevel
+[2021.04.29-12.32.08:744][486]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level6.umap' failed to load '/Game/SlimeLordBP/Maps/Level6_BuiltData': Can't find file.
+[2021.04.29-12.32.09:195][486]LogAIModule: Creating AISystem for world Level6
+[2021.04.29-12.32.09:195][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.32.09:207][486]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level6.Level6 up for play (max tick rate 0) at 2021.04.29-14.32.09
+[2021.04.29-12.32.09:208][486]LogWorld: Bringing up level for play took: 0.010866
+[2021.04.29-12.32.09:210][486]LogLoad: Took 1.152888 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level6)
+[2021.04.29-12.32.14:066][ 66]LogBlueprintUserMessages: [SlimeDoubleJump2_2] 1
+[2021.04.29-12.32.14:482][116]LogBlueprintUserMessages: [SlimeDash2_2] 1
+[2021.04.29-12.32.15:440][231]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.32.16:166][318]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.32.27:230][644]LogBlueprintUserMessages: [SlimeShot3] 1
+[2021.04.29-12.32.27:489][675]LogBlueprintUserMessages: [SlimeShot2_5] 2
+[2021.04.29-12.32.27:814][714]LogBlueprintUserMessages: [SlimeShot4] 3
+[2021.04.29-12.32.29:048][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2021.04.29-12.32.33:009][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.32.35:345][614]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.32.39:761][144]LogBlueprintUserMessages: [SlimeDash3_5] 1
+[2021.04.29-12.32.39:786][147]LogBlueprintUserMessages: [SlimeDash5_14] 2
+[2021.04.29-12.32.41:237][321]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.32.41:962][408]LogBlueprintUserMessages: [SlimeDoubleJump_5] 1
+[2021.04.29-12.32.42:029][416]LogBlueprintUserMessages: [SlimeDash7] 2
+[2021.04.29-12.32.42:146][430]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.32.42:745][502]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.32.44:237][681]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.04.29-12.32.44:563][720]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.04.29-12.32.44:971][769]LogBlueprintUserMessages: [SlimeBlock2_5] 3
+[2021.04.29-12.32.45:904][881]LogBlueprintUserMessages: [HiteableCube_2] 2
+[2021.04.29-12.32.47:021][ 15]LogBlueprintUserMessages: [HiteableCube_2] 1
+[2021.04.29-12.32.48:025][134]LogBlueprintUserMessages: [HiteableCube_2] 0
+[2021.04.29-12.32.50:368][415]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.04.29-12.32.50:875][476]LogBlueprintUserMessages: [SlimeBlock3] 2
+[2021.04.29-12.32.51:400][539]LogBlueprintUserMessages: [SlimeBlock2_5] 3
+[2021.04.29-12.32.52:250][641]LogBlueprintUserMessages: [HiteableCube_2] 2
+[2021.04.29-12.32.53:376][776]LogBlueprintUserMessages: [HiteableCube_2] 1
+[2021.04.29-12.32.54:393][898]LogBlueprintUserMessages: [HiteableCube_2] 0
+[2021.04.29-12.32.56:726][178]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.04.29-12.32.56:759][182]LogBlueprintUserMessages: [SlimeBlock2_5] 2
+[2021.04.29-12.32.57:043][216]LogBlueprintUserMessages: [SlimeBlock3] 3
+[2021.04.29-12.32.59:093][462]LogBlueprintUserMessages: [HiteableCube_2] 2
+[2021.04.29-12.33.00:110][584]LogBlueprintUserMessages: [HiteableCube_2] 1
+[2021.04.29-12.33.02:185][833]LogBlueprintUserMessages: [FinalLevel6_2] level completed! entering next level
+[2021.04.29-12.33.04:186][ 73]LogNet: Browse: /Game/SlimeLordBP/Maps/Level7
+[2021.04.29-12.33.04:186][ 73]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level7
+[2021.04.29-12.33.04:186][ 73]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level6
+[2021.04.29-12.33.04:186][ 73]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.33.04:187][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.33.04:187][ 73]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.33.04:218][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.04.29-12.33.04:417][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:417][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:419][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:419][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:432][ 73]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:432][ 73]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:432][ 73]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:432][ 73]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:456][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:456][ 73]LoadErrors: Failed to load /Game/SlimeLordBP/Maps/Level7_BuiltData.Level7_BuiltData Referenced by PersistentLevel
+[2021.04.29-12.33.04:456][ 73]LogLinker: Warning: While loading 'D:/Unreal Engine/Slime Lord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Maps/Level7.umap' failed to load '/Game/SlimeLordBP/Maps/Level7_BuiltData': Can't find file.
+[2021.04.29-12.33.04:813][ 73]LogAIModule: Creating AISystem for world Level7
+[2021.04.29-12.33.04:813][ 73]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.33.04:945][ 73]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level7.Level7 up for play (max tick rate 0) at 2021.04.29-14.33.04
+[2021.04.29-12.33.04:945][ 73]LogWorld: Bringing up level for play took: 0.131488
+[2021.04.29-12.33.04:952][ 73]LogLoad: Took 0.767157 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level7)
+[2021.04.29-12.33.11:011][793]LogBlueprintUserMessages: [SlimeDash2_2] 1
+[2021.04.29-12.33.16:754][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.18:446][685]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.04.29-12.33.33:228][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.35:853][728]LogBlueprintUserMessages: [FinalLevel7_2] level completed! entering next level
+[2021.04.29-12.33.37:853][964]LogNet: Browse: /Game/SlimeLordBP/Maps/Level8
+[2021.04.29-12.33.37:853][964]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level8
+[2021.04.29-12.33.37:853][964]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level7
+[2021.04.29-12.33.37:854][964]LogWorld: UWorld::CleanupWorld for Level7, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.33.37:856][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.33.37:869][964]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.04.29-12.33.37:888][964]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.04.29-12.33.37:921][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.04.29-12.33.39:348][964]LogAIModule: Creating AISystem for world Level8
+[2021.04.29-12.33.39:348][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.33.39:399][964]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level8.Level8 up for play (max tick rate 0) at 2021.04.29-14.33.39
+[2021.04.29-12.33.39:399][964]LogWorld: Bringing up level for play took: 0.050872
+[2021.04.29-12.33.39:403][964]LogLoad: Took 1.549885 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level8)
+[2021.04.29-12.33.44:925][621]LogBlueprintUserMessages: [SlimeDoubleJump_2] 1
+[2021.04.29-12.33.47:376][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.47:425][921]LogBlueprintUserMessages: [SlimeDoubleJump7] 1
+[2021.04.29-12.33.47:501][930]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.04.29-12.33.48:476][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.48:593][ 61]LogBlueprintUserMessages: [SlimeDoubleJump2_5] 2
+[2021.04.29-12.33.48:601][ 62]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.04.29-12.33.48:885][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.33.49:710][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.49:743][199]LogBlueprintUserMessages: [SlimeDoubleJump3] 2
+[2021.04.29-12.33.49:826][209]LogBlueprintUserMessages: [SlimeDash3] 1
+[2021.04.29-12.33.50:185][252]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.33.50:985][348]LogBlueprintUserMessages: [SlimeDoubleJump4] 2
+[2021.04.29-12.33.51:043][355]LogBlueprintUserMessages: [SlimeDash4] 2
+[2021.04.29-12.33.51:135][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.33.51:401][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.33.52:553][536]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.53:369][634]LogBlueprintUserMessages: [SlimeDoubleJump5] 1
+[2021.04.29-12.33.53:686][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.54:594][781]LogBlueprintUserMessages: [SlimeDoubleJump6] 1
+[2021.04.29-12.33.54:619][784]LogBlueprintUserMessages: [SlimeDash6] 2
+[2021.04.29-12.33.54:769][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.33.54:770][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.01:188][572]LogBlueprintUserMessages: [PistonAgua_2] Water Up!
+[2021.04.29-12.34.01:230][577]LogBlueprintUserMessages: [AguaTrampa_2] agua sube
+[2021.04.29-12.34.03:145][807]LogBlueprintUserMessages: [SlimeBlock2] 1
+[2021.04.29-12.34.03:170][810]LogBlueprintUserMessages: [SlimeBlock_2] 2
+[2021.04.29-12.34.03:812][887]LogBlueprintUserMessages: [HiteableCubeRotative_5] 1
+[2021.04.29-12.34.04:812][  7]LogBlueprintUserMessages: [HiteableCubeRotative_5] 0
+[2021.04.29-12.34.05:343][ 23]LogBlueprintUserMessages: [TrampaPendulo_2] InTrigger
+[2021.04.29-12.34.07:066][230]LogBlueprintUserMessages: [SlimeBlock3] 1
+[2021.04.29-12.34.07:908][331]LogBlueprintUserMessages: [HiteableCubeRotative2] 0
+[2021.04.29-12.34.10:275][615]LogBlueprintUserMessages: [SlimeBlock10] 1
+[2021.04.29-12.34.11:260][731]LogBlueprintUserMessages: [HiteableCubeRotative2] 0
+[2021.04.29-12.34.11:376][745]LogBlueprintUserMessages: [TrampaPendulo2] InTrigger
+[2021.04.29-12.34.13:135][956]LogBlueprintUserMessages: [SlimeBlock6] 1
+[2021.04.29-12.34.13:168][960]LogBlueprintUserMessages: [SlimeBlock5] 2
+[2021.04.29-12.34.13:735][ 28]LogBlueprintUserMessages: [HiteableCubeRotative3] 1
+[2021.04.29-12.34.14:737][148]LogBlueprintUserMessages: [HiteableCubeRotative3] 0
+[2021.04.29-12.34.14:804][156]LogBlueprintUserMessages: [TrampaPendulo3] InTrigger
+[2021.04.29-12.34.16:369][344]LogBlueprintUserMessages: [SlimeBlock7] 1
+[2021.04.29-12.34.16:454][354]LogBlueprintUserMessages: [SlimeBlock12] 2
+[2021.04.29-12.34.17:088][430]LogBlueprintUserMessages: [HiteableCubeRotative4] 1
+[2021.04.29-12.34.18:087][550]LogBlueprintUserMessages: [HiteableCubeRotative4] 0
+[2021.04.29-12.34.18:230][567]LogBlueprintUserMessages: [TrampaPendulo4] InTrigger
+[2021.04.29-12.34.19:971][776]LogBlueprintUserMessages: [SlimeDoubleJump8_2] 1
+[2021.04.29-12.34.21:472][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.21:880][  5]LogBlueprintUserMessages: [SlimeDoubleJump9] 1
+[2021.04.29-12.34.22:005][ 20]LogBlueprintUserMessages: [SlimeDash7_2] 2
+[2021.04.29-12.34.22:505][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.22:522][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.22:679][101]LogBlueprintUserMessages: [SlimeDoubleJump10] 1
+[2021.04.29-12.34.22:722][106]LogBlueprintUserMessages: [SlimeDash8] 2
+[2021.04.29-12.34.23:163][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.24:030][263]LogBlueprintUserMessages: [SlimeDoubleJump11] 1
+[2021.04.29-12.34.24:064][267]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.24:072][268]LogBlueprintUserMessages: [SlimeDash9] 2
+[2021.04.29-12.34.24:413][309]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.25:197][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.25:763][471]LogBlueprintUserMessages: [SlimeDoubleJump12_8] 1
+[2021.04.29-12.34.26:613][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.27:414][669]LogBlueprintUserMessages: [SlimeDash11_8] 2
+[2021.04.29-12.34.27:972][736]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.29:489][918]LogBlueprintUserMessages: [SlimeDash12] 2
+[2021.04.29-12.34.30:040][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.30:255][ 10]LogBlueprintUserMessages: [SlimeDoubleJump13] 1
+[2021.04.29-12.34.30:930][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.31:364][143]LogBlueprintUserMessages: [SlimeDash13] 2
+[2021.04.29-12.34.32:415][269]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.33:981][457]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.04.29-12.34.35:191][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.04.29-12.34.38:976][ 50]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.04.29-12.34.45:127][788]LogBlueprintUserMessages: [SlimeShot2] 2
+[2021.04.29-12.34.46:385][939]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2021.04.29-12.34.51:606][514]LogNet: Browse: /Game/SlimeLordBP/Maps/Level8
+[2021.04.29-12.34.51:606][514]LogLoad: LoadMap: /Game/SlimeLordBP/Maps/Level8
+[2021.04.29-12.34.51:606][514]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level8
+[2021.04.29-12.34.51:607][514]LogWorld: UWorld::CleanupWorld for Level8, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.34.51:608][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.34.51:618][514]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.04.29-12.34.51:637][514]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.04.29-12.34.51:671][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.04.29-12.34.51:793][514]LogAIModule: Creating AISystem for world Level8
+[2021.04.29-12.34.51:793][514]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.34.51:843][514]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level8.Level8 up for play (max tick rate 0) at 2021.04.29-14.34.51
+[2021.04.29-12.34.51:843][514]LogWorld: Bringing up level for play took: 0.049415
+[2021.04.29-12.34.51:846][514]LogLoad: Took 0.240872 seconds to LoadMap(/Game/SlimeLordBP/Maps/Level8)
+[2021.04.29-12.34.53:616][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.34.53:616][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.34.53:616][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.34.53:617][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.34.53:617][723]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level8
+[2021.04.29-12.34.53:617][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.34.53:617][723]LogWorld: UWorld::CleanupWorld for Level8, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.34.53:618][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.34.53:626][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-12.34.53:626][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.34.53:631][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.34.53:659][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.34.53:662][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.34.53:667][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.29-12.34.53:720][726]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2021.04.29-12.36.26:803][549]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-12.36.26:814][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.36.26:814][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-12.36.26:814][549]PIE: New page: PIE session: Level1 (29 abr. 2021 16:36:26)
+[2021.04.29-12.36.26:814][549]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.36.26:837][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023499s)
+[2021.04.29-12.36.26:838][549]LogAIModule: Creating AISystem for world Level1
+[2021.04.29-12.36.26:839][549]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2021.04.29-12.36.26:839][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/Level1.Level1 to /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 (0.024624s)
+[2021.04.29-12.36.26:869][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-12.36.26:876][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-12.36.26:876][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-12.36.26:877][549]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-12.36.26:877][549]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Is Default: Yes
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: Channel Order:
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-12.36.26:922][549]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-12.36.26:934][549]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.29-12.36.26:936][549]LogInit: FAudioDevice initialized.
+[2021.04.29-12.36.26:947][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.36.26:952][549]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.29-14.36.26
+[2021.04.29-12.36.26:952][549]LogWorld: Bringing up level for play took: 0.004258
+[2021.04.29-12.36.26:952][549]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2021.04.29-12.36.26:955][549]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1 0,656
+[2021.04.29-12.36.26:956][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.36.33:698][352]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.36.33:698][352]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.36.33:698][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.36.33:698][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.36.33:698][352]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.36.33:698][352]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.36.33:698][352]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.36.33:699][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.36.33:704][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-12.36.33:704][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.36.33:709][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.36.33:737][352]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.36.33:739][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.36.33:744][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.29-12.36.33:798][355]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2021.04.29-12.36.58:355][212]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.29-12.36.58:366][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.36.58:367][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.29-12.36.58:367][212]PIE: New page: PIE session: Level1 (29 abr. 2021 16:36:58)
+[2021.04.29-12.36.58:367][212]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.36.58:390][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023043s)
+[2021.04.29-12.36.58:391][212]LogAIModule: Creating AISystem for world Level1
+[2021.04.29-12.36.58:391][212]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.04.29-12.36.58:391][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Maps/Level1.Level1 to /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 (0.024187s)
+[2021.04.29-12.36.58:421][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.29-12.36.58:425][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.29-12.36.58:425][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.29-12.36.58:426][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.29-12.36.58:426][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Name: Altavoces (High Definition Audio Device)
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Is Default: Yes
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: Channel Order:
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.29-12.36.58:470][212]LogAudioMixer: Display: 1: FrontRight
+[2021.04.29-12.36.58:481][212]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.29-12.36.58:482][212]LogInit: FAudioDevice initialized.
+[2021.04.29-12.36.58:489][212]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.29-12.36.58:494][212]LogWorld: Bringing World /Game/SlimeLordBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.04.29-14.36.58
+[2021.04.29-12.36.58:495][212]LogWorld: Bringing up level for play took: 0.004674
+[2021.04.29-12.36.58:495][212]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2021.04.29-12.36.58:499][212]PIE: Play in editor start time for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1 0,2
+[2021.04.29-12.36.58:499][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.37.21:958][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.37.21:958][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.37.21:959][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.37.21:959][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.37.21:959][ 15]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Maps/UEDPIE_0_Level1
+[2021.04.29-12.37.21:959][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.37.21:959][ 15]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.29-12.37.21:960][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.37.21:970][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.29-12.37.21:971][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.04.29-12.37.21:975][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.29-12.37.22:001][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.04.29-12.37.22:004][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.29-12.37.22:008][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.29-12.37.22:066][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_98
