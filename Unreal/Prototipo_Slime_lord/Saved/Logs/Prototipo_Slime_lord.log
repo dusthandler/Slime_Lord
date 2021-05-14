@@ -2278,3 +2278,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-21.06.09:582][138]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-21.06.09:582][138]LogContentValidation: Display: Validating StaticMesh /Game/Models/ZonaAlta/Rey-trono/Butaca/Butaca_nordran.Butaca_nordran
 [2021.05.14-21.06.09:582][138]LogContentValidation: Display: Validating StaticMesh /Game/Models/ZonaAlta/Rey-trono/Rey/Nordran_final.Nordran_final
+[2021.05.14-21.07.13:670][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.05.14-21.07.14:304][ 57]LogSlate: Window 'Prototipo_Slime_lord - Unreal Editor' being destroyed
+[2021.05.14-21.07.14:403][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel.Level10' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level10.Level10_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel.Level10'
+[2021.05.14-21.07.14:403][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-21.07.14:403][ 57]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level10
+[2021.05.14-21.07.14:404][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.14-21.07.14:404][ 57]LogWorld: UWorld::CleanupWorld for Level10, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-21.07.14:415][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-21.07.14:424][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.14-21.07.14:424][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel.Level10' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level10.Level10_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level10.Level10:PersistentLevel.Level10'
+[2021.05.14-21.07.14:429][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-21.07.14:462][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.14-21.07.14:467][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-21.07.14:472][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.05.14-21.07.14:618][ 58]Cmd: QUIT_EDITOR
+[2021.05.14-21.07.14:618][ 58]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.05.14-21.07.14:659][ 58]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.05.14-21.07.14:660][ 58]LogAudioMixer: Display: No commands were queued while flushing the source manager.
