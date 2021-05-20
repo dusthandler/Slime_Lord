@@ -7442,3 +7442,376 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.05.20-20.43.08:563][117]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.20-20.43.08:563][117]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level4.Level4
 [2021.05.20-20.43.08:563][117]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Niveles/Level4_BuiltData.Level4_BuiltData
+[2021.05.20-20.46.41:004][ 12]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint21)
+[2021.05.20-20.46.42:246][145]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint22)
+[2021.05.20-20.47.29:786][460]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint21)
+[2021.05.20-20.47.30:917][579]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint19)
+[2021.05.20-20.47.47:555][633]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint21)
+[2021.05.20-20.47.48:989][781]Cmd: DELETE
+[2021.05.20-20.47.48:989][781]Cmd: ACTOR DELETE
+[2021.05.20-20.47.49:001][781]LogEditorActor: Deleted Actor: NewBlueprint1_C
+[2021.05.20-20.47.49:077][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.05.20-20.47.49:079][781]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2021.05.20-20.47.52:078][136]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint22)
+[2021.05.20-20.47.53:311][269]Cmd: DELETE
+[2021.05.20-20.47.53:312][269]Cmd: ACTOR DELETE
+[2021.05.20-20.47.53:322][269]LogEditorActor: Deleted Actor: NewBlueprint1_C
+[2021.05.20-20.47.53:362][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.05.20-20.47.53:363][269]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.05.20-20.47.56:194][432]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint29)
+[2021.05.20-20.47.56:958][511]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint28)
+[2021.05.20-20.47.57:573][570]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint27)
+[2021.05.20-20.47.57:987][607]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint30)
+[2021.05.20-20.47.58:488][644]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint24)
+[2021.05.20-20.47.58:907][682]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint23)
+[2021.05.20-20.47.59:281][713]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint26)
+[2021.05.20-20.47.59:701][750]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint25)
+[2021.05.20-20.48.12:862][471]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-20.48.12:888][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.48.12:889][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-20.48.12:889][471]PIE: New page: PIE session: Level4 (May 21, 2021, 12:48:12 AM)
+[2021.05.20-20.48.12:889][471]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-20.48.12:950][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061139s)
+[2021.05.20-20.48.12:952][471]LogAIModule: Creating AISystem for world Level4
+[2021.05.20-20.48.12:953][471]LogPlayLevel: PIE: World Init took: (0.002637s)
+[2021.05.20-20.48.12:953][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level4.Level4 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 (0.064135s)
+[2021.05.20-20.48.13:001][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-20.48.13:003][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-20.48.13:003][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-20.48.13:004][471]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-20.48.13:004][471]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-20.48.13:018][471]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Is Default: Yes
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: Channel Order:
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-20.48.13:019][471]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-20.48.13:033][471]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.20-20.48.13:035][471]LogInit: FAudioDevice initialized.
+[2021.05.20-20.48.13:050][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.20-20.48.13:065][471]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2021.05.20-22.48.13
+[2021.05.20-20.48.13:065][471]LogWorld: Bringing up level for play took: 0.013899
+[2021.05.20-20.48.13:065][471]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.20-20.48.13:073][471]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4 -0.257
+[2021.05.20-20.48.13:073][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.48.21:498][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.48.21:498][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.48.21:498][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.48.21:499][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-20.48.21:499][930]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-20.48.21:499][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.48.21:499][930]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-20.48.21:502][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.48.21:546][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-20.48.21:546][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.48.21:552][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.48.21:591][930]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.48.21:595][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-20.48.21:603][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.20-20.48.21:627][931]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.20-20.48.41:363][359]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint19)
+[2021.05.20-20.48.41:909][388]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint25)
+[2021.05.20-20.48.42:317][426]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint29)
+[2021.05.20-20.48.42:663][451]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint28)
+[2021.05.20-20.48.42:962][464]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint26)
+[2021.05.20-20.48.43:279][485]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint27)
+[2021.05.20-20.48.43:535][504]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint23)
+[2021.05.20-20.48.47:308][671]Cmd: TRANSACTION UNDO
+[2021.05.20-20.48.47:309][671]LogEditorTransaction: Undo Move Actors
+[2021.05.20-20.48.47:335][671]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.20-20.48.47:359][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.05.20-20.48.47:359][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.05.20-20.48.47:359][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.05.20-20.48.47:359][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.05.20-20.48.47:837][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.05.20-20.48.47:859][684]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.05.20-20.48.47:958][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.20-20.48.48:113][702]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.05.20-20.48.48:131][703]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint24)
+[2021.05.20-20.48.48:208][703]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.05.20-20.48.48:285][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.05.20-20.48.48:405][707]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.05.20-20.48.48:511][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.05.20-20.48.48:543][714]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint30)
+[2021.05.20-20.48.48:702][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.05.20-20.48.48:724][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.05.20-20.48.48:782][717]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.05.20-20.48.49:465][754]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.05.20-20.48.49:653][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.05.20-20.48.49:751][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.05.20-20.48.49:751][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.05.20-20.48.49:965][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.20-20.48.50:240][774]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.05.20-20.48.50:486][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.20-20.48.50:587][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.20-20.48.50:670][794]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.20-20.48.51:360][817]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.05.20-20.48.51:360][817]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.05.20-20.48.51:360][817]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.05.20-20.48.51:361][817]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.05.20-20.48.51:361][817]MaterialEditorStats: Texture samplers: 6/16
+[2021.05.20-20.48.51:361][817]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2021.05.20-20.48.51:361][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.20-20.52.33:775][834]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint26)
+[2021.05.20-20.52.34:457][895]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint28)
+[2021.05.20-20.52.34:777][917]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint27)
+[2021.05.20-20.52.35:099][928]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint23)
+[2021.05.20-20.52.35:470][945]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint30)
+[2021.05.20-20.52.35:822][967]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint24)
+[2021.05.20-20.52.36:607][ 50]Cmd: DELETE
+[2021.05.20-20.52.36:607][ 50]Cmd: ACTOR DELETE
+[2021.05.20-20.52.36:619][ 50]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2021.05.20-20.52.36:620][ 50]LogEditorActor: Deleted Actor: NewBlueprint1_C
+[2021.05.20-20.52.36:621][ 50]LogEditorActor: Deleted Actor: NewBlueprint1_C
+[2021.05.20-20.52.36:621][ 50]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2021.05.20-20.52.36:622][ 50]LogEditorActor: Deleted Actor: NewBlueprint1_C
+[2021.05.20-20.52.36:623][ 50]LogEditorActor: Deleted Actor: NewBlueprint_C
+[2021.05.20-20.52.36:720][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.05.20-20.52.36:724][ 50]LogEditorActor: Deleted 6 Actors (0.117 secs)
+[2021.05.20-20.52.39:782][269]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint29)
+[2021.05.20-20.52.40:130][297]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint_C (NewBlueprint25)
+[2021.05.20-20.52.40:565][338]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint19)
+[2021.05.20-20.53.09:350][208]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint25)
+[2021.05.20-20.53.09:997][245]LogEditorViewport: Clicking on Actor (CTRL LMB): NewBlueprint1_C (NewBlueprint29)
+[2021.05.20-20.53.33:474][694]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint20)
+[2021.05.20-20.53.57:959][262]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint30)
+[2021.05.20-20.53.59:242][402]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-20.53.59:275][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.53.59:275][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-20.53.59:275][402]PIE: New page: PIE session: Level4 (May 21, 2021, 12:53:59 AM)
+[2021.05.20-20.53.59:276][402]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-20.53.59:331][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055120s)
+[2021.05.20-20.53.59:334][402]LogAIModule: Creating AISystem for world Level4
+[2021.05.20-20.53.59:334][402]LogPlayLevel: PIE: World Init took: (0.002480s)
+[2021.05.20-20.53.59:334][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level4.Level4 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 (0.057921s)
+[2021.05.20-20.53.59:384][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-20.53.59:387][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-20.53.59:387][402]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-20.53.59:387][402]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-20.53.59:400][402]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.20-20.53.59:400][402]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: Is Default: Yes
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: Channel Order:
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-20.53.59:401][402]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-20.53.59:417][402]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.20-20.53.59:420][402]LogInit: FAudioDevice initialized.
+[2021.05.20-20.53.59:426][402]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.20-20.53.59:439][402]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2021.05.20-22.53.59
+[2021.05.20-20.53.59:439][402]LogWorld: Bringing up level for play took: 0.013246
+[2021.05.20-20.53.59:440][402]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.05.20-20.53.59:447][402]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4 0.118
+[2021.05.20-20.53.59:447][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.54.25:771][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.54.25:787][314]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.05.20-20.54.25:807][314]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.05.20-20.54.25:807][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.54.25:808][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-20.54.25:808][314]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-20.54.25:808][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.54.25:808][314]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-20.54.25:811][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.54.25:824][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-20.54.25:824][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-20.54.25:830][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.54.25:867][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-20.54.25:871][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-20.54.25:879][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.05.20-20.54.25:904][315]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.20-20.54.35:377][966]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint1_C (NewBlueprint20)
+[2021.05.20-20.55.14:530][402]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1793)].
+[2021.05.20-20.55.14:586][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.20-20.55.15:088][402]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level4_Auto96C4D962048DA10CC4F0DA1B0E190E547.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level4_Auto9.umap'
+[2021.05.20-20.55.15:090][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level4' took 0.543
+[2021.05.20-20.55.15:090][402]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.543
+[2021.05.20-20.55.23:167][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.05.20-20.55.23:250][213]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared1.SKEL_pared1_C' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint1.PackageMetaData'
+[2021.05.20-20.55.23:251][213]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared1.pared1_C' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint1.PackageMetaData'
+[2021.05.20-20.55.23:344][213]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/pared1E6C9CA984AF5468EA956A2A7AF557297.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/pared1.uasset'
+[2021.05.20-20.55.23:357][213]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/NewBlueprint16E2EF9AB46BFA919DC93C2961DA628FC.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/NewBlueprint1.uasset'
+[2021.05.20-20.55.23:448][213]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-20.55.23:448][213]LogContentValidation: Display: Validating Blueprint /Game/Models/ZonaMedia/Paredes_media/pared1.pared1
+[2021.05.20-20.55.23:448][213]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/ZonaMedia/Paredes_media/NewBlueprint1.NewBlueprint1
+[2021.05.20-20.55.23:448][213]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/ZonaMedia/Paredes_media/NewBlueprint1.NewBlueprint1_C
+[2021.05.20-20.55.32:533][129]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.SKEL_pared_baja_C' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja_C' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:629][129]LogMetaData: Removing '/Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Models/ZonaMedia/Paredes_media/NewBlueprint.PackageMetaData'
+[2021.05.20-20.55.32:724][129]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/pared_bajaB4DB37DD4DD2A842B4C135ACD921579E.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/pared_baja.uasset'
+[2021.05.20-20.55.32:738][129]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/NewBlueprintF44AF7B34489C88E3B546180496C3F10.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/NewBlueprint.uasset'
+[2021.05.20-20.55.32:842][129]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-20.55.32:842][129]LogContentValidation: Display: Validating Blueprint /Game/Models/ZonaMedia/Paredes_media/pared_baja.pared_baja
+[2021.05.20-20.55.32:842][129]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/ZonaMedia/Paredes_media/NewBlueprint.NewBlueprint
+[2021.05.20-20.55.32:842][129]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/ZonaMedia/Paredes_media/NewBlueprint.NewBlueprint_C
+[2021.05.20-20.55.43:516][764]LogEditorViewport: Clicking on Actor (LMB): pared_baja_C (pared_baja)
+[2021.05.20-20.55.44:197][827]Cmd: DELETE
+[2021.05.20-20.55.44:197][827]Cmd: ACTOR DELETE
+[2021.05.20-20.55.44:206][827]LogEditorActor: Deleted Actor: pared_baja_C
+[2021.05.20-20.55.44:251][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.05.20-20.55.44:252][827]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.05.20-20.56.03:254][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.20-20.56.05:504][375]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/ZonaMedia/Paredes_media/pared2.pared2
+[2021.05.20-20.56.16:630][548]BlueprintLog: New page: Compile pared2
+[2021.05.20-20.56.17:007][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.05.20-20.56.17:773][629]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/pared27751FCAB4156FD25B086E7B55B81F52B.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/pared2.uasset'
+[2021.05.20-20.56.17:793][629]AssetCheck: New page: Asset Save: pared2
+[2021.05.20-20.56.17:793][629]LogContentValidation: Display: Validating Blueprint /Game/Models/ZonaMedia/Paredes_media/pared2.pared2
+[2021.05.20-20.56.22:898][171]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-20.56.22:898][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.56.24:171][303]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.20-20.56.24:171][303]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-20.56.24:171][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.56.28:159][691]LogMaterialEditor: Saving and Compiling material fondo
+[2021.05.20-20.56.28:708][691]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.05.20-20.56.28:760][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.05.20-20.56.28:760][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.05.20-20.56.28:760][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.05.20-20.56.28:760][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.05.20-20.56.28:834][691]LogMaterial: Display: Missing cached shader map for material fondo, compiling. 
+[2021.05.20-20.56.29:148][691]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2021.05.20-20.56.29:180][691]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 65
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.05.20-20.56.32:036][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.05.20-20.56.32:047][691]TextureStreamingBuild: Display: Compiling optional shaders took 2.891 seconds.
+[2021.05.20-20.56.32:091][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.20-20.56.32:112][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.05.20-20.56.37:084][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.05.20-20.56.37:085][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.05.20-20.56.37:156][691]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/fondo559B66C94DCAFFC349507EB33F8D4535.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo.uasset'
+[2021.05.20-20.56.37:190][691]AssetCheck: New page: Asset Save: fondo
+[2021.05.20-20.56.37:190][691]LogContentValidation: Display: Validating Material /Game/Models/ZonaMedia/Paredes_media/fondo.fondo
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Texture samplers: 7/16
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2021.05.20-20.56.37:199][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.20-20.56.38:980][856]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-20.56.38:980][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-20.56.50:621][298]LogEditorViewport: Clicking on Actor (LMB): pared1_C (NewBlueprint30)
+[2021.05.20-20.56.52:646][393]Cmd: DELETE
+[2021.05.20-20.56.52:646][393]Cmd: ACTOR DELETE
+[2021.05.20-20.56.52:656][393]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.20-20.56.52:703][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.05.20-20.56.52:705][393]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.05.20-20.56.53:274][458]LogEditorViewport: Clicking on Actor (LMB): pared1_C (NewBlueprint29)
+[2021.05.20-20.56.53:401][464]Cmd: DELETE
+[2021.05.20-20.56.53:401][464]Cmd: ACTOR DELETE
+[2021.05.20-20.56.53:409][464]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.20-20.56.53:445][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.05.20-20.56.53:446][464]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.05.20-20.57.34:854][534]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared2)
+[2021.05.20-20.57.52:442][843]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared2)
+[2021.05.20-20.58.03:932][ 66]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared2)
+[2021.05.20-20.58.27:211][543]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared3)
+[2021.05.20-20.58.47:653][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.05.20-20.58.50:453][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/ZonaMedia/Paredes_media/pared_baja2.pared_baja2
+[2021.05.20-20.59.35:520][792]BlueprintLog: New page: Compile pared_baja2
+[2021.05.20-20.59.36:029][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.05.20-20.59.54:019][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.05.20-20.59.54:493][973]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level42D0459AF4195AC23DA5DBC8488D361DB.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level4.umap'
+[2021.05.20-20.59.54:985][973]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level4_BuiltData0CEBAF86418DEF1CF78B7A837AAE8AB5.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level4_BuiltData.uasset'
+[2021.05.20-20.59.55:012][973]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-20.59.55:013][973]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level4.Level4
+[2021.05.20-20.59.55:013][973]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Niveles/Level4_BuiltData.Level4_BuiltData
+[2021.05.20-21.00.07:225][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.05.20-21.00.07:746][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/liston_DefaultMaterial_Normal7FA7A6AE4D7FD40B6659CF8C5C88C09E.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_Normal.uasset'
+[2021.05.20-21.00.07:792][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/liston_DefaultMaterial_Height029FFA24410683D5C9FF5A9DE7137A77.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_Height.uasset'
+[2021.05.20-21.00.07:800][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/lowpolyAB6BE0824D7DA89F2AFB0B89632E9401.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/lowpoly.uasset'
+[2021.05.20-21.00.07:817][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/PiedrasBEFFEAEF4D7C9E96DAC8BEAEB445191C.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/Piedras.uasset'
+[2021.05.20-21.00.07:832][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/listonmatAF61E0EC492B4D51AF9D4DAF6F0BCD4C.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/listonmat.uasset'
+[2021.05.20-21.00.07:847][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/topemat3C3793EB458DEB56FB127D8DAA12D637.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/topemat.uasset'
+[2021.05.20-21.00.08:002][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/liston_DefaultMaterial_Occlusion77F064424373CADD4501AAADA65CE74F.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2021.05.20-21.00.08:169][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/liston_DefaultMaterial_BaseColorC5AAC93A4F91DFA2777488A22707576D.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_BaseColor.uasset'
+[2021.05.20-21.00.08:176][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/liston2F7067C2C4C979936E17D3AAC83AD5E14.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/liston2.uasset'
+[2021.05.20-21.00.08:186][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/tope12874E1324FCFEDC7EB675992B91C82D9.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/tope1.uasset'
+[2021.05.20-21.00.08:364][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/tope_DefaultMaterial_BaseColor372752A94B61101E1E0D61AAE0055854.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_BaseColor.uasset'
+[2021.05.20-21.00.08:414][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/tope_DefaultMaterial_HeightCFFA5F6E4B8959DCB12B1EBF0A10249B.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_Height.uasset'
+[2021.05.20-21.00.08:878][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/tope_DefaultMaterial_Normal8150DB2C4D29008197BFC8AA46F5CEB8.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_Normal.uasset'
+[2021.05.20-21.00.09:010][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/tope_DefaultMaterial_OcclusionRo031CC88B4B11BA2E95C848A4403A2F6A.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2021.05.20-21.00.09:315][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/lowpoly_DefaultMaterial_Occlusio76CA7CD94E678DB55213519EA8DA49B0.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2021.05.20-21.00.09:361][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/lowpoly_DefaultMaterial_Height7400D4E34800CF7B7165639F071F1BA1.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_Height.uasset'
+[2021.05.20-21.00.09:923][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/lowpoly_DefaultMaterial_Normal187E6F664A2F031A544262AAC8F375C9.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_Normal.uasset'
+[2021.05.20-21.00.10:089][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/memesB6DE9F4241E2C5E64122E492FE49D200.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/Piedrastext/memes.uasset'
+[2021.05.20-21.00.10:149][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TexturesCom_Plaster_Rough_1K_aoBC23D3D847B4C132B4713AB76FF8F355.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_ao.uasset'
+[2021.05.20-21.00.10:194][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TexturesCom_Plaster_Rough_1K_heiCB98648E45EEA298C5928F8BB1AA0788.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_height.uasset'
+[2021.05.20-21.00.10:725][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TexturesCom_Plaster_Rough_1K_norF778766C4EC540835E6AAFBBD25E643E.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_normal.uasset'
+[2021.05.20-21.00.10:790][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TexturesCom_Plaster_Rough_1K_rou14C810E1417D24C84FC673B4F4FC1FD8.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_roughness.uasset'
+[2021.05.20-21.00.10:843][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/TexturesCom_Plaster_Rough_1K_alb6550E3944300A14EB977FB9E29331CBF.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_albedo.uasset'
+[2021.05.20-21.00.10:887][156]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/pared_baja2BF7796384338EFD210F4669867000423.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/Models/ZonaMedia/Paredes_media/pared_baja2.uasset'
+[2021.05.20-21.00.11:140][156]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-21.00.11:140][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_Normal.liston_DefaultMaterial_Normal
+[2021.05.20-21.00.11:140][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_Height.liston_DefaultMaterial_Height
+[2021.05.20-21.00.11:140][156]LogContentValidation: Display: Validating StaticMesh /Game/Models/ZonaMedia/Paredes_media/lowpoly.lowpoly
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Material /Game/Models/ZonaMedia/Paredes_media/Piedras.Piedras
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Material /Game/Models/ZonaMedia/Paredes_media/listonmat.listonmat
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Material /Game/Models/ZonaMedia/Paredes_media/topemat.topemat
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_OcclusionRoughnessMetallic.liston_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/listontext/liston_DefaultMaterial_BaseColor.liston_DefaultMaterial_BaseColor
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating StaticMesh /Game/Models/ZonaMedia/Paredes_media/liston2.liston2
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating StaticMesh /Game/Models/ZonaMedia/Paredes_media/tope1.tope1
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_BaseColor.tope_DefaultMaterial_BaseColor
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_Height.tope_DefaultMaterial_Height
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_Normal.tope_DefaultMaterial_Normal
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/topetextr/tope_DefaultMaterial_OcclusionRoughnessMetallic.tope_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_OcclusionRoughnessMetallic.lowpoly_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_Height.lowpoly_DefaultMaterial_Height
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/Piedrastext/lowpoly_DefaultMaterial_Normal.lowpoly_DefaultMaterial_Normal
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/Piedrastext/memes.memes
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_ao.TexturesCom_Plaster_Rough_1K_ao
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_height.TexturesCom_Plaster_Rough_1K_height
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_normal.TexturesCom_Plaster_Rough_1K_normal
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_roughness.TexturesCom_Plaster_Rough_1K_roughness
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Texture2D /Game/Models/ZonaMedia/Paredes_media/fondo/TexturesCom_Plaster_Rough_1K_albedo.TexturesCom_Plaster_Rough_1K_albedo
+[2021.05.20-21.00.11:141][156]LogContentValidation: Display: Validating Blueprint /Game/Models/ZonaMedia/Paredes_media/pared_baja2.pared_baja2
