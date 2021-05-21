@@ -10016,3 +10016,1603 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.05.20-22.56.29:459][760]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.20-22.56.29:459][760]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level4.Level4
 [2021.05.20-22.56.29:459][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Niveles/Level4_BuiltData.Level4_BuiltData
+[2021.05.20-23.00.12:053][893]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.20-23.00.12:077][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-23.00.12:077][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.20-23.00.12:077][893]PIE: New page: PIE session: Level4 (May 21, 2021, 3:00:12 AM)
+[2021.05.20-23.00.12:077][893]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-23.00.12:196][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118778s)
+[2021.05.20-23.00.12:198][893]LogAIModule: Creating AISystem for world Level4
+[2021.05.20-23.00.12:198][893]LogPlayLevel: PIE: World Init took: (0.001669s)
+[2021.05.20-23.00.12:198][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level4.Level4 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 (0.120753s)
+[2021.05.20-23.00.12:237][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.05.20-23.00.12:245][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.20-23.00.12:246][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.20-23.00.12:246][893]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.20-23.00.12:246][893]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.20-23.00.12:259][893]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.20-23.00.12:259][893]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.20-23.00.12:259][893]LogAudioMixer: Display: Is Default: Yes
+[2021.05.20-23.00.12:259][893]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.20-23.00.12:259][893]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.20-23.00.12:260][893]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.20-23.00.12:260][893]LogAudioMixer: Display: Channel Order:
+[2021.05.20-23.00.12:260][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.20-23.00.12:260][893]LogAudioMixer: Display: 1: FrontRight
+[2021.05.20-23.00.12:275][893]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.20-23.00.12:278][893]LogInit: FAudioDevice initialized.
+[2021.05.20-23.00.12:289][893]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.20-23.00.12:340][893]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2021.05.21-01.00.12
+[2021.05.20-23.00.12:340][893]LogWorld: Bringing up level for play took: 0.051046
+[2021.05.20-23.00.12:340][893]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.05.20-23.00.12:347][893]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4 1.018
+[2021.05.20-23.00.12:347][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-23.00.22:487][ 12]LogBlueprintUserMessages: [SlimeBlock_2] 1
+[2021.05.20-23.00.23:819][161]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.05.20-23.00.25:829][381]LogBlueprintUserMessages: [SlimeBlock4_11] 1
+[2021.05.20-23.00.27:565][572]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.05.20-23.00.32:955][178]LogBlueprintUserMessages: [SlimeBlock4_11] 1
+[2021.05.20-23.00.33:234][210]LogBlueprintUserMessages: [SlimeBlock_2] 2
+[2021.05.20-23.00.35:402][455]LogBlueprintUserMessages: [CubeHit2_5] 1
+[2021.05.20-23.00.36:929][624]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.05.20-23.00.37:983][737]LogBlueprintUserMessages: [SlimeBlock3_8] 1
+[2021.05.20-23.00.38:613][804]LogBlueprintUserMessages: [SlimeBlock5_2] 2
+[2021.05.20-23.00.39:075][857]LogBlueprintUserMessages: [SlimeBlock8] 3
+[2021.05.20-23.00.39:449][900]LogBlueprintUserMessages: [SlimeBlock6_7] 4
+[2021.05.20-23.00.44:151][419]LogBlueprintUserMessages: [CubeHit2_5] 3
+[2021.05.20-23.00.45:664][586]LogBlueprintUserMessages: [CubeHit2_5] 2
+[2021.05.20-23.00.47:174][755]LogBlueprintUserMessages: [CubeHit2_5] 1
+[2021.05.20-23.00.48:839][942]LogBlueprintUserMessages: [SlimeBlock6_7] 2
+[2021.05.20-23.00.50:284][105]LogBlueprintUserMessages: [CubeHit2_5] 1
+[2021.05.20-23.00.51:788][274]LogBlueprintUserMessages: [CubeHit2_5] 0
+[2021.05.20-23.00.57:976][982]LogBlueprintUserMessages: [SlimeDash3] 1
+[2021.05.20-23.00.59:490][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.05:292][818]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.11:691][529]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.12:675][642]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.05.20-23.01.13:875][779]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.16:073][ 19]LogBlueprintUserMessages: [SlimeBlock2_5] 1
+[2021.05.20-23.01.18:149][254]LogBlueprintUserMessages: [SlimeBlock7_2] 2
+[2021.05.20-23.01.24:966][969]LogBlueprintUserMessages: [CubeHit_2] 1
+[2021.05.20-23.01.26:474][139]LogBlueprintUserMessages: [CubeHit_2] 0
+[2021.05.20-23.01.27:043][203]LogBlueprintUserMessages: [PistonBloque_2] Bloque Activado
+[2021.05.20-23.01.41:170][810]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.42:221][928]LogBlueprintUserMessages: [SlimeDash2] 1
+[2021.05.20-23.01.43:127][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.20-23.01.49:983][819]LogBlueprintUserMessages: [FinalLevel4_2] level completed! entering next level
+[2021.05.20-23.01.51:986][ 42]LogNet: Browse: /Game/SlimeLordBP/Niveles/Level5
+[2021.05.20-23.01.51:987][ 42]LogLoad: LoadMap: /Game/SlimeLordBP/Niveles/Level5
+[2021.05.20-23.01.51:988][ 42]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level4
+[2021.05.20-23.01.51:988][ 42]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-23.01.51:997][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-23.01.51:997][ 42]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-23.01.52:041][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.05.20-23.01.52:277][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:278][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:286][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:287][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:288][ 42]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:288][ 42]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:288][ 42]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:288][ 42]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:302][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:302][ 42]LoadErrors: Failed to load /Game/SlimeLordBP/Niveles/Level5_BuiltData.Level5_BuiltData Referenced by PersistentLevel
+[2021.05.20-23.01.52:302][ 42]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.01.52:792][ 42]LogAIModule: Creating AISystem for world Level5
+[2021.05.20-23.01.52:793][ 42]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.20-23.01.52:806][ 42]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2021.05.21-01.01.52
+[2021.05.20-23.01.52:806][ 42]LogWorld: Bringing up level for play took: 0.012202
+[2021.05.20-23.01.52:814][ 42]LogLoad: Took 0.826619 seconds to LoadMap(/Game/SlimeLordBP/Niveles/Level5)
+[2021.05.20-23.01.53:888][157]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-23.01.53:888][157]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.05.20-23.01.53:908][157]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.05.20-23.01.53:908][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-23.01.53:909][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-23.01.53:909][157]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.20-23.01.53:909][157]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-23.01.53:909][157]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-23.01.53:910][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-23.01.53:919][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.20-23.01.53:920][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level4.Level4_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level4.Level4:PersistentLevel.Level4'
+[2021.05.20-23.01.53:926][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-23.01.53:961][157]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.20-23.01.53:965][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.20-23.01.53:972][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.05.20-23.01.54:011][158]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.05.20-23.02.01:191][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.05.20-23.02.02:093][760]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level4412B48E244354C09D814AC96B700C60A.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level4.umap'
+[2021.05.20-23.02.03:956][760]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level4_BuiltDataB950E7C24987FDCDF074D496BB6EA939.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level4_BuiltData.uasset'
+[2021.05.20-23.02.03:993][760]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.20-23.02.03:993][760]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level4.Level4
+[2021.05.20-23.02.03:993][760]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SlimeLordBP/Niveles/Level4_BuiltData.Level4_BuiltData
+[2021.05.20-23.02.33:947][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:948][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:951][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:951][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:952][660]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:952][660]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:952][660]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:953][660]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:966][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:966][660]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap' failed to load '/Game/SlimeLordBP/Niveles/Level5_BuiltData': Can't find file.
+[2021.05.20-23.02.33:996][660]LogAIModule: Creating AISystem for world Level5
+[2021.05.20-23.02.34:012][660]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.02.34:045][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.05.20-23.02.34:060][660]LightingResults: New page: Lighting Build
+[2021.05.20-23.02.34:061][660]LoadErrors: New page: Loading map: Level5.umap
+[2021.05.20-23.02.34:078][660]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2021.05.20-23.02.34:079][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.20-23.02.34:079][660]MapCheck: New page: Map Check
+[2021.05.20-23.02.34:079][660]LightingResults: New page: Lighting Build
+[2021.05.20-23.02.34:153][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.05.20-23.02.34:222][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.20-23.02.34:257][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.05.20-23.02.34:285][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.20-23.02.34:777][660]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.20-23.02.34:813][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.05.20-23.02.34:861][660]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.20-23.02.34:861][660]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2021.05.20-23.02.34:861][660]LogFileHelpers: Loading map 'Level5' took 0.811
+[2021.05.20-23.12.47:589][369]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja2)
+[2021.05.20-23.12.48:739][481]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared2)
+[2021.05.20-23.14.14:094][906]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja4)
+[2021.05.20-23.14.14:597][958]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared4)
+[2021.05.20-23.14.15:055][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared3)
+[2021.05.20-23.14.15:477][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja3)
+[2021.05.20-23.15.04:079][975]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja8)
+[2021.05.20-23.15.04:712][ 41]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared8)
+[2021.05.20-23.16.38:416][500]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja12)
+[2021.05.20-23.16.38:731][517]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared12)
+[2021.05.20-23.16.43:517][899]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja13)
+[2021.05.20-23.16.44:057][955]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared13)
+[2021.05.20-23.16.45:435][102]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja12)
+[2021.05.20-23.16.45:804][137]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared12)
+[2021.05.20-23.16.53:667][852]Cmd: SELECT NONE
+[2021.05.20-23.16.54:832][990]Cmd: TRANSACTION UNDO
+[2021.05.20-23.16.54:832][990]LogEditorTransaction: Undo Select None
+[2021.05.20-23.16.55:159][  3]Cmd: TRANSACTION UNDO
+[2021.05.20-23.16.55:159][  3]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.16.56:446][122]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja12)
+[2021.05.20-23.16.56:817][158]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared12)
+[2021.05.20-23.16.57:708][250]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared14)
+[2021.05.20-23.16.58:289][310]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja14)
+[2021.05.20-23.16.58:627][343]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja15)
+[2021.05.20-23.16.58:835][361]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared15)
+[2021.05.20-23.17.10:278][420]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja13)
+[2021.05.20-23.17.11:350][507]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared13)
+[2021.05.20-23.17.44:022][333]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared14)
+[2021.05.20-23.17.44:852][390]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja14)
+[2021.05.20-23.17.45:664][479]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared14)
+[2021.05.20-23.17.49:654][782]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja17)
+[2021.05.20-23.17.50:275][826]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared17)
+[2021.05.20-23.17.58:335][438]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja13)
+[2021.05.20-23.17.59:357][550]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared13)
+[2021.05.20-23.18.01:558][731]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared14)
+[2021.05.20-23.18.02:609][842]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja14)
+[2021.05.20-23.18.27:877][169]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja15)
+[2021.05.20-23.18.28:597][247]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared15)
+[2021.05.20-23.18.55:601][748]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja16)
+[2021.05.20-23.18.56:509][846]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared16)
+[2021.05.20-23.19.23:828][402]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared17)
+[2021.05.20-23.19.31:276][999]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja16)
+[2021.05.20-23.19.31:790][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja17)
+[2021.05.20-23.19.32:212][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared16)
+[2021.05.20-23.19.32:723][141]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja15)
+[2021.05.20-23.19.33:085][175]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared15)
+[2021.05.20-23.19.33:470][213]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared14)
+[2021.05.20-23.19.33:830][248]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja14)
+[2021.05.20-23.19.34:221][285]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja13)
+[2021.05.20-23.19.34:568][319]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared13)
+[2021.05.20-23.19.34:960][355]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja12)
+[2021.05.20-23.19.35:326][391]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared12)
+[2021.05.20-23.20.06:809][895]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja18)
+[2021.05.20-23.20.07:943][ 20]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared18)
+[2021.05.20-23.20.08:996][127]Cmd: DELETE
+[2021.05.20-23.20.08:996][127]Cmd: ACTOR DELETE
+[2021.05.20-23.20.09:016][127]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.20-23.20.09:017][127]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.20-23.20.09:256][127]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2021.05.20-23.20.09:268][127]LogEditorActor: Deleted 2 Actors (0.272 secs)
+[2021.05.20-23.20.10:339][253]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja19)
+[2021.05.20-23.20.11:096][334]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared19)
+[2021.05.20-23.20.32:249][445]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja20)
+[2021.05.20-23.20.33:333][561]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja23)
+[2021.05.20-23.20.33:924][623]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja22)
+[2021.05.20-23.20.34:255][655]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja21)
+[2021.05.20-23.20.34:675][697]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared21)
+[2021.05.20-23.20.35:014][727]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared20)
+[2021.05.20-23.20.35:424][769]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared22)
+[2021.05.20-23.20.37:617][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared23)
+[2021.05.20-23.20.40:503][305]Cmd: TRANSACTION UNDO
+[2021.05.20-23.20.40:503][305]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.20.41:169][344]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared22)
+[2021.05.20-23.21.33:206][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.20-23.21.33:783][886]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level525BBB4874080A4B8A495B29F6AEA31C3.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.21.33:875][886]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.21.33:875][886]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.26.34:483][254]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja23)
+[2021.05.20-23.26.35:012][283]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared23)
+[2021.05.20-23.26.35:334][309]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared22)
+[2021.05.20-23.26.35:644][336]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja22)
+[2021.05.20-23.26.35:981][365]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja21)
+[2021.05.20-23.26.36:313][394]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared21)
+[2021.05.20-23.27.08:501][ 99]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja24)
+[2021.05.20-23.27.59:572][838]LogEditorViewport: Clicking on Actor (LMB): PuertaDiana1_C (PuertaDiana1)
+[2021.05.20-23.28.00:629][954]LogEditorViewport: Clicking on Actor (CTRL LMB): Diana1_C (Diana1)
+[2021.05.20-23.28.14:407][271]Cmd: DELETE
+[2021.05.20-23.28.14:407][271]Cmd: ACTOR DELETE
+[2021.05.20-23.28.14:423][271]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.28.14:486][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.05.20-23.28.14:543][271]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2021.05.20-23.28.19:872][888]Cmd: DELETE
+[2021.05.20-23.28.19:872][888]Cmd: ACTOR DELETE
+[2021.05.20-23.28.19:883][888]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.28.19:921][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.05.20-23.28.19:976][888]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2021.05.20-23.28.25:654][419]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja26)
+[2021.05.20-23.28.26:214][476]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja25)
+[2021.05.20-23.28.26:584][510]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja24)
+[2021.05.20-23.28.27:111][563]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared24)
+[2021.05.20-23.28.27:487][598]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared25)
+[2021.05.20-23.28.27:851][634]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared26)
+[2021.05.20-23.29.59:244][825]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja35)
+[2021.05.20-23.29.59:693][863]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared35)
+[2021.05.20-23.30.00:218][912]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja34)
+[2021.05.20-23.30.00:723][963]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared34)
+[2021.05.20-23.30.23:105][504]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja38)
+[2021.05.20-23.30.23:464][522]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared38)
+[2021.05.20-23.30.23:894][560]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja37)
+[2021.05.20-23.30.24:189][587]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared37)
+[2021.05.20-23.31.21:773][890]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja43)
+[2021.05.20-23.31.22:174][927]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja42)
+[2021.05.20-23.31.22:573][968]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared43)
+[2021.05.20-23.31.22:938][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared42)
+[2021.05.20-23.31.23:376][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared41)
+[2021.05.20-23.31.23:765][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja41)
+[2021.05.20-23.31.24:104][118]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja40)
+[2021.05.20-23.31.24:467][154]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared40)
+[2021.05.20-23.31.24:966][204]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared39)
+[2021.05.20-23.31.25:337][242]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja39)
+[2021.05.20-23.31.25:706][279]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja38)
+[2021.05.20-23.31.26:133][322]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared38)
+[2021.05.20-23.31.26:615][370]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared37)
+[2021.05.20-23.31.27:009][408]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja37)
+[2021.05.20-23.31.27:388][445]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja36)
+[2021.05.20-23.31.27:787][486]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared36)
+[2021.05.20-23.31.28:350][544]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja35)
+[2021.05.20-23.31.28:763][586]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared35)
+[2021.05.20-23.31.29:375][651]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja34)
+[2021.05.20-23.31.30:007][718]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared34)
+[2021.05.20-23.31.35:191][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared33)
+[2021.05.20-23.31.35:755][144]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja33)
+[2021.05.20-23.32.27:539][876]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared49)
+[2021.05.20-23.32.30:671][192]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared48)
+[2021.05.20-23.32.33:465][418]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja48)
+[2021.05.20-23.32.34:266][505]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared48)
+[2021.05.20-23.32.35:460][636]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.20-23.32.36:224][720]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja49)
+[2021.05.20-23.32.38:642][911]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja47)
+[2021.05.20-23.32.39:105][958]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.20-23.32.39:716][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja46)
+[2021.05.20-23.32.40:204][ 71]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared46)
+[2021.05.20-23.32.40:922][147]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja45)
+[2021.05.20-23.32.41:378][190]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared45)
+[2021.05.20-23.33.20:592][984]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.20-23.33.24:182][317]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja54)
+[2021.05.20-23.33.25:534][472]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja55)
+[2021.05.20-23.33.26:761][613]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared54)
+[2021.05.20-23.33.27:899][741]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja53)
+[2021.05.20-23.33.28:410][796]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared53)
+[2021.05.20-23.33.29:095][869]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.20-23.33.31:515][126]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.20-23.33.37:561][628]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja51)
+[2021.05.20-23.33.38:346][715]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja50)
+[2021.05.20-23.33.40:055][902]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.20-23.34.02:936][616]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja50)
+[2021.05.20-23.34.03:924][716]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.20-23.34.04:892][826]Cmd: DELETE
+[2021.05.20-23.34.04:893][826]Cmd: ACTOR DELETE
+[2021.05.20-23.34.04:917][826]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.20-23.34.04:918][826]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.20-23.34.05:168][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.05.20-23.34.05:178][826]LogEditorActor: Deleted 2 Actors (0.285 secs)
+[2021.05.20-23.34.15:882][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.20-23.34.16:428][826]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5EC1E861E437D8772FB4F519804A86769.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.34.16:499][826]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.34.16:499][826]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.34.19:235][ 87]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared60)
+[2021.05.20-23.34.20:263][188]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja60)
+[2021.05.20-23.34.20:755][237]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja59)
+[2021.05.20-23.34.21:352][301]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared59)
+[2021.05.20-23.34.22:009][372]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja58)
+[2021.05.20-23.34.22:478][420]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared58)
+[2021.05.20-23.34.23:336][512]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja57)
+[2021.05.20-23.34.23:798][560]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared57)
+[2021.05.20-23.34.28:292][902]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared56)
+[2021.05.20-23.34.28:905][941]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja56)
+[2021.05.20-23.35.06:637][893]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja65)
+[2021.05.20-23.35.07:227][957]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared65)
+[2021.05.20-23.35.07:859][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja64)
+[2021.05.20-23.35.08:264][ 58]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared64)
+[2021.05.20-23.35.24:587][449]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja65)
+[2021.05.20-23.35.25:015][493]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared65)
+[2021.05.20-23.35.25:489][538]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared64)
+[2021.05.20-23.35.25:884][578]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja64)
+[2021.05.20-23.35.26:315][622]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja63)
+[2021.05.20-23.35.26:736][666]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared63)
+[2021.05.20-23.35.27:200][711]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja62)
+[2021.05.20-23.35.28:128][803]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja61)
+[2021.05.20-23.35.28:687][862]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared62)
+[2021.05.20-23.35.29:126][907]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared61)
+[2021.05.20-23.36.08:587][868]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja74)
+[2021.05.20-23.36.09:397][944]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared74)
+[2021.05.20-23.36.15:195][488]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja75)
+[2021.05.20-23.36.15:970][572]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared75)
+[2021.05.20-23.36.57:709][972]Cmd: TRANSACTION UNDO
+[2021.05.20-23.36.57:709][972]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.37.32:797][946]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared49)
+[2021.05.20-23.37.34:997][181]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja49)
+[2021.05.20-23.37.35:738][259]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.20-23.37.36:446][335]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja48)
+[2021.05.20-23.37.36:978][386]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared48)
+[2021.05.20-23.37.37:603][450]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja47)
+[2021.05.20-23.37.38:134][503]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.20-23.37.38:839][575]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja46)
+[2021.05.20-23.37.39:521][647]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared46)
+[2021.05.20-23.37.40:292][730]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja45)
+[2021.05.20-23.37.40:918][791]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared45)
+[2021.05.20-23.37.41:972][907]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja44)
+[2021.05.20-23.37.42:624][971]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared44)
+[2021.05.20-23.37.43:580][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja43)
+[2021.05.20-23.37.44:183][134]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared43)
+[2021.05.20-23.37.45:071][230]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja42)
+[2021.05.20-23.37.45:700][295]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared42)
+[2021.05.20-23.37.46:549][385]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja41)
+[2021.05.20-23.37.47:264][459]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared41)
+[2021.05.20-23.37.48:160][555]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared40)
+[2021.05.20-23.37.48:708][611]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared39)
+[2021.05.20-23.37.49:248][669]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared38)
+[2021.05.20-23.37.49:815][729]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared37)
+[2021.05.20-23.37.50:329][783]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared36)
+[2021.05.20-23.37.50:902][845]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared35)
+[2021.05.20-23.37.51:839][949]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared34)
+[2021.05.20-23.37.52:606][ 33]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared33)
+[2021.05.20-23.37.56:846][324]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja40)
+[2021.05.20-23.37.57:308][369]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja39)
+[2021.05.20-23.37.57:803][419]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja38)
+[2021.05.20-23.37.58:441][486]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja37)
+[2021.05.20-23.37.58:942][536]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja36)
+[2021.05.20-23.37.59:484][593]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja35)
+[2021.05.20-23.37.59:953][641]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja34)
+[2021.05.20-23.38.00:473][693]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja33)
+[2021.05.20-23.38.56:937][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.05.20-23.38.57:662][316]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level506F7B5C444E3A7E48327C7A9B9E19BBB.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.38.57:739][316]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.38.57:740][316]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.39.27:436][207]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja50)
+[2021.05.20-23.39.29:593][441]Cmd: TRANSACTION UNDO
+[2021.05.20-23.39.29:593][441]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.20-23.39.30:395][494]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.20-23.40.03:889][433]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja92)
+[2021.05.20-23.40.05:778][636]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared92)
+[2021.05.20-23.40.10:357][  9]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja91)
+[2021.05.20-23.40.12:242][210]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared91)
+[2021.05.20-23.40.13:511][342]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja90)
+[2021.05.20-23.40.14:598][455]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared90)
+[2021.05.20-23.41.03:218][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.05.20-23.41.03:900][661]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5B510C47C4F939A66937EE08E59DED8C3.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.41.03:968][661]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.41.03:968][661]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.42.45:849][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.05.20-23.42.46:503][354]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level501E493A944EB81ED7D73438FC0D67FC7.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.42.46:564][354]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.42.46:564][354]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.45.03:516][ 14]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja96)
+[2021.05.20-23.45.10:254][702]Cmd: TRANSACTION UNDO
+[2021.05.20-23.45.10:254][702]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.45.11:777][823]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared96)
+[2021.05.20-23.45.21:093][569]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja96)
+[2021.05.20-23.45.22:540][729]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared96)
+[2021.05.20-23.45.23:566][840]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared95)
+[2021.05.20-23.45.24:877][979]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja95)
+[2021.05.20-23.45.46:407][673]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja94)
+[2021.05.20-23.45.48:080][804]Cmd: TRANSACTION UNDO
+[2021.05.20-23.45.48:080][804]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.45.49:142][888]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared94)
+[2021.05.20-23.46.48:930][591]Cmd: TRANSACTION UNDO
+[2021.05.20-23.46.48:930][591]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.46.50:847][723]Cmd: TRANSACTION UNDO
+[2021.05.20-23.46.50:847][723]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.46.52:660][873]Cmd: TRANSACTION UNDO
+[2021.05.20-23.46.52:660][873]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.46.54:676][ 53]Cmd: TRANSACTION UNDO
+[2021.05.20-23.46.54:676][ 53]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.47.02:017][627]Cmd: TRANSACTION UNDO
+[2021.05.20-23.47.02:018][627]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.47.05:126][871]Cmd: TRANSACTION UNDO
+[2021.05.20-23.47.05:127][871]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.47.40:076][416]Cmd: DELETE
+[2021.05.20-23.47.40:076][416]Cmd: ACTOR DELETE
+[2021.05.20-23.47.40:097][416]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.47.40:217][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.05.20-23.47.40:271][416]LogEditorActor: Deleted 1 Actors (0.195 secs)
+[2021.05.20-23.47.48:574][237]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja99)
+[2021.05.20-23.47.50:111][409]Cmd: TRANSACTION UNDO
+[2021.05.20-23.47.50:111][409]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.20-23.47.51:223][504]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja99)
+[2021.05.20-23.47.52:528][646]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared99)
+[2021.05.20-23.47.53:693][768]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja98)
+[2021.05.20-23.47.54:352][837]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared98)
+[2021.05.20-23.48.12:523][441]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja98)
+[2021.05.20-23.48.17:887][847]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja99)
+[2021.05.20-23.48.18:635][928]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared99)
+[2021.05.20-23.48.55:058][236]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja99)
+[2021.05.20-23.48.56:022][342]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared99)
+[2021.05.20-23.48.57:542][507]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja98)
+[2021.05.20-23.48.58:765][639]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared97)
+[2021.05.20-23.48.59:800][736]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja97)
+[2021.05.20-23.49.02:510][ 12]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared97)
+[2021.05.20-23.49.03:544][120]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared98)
+[2021.05.20-23.49.06:029][379]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja98)
+[2021.05.20-23.49.31:303][240]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja96)
+[2021.05.20-23.49.32:441][365]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja95)
+[2021.05.20-23.49.32:897][409]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja94)
+[2021.05.20-23.49.33:708][492]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared94)
+[2021.05.20-23.49.34:231][545]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared95)
+[2021.05.20-23.49.34:690][591]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared96)
+[2021.05.20-23.50.14:560][457]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja94)
+[2021.05.20-23.50.15:789][537]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared94)
+[2021.05.20-23.50.33:125][936]LogEditorViewport: Clicking on Actor (LMB): PuertaDiana1_C (PuertaDiana1)
+[2021.05.20-23.50.35:224][162]LogEditorViewport: Clicking on Actor (CTRL LMB): Diana1_C (Diana1)
+[2021.05.20-23.50.50:906][444]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared99)
+[2021.05.20-23.52.19:896][ 74]Cmd: TRANSACTION UNDO
+[2021.05.20-23.52.19:897][ 74]LogEditorTransaction: Undo Set Scale
+[2021.05.20-23.52.24:802][432]Cmd: TRANSACTION UNDO
+[2021.05.20-23.52.24:802][432]LogEditorTransaction: Undo Set Rotation
+[2021.05.20-23.52.25:348][455]Cmd: TRANSACTION UNDO
+[2021.05.20-23.52.25:348][455]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.52.25:909][514]Cmd: TRANSACTION UNDO
+[2021.05.20-23.52.25:909][514]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.52.26:375][564]Cmd: TRANSACTION UNDO
+[2021.05.20-23.52.26:375][564]LogEditorTransaction: Undo Move Actors
+[2021.05.20-23.52.31:129][ 35]Cmd: TRANSACTION REDO
+[2021.05.20-23.52.31:130][ 35]LogEditorTransaction: Redo Move Actors
+[2021.05.20-23.52.51:891][629]LogEditorViewport: Clicking on Actor (LMB): pared3_C (pared101)
+[2021.05.20-23.52.56:562][ 11]LogEditorViewport: Clicking on Actor (LMB): Diana1_C (Diana1)
+[2021.05.20-23.53.08:267][826]LogEditorViewport: Clicking on Actor (LMB): pared3_C (pared101)
+[2021.05.20-23.53.21:045][261]LogEditorViewport: Clicking on Actor (LMB): pared3_C (pared101)
+[2021.05.20-23.53.22:425][416]Cmd: DELETE
+[2021.05.20-23.53.22:425][416]Cmd: ACTOR DELETE
+[2021.05.20-23.53.22:444][416]LogEditorActor: Deleted Actor: pared3_C
+[2021.05.20-23.53.22:528][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.20-23.53.22:539][416]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2021.05.20-23.53.28:932][908]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja26)
+[2021.05.20-23.53.29:493][965]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja25)
+[2021.05.20-23.53.30:076][ 20]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja24)
+[2021.05.20-23.53.30:575][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared24)
+[2021.05.20-23.53.31:009][111]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared25)
+[2021.05.20-23.53.31:466][155]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared26)
+[2021.05.20-23.53.45:635][154]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja103)
+[2021.05.20-23.53.49:370][438]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared103)
+[2021.05.20-23.53.55:716][919]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja102)
+[2021.05.20-23.53.56:710][ 24]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared102)
+[2021.05.20-23.54.04:986][640]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja101)
+[2021.05.20-23.54.05:458][683]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared101)
+[2021.05.20-23.55.18:728][912]Cmd: DELETE
+[2021.05.20-23.55.18:728][912]Cmd: ACTOR DELETE
+[2021.05.20-23.55.18:750][912]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.55.18:833][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.05.20-23.55.18:897][912]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2021.05.20-23.55.37:797][434]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja109)
+[2021.05.20-23.55.38:833][545]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared109)
+[2021.05.20-23.56.18:040][730]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja109)
+[2021.05.20-23.56.33:650][864]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja110)
+[2021.05.20-23.56.34:413][946]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared110)
+[2021.05.20-23.57.03:265][327]Cmd: DELETE
+[2021.05.20-23.57.03:265][327]Cmd: ACTOR DELETE
+[2021.05.20-23.57.03:286][327]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.57.03:328][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.05.20-23.57.03:375][327]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2021.05.20-23.57.09:652][831]Cmd: DELETE
+[2021.05.20-23.57.09:652][831]Cmd: ACTOR DELETE
+[2021.05.20-23.57.09:674][831]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.57.09:712][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.20-23.57.09:772][831]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2021.05.20-23.57.28:260][103]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared2)
+[2021.05.20-23.57.35:363][802]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja2)
+[2021.05.20-23.57.36:561][931]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared2)
+[2021.05.20-23.57.37:556][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja2)
+[2021.05.20-23.58.18:759][ 89]Cmd: DELETE
+[2021.05.20-23.58.18:759][ 89]Cmd: ACTOR DELETE
+[2021.05.20-23.58.18:783][ 89]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.58.18:828][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.05.20-23.58.18:871][ 89]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2021.05.20-23.58.25:086][629]Cmd: DELETE
+[2021.05.20-23.58.25:086][629]Cmd: ACTOR DELETE
+[2021.05.20-23.58.25:107][629]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.58.25:142][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.20-23.58.25:181][629]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2021.05.20-23.58.28:220][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.05.20-23.58.28:959][845]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5140EA4D3404F1247F13E109460806816.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.58.29:039][845]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.58.29:039][845]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.20-23.58.34:679][313]Cmd: DELETE
+[2021.05.20-23.58.34:679][313]Cmd: ACTOR DELETE
+[2021.05.20-23.58.34:700][313]LogEditorActor: Deleted Actor: Brush
+[2021.05.20-23.58.34:743][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.05.20-23.58.34:781][313]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2021.05.20-23.59.48:889][531]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2021.05.20-23.59.55:140][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.05.20-23.59.55:863][121]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level578C652C844FFC7447B2AFE928E632564.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.20-23.59.55:932][121]AssetCheck: New page: Asset Save: Level5
+[2021.05.20-23.59.55:932][121]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-00.00.37:384][870]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared30)
+[2021.05.21-00.00.38:602][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared31)
+[2021.05.21-00.00.39:106][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared32)
+[2021.05.21-00.00.39:951][139]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared96)
+[2021.05.21-00.00.40:396][179]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared95)
+[2021.05.21-00.00.40:778][215]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared94)
+[2021.05.21-00.01.35:207][467]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared126)
+[2021.05.21-00.01.39:686][843]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared125)
+[2021.05.21-00.01.40:593][938]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared124)
+[2021.05.21-00.01.41:585][ 41]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared121)
+[2021.05.21-00.01.42:048][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared122)
+[2021.05.21-00.01.42:491][126]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared123)
+[2021.05.21-00.02.23:671][117]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared117)
+[2021.05.21-00.02.24:294][181]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared116)
+[2021.05.21-00.02.24:700][218]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared115)
+[2021.05.21-00.02.25:183][264]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared120)
+[2021.05.21-00.02.25:687][312]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared119)
+[2021.05.21-00.02.26:068][347]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared118)
+[2021.05.21-00.02.54:361][759]Cmd: TRANSACTION UNDO
+[2021.05.21-00.02.54:361][759]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.02.59:298][107]Cmd: TRANSACTION UNDO
+[2021.05.21-00.02.59:298][107]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.03.01:048][228]Cmd: TRANSACTION UNDO
+[2021.05.21-00.03.01:049][228]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.03.23:167][789]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared123)
+[2021.05.21-00.03.23:799][854]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared122)
+[2021.05.21-00.03.24:194][890]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared121)
+[2021.05.21-00.03.24:761][947]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared126)
+[2021.05.21-00.03.25:155][983]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared125)
+[2021.05.21-00.03.25:640][ 30]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared124)
+[2021.05.21-00.03.49:515][304]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared130)
+[2021.05.21-00.03.50:873][404]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared131)
+[2021.05.21-00.03.51:429][452]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared132)
+[2021.05.21-00.03.52:067][518]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared127)
+[2021.05.21-00.03.53:445][652]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared128)
+[2021.05.21-00.03.53:852][692]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared129)
+[2021.05.21-00.05.20:008][955]Cmd: DELETE
+[2021.05.21-00.05.20:009][955]Cmd: ACTOR DELETE
+[2021.05.21-00.05.20:047][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:048][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:049][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:050][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:051][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:053][955]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.05.20:272][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.05.21-00.05.20:282][955]LogEditorActor: Deleted 6 Actors (0.273 secs)
+[2021.05.21-00.05.24:724][304]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared129)
+[2021.05.21-00.05.25:267][340]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared128)
+[2021.05.21-00.05.25:699][382]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared127)
+[2021.05.21-00.05.26:181][429]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared132)
+[2021.05.21-00.05.26:600][468]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared131)
+[2021.05.21-00.05.27:447][556]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared130)
+[2021.05.21-00.05.47:716][443]Cmd: TRANSACTION UNDO
+[2021.05.21-00.05.47:716][443]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.05.48:678][518]Cmd: TRANSACTION UNDO
+[2021.05.21-00.05.48:678][518]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.06.28:452][563]Cmd: DELETE
+[2021.05.21-00.06.28:452][563]Cmd: ACTOR DELETE
+[2021.05.21-00.06.28:473][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:474][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:475][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:476][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:476][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:477][563]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.06.28:558][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.21-00.06.28:565][563]LogEditorActor: Deleted 6 Actors (0.112 secs)
+[2021.05.21-00.06.29:778][704]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared132)
+[2021.05.21-00.06.31:605][848]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared127)
+[2021.05.21-00.06.32:167][875]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared131)
+[2021.05.21-00.06.32:767][929]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared130)
+[2021.05.21-00.06.33:452][998]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared128)
+[2021.05.21-00.06.33:924][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared129)
+[2021.05.21-00.07.39:296][ 46]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared133)
+[2021.05.21-00.07.40:195][116]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared134)
+[2021.05.21-00.07.41:214][227]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared135)
+[2021.05.21-00.07.42:351][348]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared133)
+[2021.05.21-00.07.43:594][487]Cmd: DELETE
+[2021.05.21-00.07.43:594][487]Cmd: ACTOR DELETE
+[2021.05.21-00.07.43:614][487]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.07.43:615][487]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.07.43:615][487]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.07.43:670][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.21-00.07.43:677][487]LogEditorActor: Deleted 3 Actors (0.083 secs)
+[2021.05.21-00.07.50:467][957]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared121)
+[2021.05.21-00.07.51:302][ 47]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared127)
+[2021.05.21-00.07.52:124][136]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared128)
+[2021.05.21-00.07.52:600][183]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared129)
+[2021.05.21-00.08.38:039][398]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.38:039][398]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.08.38:854][454]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.38:854][454]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.08.40:263][609]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.40:263][609]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.08.41:224][716]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.41:224][716]LogEditorTransaction: Undo Rotate Actors
+[2021.05.21-00.08.41:895][787]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.41:895][787]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.08.48:015][343]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.48:015][343]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.08.48:530][366]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.48:531][366]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.08.49:072][422]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.49:072][422]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.08.49:809][501]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.49:809][501]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.08.50:410][564]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.50:410][564]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.08.54:778][952]Cmd: TRANSACTION REDO
+[2021.05.21-00.08.54:778][952]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-00.08.55:239][968]Cmd: TRANSACTION REDO
+[2021.05.21-00.08.55:239][968]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-00.08.55:630][  4]Cmd: TRANSACTION REDO
+[2021.05.21-00.08.55:630][  4]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-00.08.56:062][ 42]Cmd: TRANSACTION REDO
+[2021.05.21-00.08.56:062][ 42]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-00.08.59:850][442]Cmd: TRANSACTION UNDO
+[2021.05.21-00.08.59:850][442]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.09.07:042][179]Cmd: TRANSACTION REDO
+[2021.05.21-00.09.07:042][179]LogEditorTransaction: Redo Move Actors
+[2021.05.21-00.09.36:597][979]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared135)
+[2021.05.21-00.10.15:149][908]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared120)
+[2021.05.21-00.10.15:768][971]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared126)
+[2021.05.21-00.10.16:395][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared132)
+[2021.05.21-00.11.03:609][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.05.21-00.11.04:335][956]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5F4850D504B0937456F724A9E18DDD164.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-00.11.04:406][956]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-00.11.04:406][956]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-00.11.54:935][758]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared140)
+[2021.05.21-00.12.17:759][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.05.21-00.12.18:561][901]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level55109AA1640563C6AF50D2393EA58A4D0.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-00.12.18:642][901]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-00.12.18:642][901]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-00.18.12:645][ 43]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared117)
+[2021.05.21-00.18.13:195][ 82]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared116)
+[2021.05.21-00.18.13:527][115]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared115)
+[2021.05.21-00.18.13:985][163]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared121)
+[2021.05.21-00.18.14:349][201]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared122)
+[2021.05.21-00.18.14:647][230]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared123)
+[2021.05.21-00.18.14:929][255]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared129)
+[2021.05.21-00.18.15:238][283]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared128)
+[2021.05.21-00.18.15:583][316]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared127)
+[2021.05.21-00.22.17:545][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.05.21-00.22.18:248][274]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5_Auto3EB93AA2E4E15736BA64335B461682F74.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level5_Auto3.umap'
+[2021.05.21-00.22.18:251][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level5' took 0.746
+[2021.05.21-00.22.18:251][274]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.746
+[2021.05.21-00.29.48:821][547]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared146)
+[2021.05.21-00.29.49:257][576]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared149)
+[2021.05.21-00.29.49:605][610]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared152)
+[2021.05.21-00.29.50:036][642]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared151)
+[2021.05.21-00.29.50:488][688]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared148)
+[2021.05.21-00.29.50:923][731]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared145)
+[2021.05.21-00.29.51:372][777]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared144)
+[2021.05.21-00.29.51:780][819]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared147)
+[2021.05.21-00.29.52:693][917]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared150)
+[2021.05.21-00.29.53:078][955]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared147)
+[2021.05.21-00.30.18:287][152]Cmd: DELETE
+[2021.05.21-00.30.18:287][152]Cmd: ACTOR DELETE
+[2021.05.21-00.30.18:310][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:311][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:312][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:312][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:313][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:314][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:314][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:315][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:316][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:316][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:317][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:317][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:318][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:319][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:319][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:320][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:321][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:321][152]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.30.18:430][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.05.21-00.30.18:440][152]LogEditorActor: Deleted 18 Actors (0.153 secs)
+[2021.05.21-00.31.18:644][123]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared155)
+[2021.05.21-00.31.19:736][205]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared158)
+[2021.05.21-00.31.20:160][230]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared161)
+[2021.05.21-00.31.36:356][721]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.36:356][721]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.36:713][734]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.36:713][734]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.37:018][757]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:019][757]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.37:294][788]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:294][788]LogEditorTransaction: Undo Delete Actors
+[2021.05.21-00.31.37:477][789]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:477][789]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.31.37:623][799]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:623][799]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.31.37:822][800]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:822][800]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.37:920][806]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.37:920][806]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.38:082][822]Cmd: TRANSACTION UNDO
+[2021.05.21-00.31.38:082][822]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.31.51:095][215]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared150)
+[2021.05.21-00.31.52:698][400]Cmd: DELETE
+[2021.05.21-00.31.52:698][400]Cmd: ACTOR DELETE
+[2021.05.21-00.31.52:717][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:718][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:718][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:719][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:720][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:721][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:721][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:722][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:722][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:723][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:724][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:724][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:725][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:726][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:726][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:727][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:728][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:728][400]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.31.52:769][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.05.21-00.31.52:775][400]LogEditorActor: Deleted 18 Actors (0.077 secs)
+[2021.05.21-00.31.56:519][727]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared33)
+[2021.05.21-00.31.57:693][854]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared34)
+[2021.05.21-00.31.58:126][900]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared35)
+[2021.05.21-00.31.58:512][940]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared36)
+[2021.05.21-00.31.58:845][973]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared37)
+[2021.05.21-00.31.59:212][ 11]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared38)
+[2021.05.21-00.32.00:506][ 94]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared39)
+[2021.05.21-00.32.00:876][114]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared40)
+[2021.05.21-00.32.01:245][151]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared41)
+[2021.05.21-00.32.01:642][192]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared42)
+[2021.05.21-00.32.02:182][251]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared43)
+[2021.05.21-00.32.03:859][364]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared44)
+[2021.05.21-00.32.04:251][384]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared45)
+[2021.05.21-00.32.04:630][422]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared46)
+[2021.05.21-00.32.04:946][455]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.21-00.32.05:330][494]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared48)
+[2021.05.21-00.32.05:692][532]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.21-00.32.12:011][998]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared60)
+[2021.05.21-00.32.12:583][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared59)
+[2021.05.21-00.32.13:043][108]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared58)
+[2021.05.21-00.32.13:542][160]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared57)
+[2021.05.21-00.32.14:143][223]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared56)
+[2021.05.21-00.32.14:583][268]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.21-00.32.15:041][316]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared54)
+[2021.05.21-00.32.15:483][361]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared53)
+[2021.05.21-00.32.16:110][428]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.21-00.32.27:251][376]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.21-00.32.40:150][638]Cmd: TRANSACTION UNDO
+[2021.05.21-00.32.40:150][638]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.33.20:549][765]Cmd: TRANSACTION UNDO
+[2021.05.21-00.33.20:549][765]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.33.22:895][911]Cmd: TRANSACTION UNDO
+[2021.05.21-00.33.22:895][911]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.04:295][542]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.04:295][542]LogEditorTransaction: Undo Rotate Actors
+[2021.05.21-00.34.04:722][559]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.04:722][559]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.05:136][598]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.05:136][598]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.05:525][616]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.05:525][616]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.06:062][672]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.06:062][672]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.06:506][717]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.06:506][717]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.06:959][762]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.06:959][762]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.07:402][807]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.07:403][807]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.07:859][853]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.07:859][853]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.44:133][592]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.44:133][592]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.51:548][183]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.51:548][183]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.34.57:210][651]Cmd: TRANSACTION UNDO
+[2021.05.21-00.34.57:210][651]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.35.32:642][176]Cmd: TRANSACTION UNDO
+[2021.05.21-00.35.32:642][176]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.35.33:292][214]Cmd: TRANSACTION UNDO
+[2021.05.21-00.35.33:293][214]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.42:495][132]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.42:495][132]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.42:949][149]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.42:949][149]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.44:309][287]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.44:309][287]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.44:852][343]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.44:852][343]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.45:309][388]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.45:309][388]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.36.45:733][430]Cmd: TRANSACTION UNDO
+[2021.05.21-00.36.45:733][430]LogEditorTransaction: Undo Rotate Actors
+[2021.05.21-00.37.51:658][838]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2021.05.21-00.37.52:629][838]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5_Auto4C0DEC92E4A7880C1A97D3A9FD4126B6B.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level5_Auto4.umap'
+[2021.05.21-00.37.52:631][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level5' took 1.502
+[2021.05.21-00.37.52:631][838]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.502
+[2021.05.21-00.39.19:795][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.05.21-00.39.20:592][ 98]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level52AC429FC41DE8EBD4AFC35A3532EA336.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-00.39.20:662][ 98]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-00.39.20:662][ 98]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-00.43.58:561][338]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja51)
+[2021.05.21-00.43.59:339][420]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.21-00.43.59:802][469]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.21-00.47.26:844][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.05.21-00.47.27:679][109]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5153F2ACB48DBA2B587DD90B466F097AB.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-00.47.27:737][109]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-00.47.27:737][109]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-00.49.32:550][547]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-00.49.57:858][659]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja51)
+[2021.05.21-00.50.12:603][798]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja51)
+[2021.05.21-00.50.13:281][873]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.21-00.50.13:826][930]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared161)
+[2021.05.21-00.50.16:530][151]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-00.50.17:017][201]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.21-00.50.17:394][237]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared162)
+[2021.05.21-00.50.17:732][270]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared189)
+[2021.05.21-00.50.18:092][305]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared188)
+[2021.05.21-00.50.18:931][387]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared216)
+[2021.05.21-00.50.19:268][421]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared215)
+[2021.05.21-00.50.20:041][506]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared217)
+[2021.05.21-00.50.20:368][537]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared190)
+[2021.05.21-00.50.20:796][578]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared163)
+[2021.05.21-00.50.21:431][644]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared53)
+[2021.05.21-00.50.24:619][864]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja53)
+[2021.05.21-00.50.26:836][  7]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja54)
+[2021.05.21-00.50.27:445][ 63]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared54)
+[2021.05.21-00.50.28:293][138]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared164)
+[2021.05.21-00.50.29:058][212]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared191)
+[2021.05.21-00.50.29:449][253]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared218)
+[2021.05.21-00.50.29:983][308]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared219)
+[2021.05.21-00.50.30:341][345]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared192)
+[2021.05.21-00.50.30:714][379]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared165)
+[2021.05.21-00.50.31:703][483]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.21-00.50.34:076][689]Cmd: TRANSACTION UNDO
+[2021.05.21-00.50.34:076][689]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.21-00.50.35:012][749]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja55)
+[2021.05.21-00.50.37:935][948]Cmd: TRANSACTION UNDO
+[2021.05.21-00.50.37:935][948]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.50.38:422][954]Cmd: TRANSACTION UNDO
+[2021.05.21-00.50.38:422][954]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.50.40:598][192]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.21-00.50.42:125][346]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja55)
+[2021.05.21-00.50.43:460][443]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja56)
+[2021.05.21-00.50.43:963][472]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared56)
+[2021.05.21-00.50.44:698][540]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared166)
+[2021.05.21-00.50.45:578][621]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared193)
+[2021.05.21-00.50.45:904][652]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared220)
+[2021.05.21-00.50.46:402][701]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared221)
+[2021.05.21-00.50.46:866][748]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared194)
+[2021.05.21-00.50.47:302][791]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared167)
+[2021.05.21-00.50.47:832][846]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared57)
+[2021.05.21-00.50.49:971][ 52]Cmd: TRANSACTION UNDO
+[2021.05.21-00.50.49:971][ 52]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.50.51:127][142]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja57)
+[2021.05.21-00.50.52:997][296]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja58)
+[2021.05.21-00.50.53:461][333]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared58)
+[2021.05.21-00.50.54:441][405]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared168)
+[2021.05.21-00.50.57:084][676]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared58)
+[2021.05.21-00.50.58:121][776]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared195)
+[2021.05.21-00.50.58:506][816]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared222)
+[2021.05.21-00.50.58:971][865]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared223)
+[2021.05.21-00.50.59:412][912]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared196)
+[2021.05.21-00.50.59:873][958]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared169)
+[2021.05.21-00.51.00:428][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared59)
+[2021.05.21-00.51.01:394][110]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja59)
+[2021.05.21-00.51.02:014][178]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja60)
+[2021.05.21-00.51.02:663][248]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared60)
+[2021.05.21-00.51.03:248][310]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared170)
+[2021.05.21-00.51.04:484][396]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared197)
+[2021.05.21-00.51.05:407][473]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared224)
+[2021.05.21-00.51.43:058][465]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared251)
+[2021.05.21-00.51.43:884][556]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared250)
+[2021.05.21-00.51.44:306][601]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared249)
+[2021.05.21-00.51.44:730][645]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared248)
+[2021.05.21-00.51.45:087][682]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared247)
+[2021.05.21-00.51.46:372][784]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared246)
+[2021.05.21-00.51.46:674][802]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared245)
+[2021.05.21-00.51.47:615][868]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared244)
+[2021.05.21-00.51.47:935][887]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared243)
+[2021.05.21-00.51.48:327][919]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared242)
+[2021.05.21-00.52.25:041][587]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared251)
+[2021.05.21-00.52.42:258][972]Cmd: TRANSACTION UNDO
+[2021.05.21-00.52.42:258][972]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.52.43:001][ 11]Cmd: TRANSACTION UNDO
+[2021.05.21-00.52.43:001][ 11]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.52.52:642][941]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared134)
+[2021.05.21-00.52.56:595][348]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared136)
+[2021.05.21-00.52.57:453][445]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared137)
+[2021.05.21-00.52.58:747][571]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared138)
+[2021.05.21-00.52.59:404][643]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared139)
+[2021.05.21-00.53.00:070][716]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared135)
+[2021.05.21-00.53.00:548][766]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared134)
+[2021.05.21-00.53.01:530][865]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared251)
+[2021.05.21-00.53.02:484][964]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared250)
+[2021.05.21-00.53.02:944][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared200)
+[2021.05.21-00.53.03:842][114]Cmd: TRANSACTION UNDO
+[2021.05.21-00.53.03:842][114]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.53.04:375][139]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared249)
+[2021.05.21-00.53.06:074][317]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared248)
+[2021.05.21-00.53.06:636][377]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared247)
+[2021.05.21-00.53.08:126][535]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared246)
+[2021.05.21-00.53.08:598][585]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared245)
+[2021.05.21-00.53.11:979][969]Cmd: TRANSACTION UNDO
+[2021.05.21-00.53.11:979][969]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.53.13:159][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared245)
+[2021.05.21-00.53.13:819][137]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared244)
+[2021.05.21-00.53.15:623][281]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared243)
+[2021.05.21-00.53.16:327][340]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared242)
+[2021.05.21-00.53.18:790][534]Cmd: DELETE
+[2021.05.21-00.53.18:790][534]Cmd: ACTOR DELETE
+[2021.05.21-00.53.18:820][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:821][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:821][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:822][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:823][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:823][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:824][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:825][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:825][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:826][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:827][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:827][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:828][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:829][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:829][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:830][534]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.18:936][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.05.21-00.53.18:947][534]LogEditorActor: Deleted 16 Actors (0.156 secs)
+[2021.05.21-00.53.31:920][648]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared241)
+[2021.05.21-00.53.32:315][679]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared239)
+[2021.05.21-00.53.32:723][723]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared240)
+[2021.05.21-00.53.33:076][758]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared238)
+[2021.05.21-00.53.33:390][789]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared237)
+[2021.05.21-00.53.33:730][824]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared236)
+[2021.05.21-00.53.34:124][865]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared235)
+[2021.05.21-00.53.34:448][899]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared234)
+[2021.05.21-00.53.34:798][936]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared233)
+[2021.05.21-00.53.35:135][971]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared232)
+[2021.05.21-00.53.35:511][  7]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared231)
+[2021.05.21-00.53.35:900][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared229)
+[2021.05.21-00.53.36:467][107]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared230)
+[2021.05.21-00.53.36:776][139]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared228)
+[2021.05.21-00.53.37:117][175]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared227)
+[2021.05.21-00.53.37:440][204]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared226)
+[2021.05.21-00.53.37:754][229]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared225)
+[2021.05.21-00.53.38:748][342]Cmd: DELETE
+[2021.05.21-00.53.38:748][342]Cmd: ACTOR DELETE
+[2021.05.21-00.53.38:771][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:771][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:772][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:773][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:774][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:774][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:775][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:776][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:776][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:777][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:778][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:778][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:779][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:780][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:780][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:781][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:782][342]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.53.38:819][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.21-00.53.38:820][342]LogEditorActor: Deleted 17 Actors (0.073 secs)
+[2021.05.21-00.54.10:109][144]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared91)
+[2021.05.21-00.54.12:102][290]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared100)
+[2021.05.21-00.54.16:695][693]Cmd: DELETE
+[2021.05.21-00.54.16:695][693]Cmd: ACTOR DELETE
+[2021.05.21-00.54.16:716][693]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-00.54.16:752][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.05.21-00.54.16:756][693]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.05.21-00.54.18:805][866]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja100)
+[2021.05.21-00.54.19:484][904]Cmd: DELETE
+[2021.05.21-00.54.19:484][904]Cmd: ACTOR DELETE
+[2021.05.21-00.54.19:522][904]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.21-00.54.19:559][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.05.21-00.54.19:560][904]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2021.05.21-00.54.25:305][459]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja92)
+[2021.05.21-00.54.26:265][566]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared92)
+[2021.05.21-00.54.28:289][786]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja91)
+[2021.05.21-00.54.29:048][868]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared91)
+[2021.05.21-00.54.29:789][948]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared90)
+[2021.05.21-00.54.31:020][ 80]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja90)
+[2021.05.21-00.54.31:825][163]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja89)
+[2021.05.21-00.54.32:634][250]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared89)
+[2021.05.21-00.54.34:019][393]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared88)
+[2021.05.21-00.54.34:844][479]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja87)
+[2021.05.21-00.54.36:119][622]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja88)
+[2021.05.21-00.54.37:239][744]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared87)
+[2021.05.21-00.54.38:187][849]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared86)
+[2021.05.21-00.54.38:877][921]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja86)
+[2021.05.21-00.54.40:370][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja85)
+[2021.05.21-00.54.41:134][159]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared85)
+[2021.05.21-00.54.42:145][264]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared84)
+[2021.05.21-00.54.43:033][358]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja84)
+[2021.05.21-00.54.44:634][471]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared83)
+[2021.05.21-00.54.45:825][580]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja83)
+[2021.05.21-00.54.47:697][713]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja82)
+[2021.05.21-00.54.48:390][787]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared82)
+[2021.05.21-00.54.49:732][936]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja81)
+[2021.05.21-00.54.50:725][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared81)
+[2021.05.21-00.54.52:465][170]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared80)
+[2021.05.21-00.54.53:614][284]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja80)
+[2021.05.21-00.54.54:988][382]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja79)
+[2021.05.21-00.54.55:826][460]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared79)
+[2021.05.21-00.54.56:560][538]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared78)
+[2021.05.21-00.54.57:829][676]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja78)
+[2021.05.21-00.55.01:763][ 42]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja77)
+[2021.05.21-00.55.02:570][130]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-00.55.03:370][217]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja50)
+[2021.05.21-00.55.04:112][297]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.21-00.55.04:950][387]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared93)
+[2021.05.21-00.55.05:895][489]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja93)
+[2021.05.21-00.56.08:517][427]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja76)
+[2021.05.21-00.56.09:283][513]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared76)
+[2021.05.21-00.56.09:803][565]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared75)
+[2021.05.21-00.56.10:367][627]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja75)
+[2021.05.21-00.56.11:643][758]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja74)
+[2021.05.21-00.56.12:191][817]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared74)
+[2021.05.21-00.56.13:522][910]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja73)
+[2021.05.21-00.56.13:865][927]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared73)
+[2021.05.21-00.56.14:275][959]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared72)
+[2021.05.21-00.56.14:877][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja72)
+[2021.05.21-00.56.15:261][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja71)
+[2021.05.21-00.56.16:507][192]Cmd: TRANSACTION UNDO
+[2021.05.21-00.56.16:507][192]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.56.16:927][209]Cmd: TRANSACTION UNDO
+[2021.05.21-00.56.16:927][209]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.56.17:351][251]Cmd: TRANSACTION UNDO
+[2021.05.21-00.56.17:352][251]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.56.17:691][287]Cmd: TRANSACTION UNDO
+[2021.05.21-00.56.17:691][287]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-00.56.18:041][325]Cmd: TRANSACTION UNDO
+[2021.05.21-00.56.18:041][325]LogEditorTransaction: Undo Move Actors
+[2021.05.21-00.56.19:129][446]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared72)
+[2021.05.21-00.56.19:602][495]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared73)
+[2021.05.21-00.56.20:247][563]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja73)
+[2021.05.21-00.56.20:702][606]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja72)
+[2021.05.21-00.56.21:180][653]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja71)
+[2021.05.21-00.56.21:763][715]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared71)
+[2021.05.21-00.56.22:673][811]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared70)
+[2021.05.21-00.56.23:383][887]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja70)
+[2021.05.21-00.56.23:785][927]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja69)
+[2021.05.21-00.56.24:419][996]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared69)
+[2021.05.21-00.56.25:007][ 59]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared68)
+[2021.05.21-00.56.26:078][181]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja68)
+[2021.05.21-00.57.26:753][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.05.21-00.57.27:586][322]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5_Auto50F596F434062028106BF58A0DDEC9FD7.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level5_Auto5.umap'
+[2021.05.21-00.57.27:588][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level5' took 0.902
+[2021.05.21-00.57.27:588][322]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.902
+[2021.05.21-00.57.37:633][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.05.21-00.57.38:412][499]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5B043F21E4698018ADEE2539FCB5A3BA9.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-00.57.38:483][499]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-00.57.38:483][499]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.00.46:982][272]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja69)
+[2021.05.21-01.00.47:754][347]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared69)
+[2021.05.21-01.00.49:037][452]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja70)
+[2021.05.21-01.00.50:748][624]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja71)
+[2021.05.21-01.00.56:088][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared71)
+[2021.05.21-01.01.02:536][671]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja72)
+[2021.05.21-01.01.03:848][814]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared72)
+[2021.05.21-01.01.08:014][280]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja73)
+[2021.05.21-01.01.08:942][382]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared73)
+[2021.05.21-01.01.13:928][820]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja74)
+[2021.05.21-01.01.14:507][880]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared74)
+[2021.05.21-01.01.35:729][851]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja75)
+[2021.05.21-01.01.36:402][899]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared75)
+[2021.05.21-01.01.41:891][395]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja76)
+[2021.05.21-01.01.42:654][479]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared76)
+[2021.05.21-01.01.50:508][186]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja93)
+[2021.05.21-01.01.51:308][276]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared93)
+[2021.05.21-01.02.05:452][499]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja50)
+[2021.05.21-01.02.07:277][699]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja50)
+[2021.05.21-01.02.09:263][926]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.21-01.02.25:098][378]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja77)
+[2021.05.21-01.02.25:295][389]LogEditorViewport: Clicking on Actor (context menu): pared_baja2_C (pared_baja77)
+[2021.05.21-01.02.26:107][464]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja77)
+[2021.05.21-01.02.29:743][887]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-01.03.11:934][ 72]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja78)
+[2021.05.21-01.03.17:399][576]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja78)
+[2021.05.21-01.03.18:636][715]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared78)
+[2021.05.21-01.03.39:314][853]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja79)
+[2021.05.21-01.03.40:387][948]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared79)
+[2021.05.21-01.03.53:893][162]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja80)
+[2021.05.21-01.03.54:889][272]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared80)
+[2021.05.21-01.04.19:497][394]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja81)
+[2021.05.21-01.04.20:797][542]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared81)
+[2021.05.21-01.05.01:273][942]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja82)
+[2021.05.21-01.05.02:305][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared82)
+[2021.05.21-01.05.16:906][422]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja83)
+[2021.05.21-01.05.18:738][574]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared83)
+[2021.05.21-01.05.25:751][177]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja84)
+[2021.05.21-01.05.26:635][272]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared84)
+[2021.05.21-01.05.32:788][867]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja85)
+[2021.05.21-01.05.33:701][937]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared85)
+[2021.05.21-01.05.45:603][975]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared86)
+[2021.05.21-01.05.46:530][ 63]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja86)
+[2021.05.21-01.05.52:365][562]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja87)
+[2021.05.21-01.05.53:536][679]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared87)
+[2021.05.21-01.06.19:871][353]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja88)
+[2021.05.21-01.06.43:479][139]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared88)
+[2021.05.21-01.06.52:126][907]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja89)
+[2021.05.21-01.06.53:466][ 48]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared89)
+[2021.05.21-01.07.01:527][705]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja90)
+[2021.05.21-01.07.02:808][811]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared90)
+[2021.05.21-01.07.19:215][157]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja91)
+[2021.05.21-01.07.20:547][281]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared91)
+[2021.05.21-01.07.27:051][833]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja92)
+[2021.05.21-01.07.30:530][129]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja92)
+[2021.05.21-01.07.31:497][230]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared92)
+[2021.05.21-01.07.57:223][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja94)
+[2021.05.21-01.07.58:248][208]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared94)
+[2021.05.21-01.07.58:781][263]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared118)
+[2021.05.21-01.07.59:143][299]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared124)
+[2021.05.21-01.07.59:518][337]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared130)
+[2021.05.21-01.07.59:932][379]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared131)
+[2021.05.21-01.08.00:339][418]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared125)
+[2021.05.21-01.08.00:909][472]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared119)
+[2021.05.21-01.08.01:328][510]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared95)
+[2021.05.21-01.08.01:865][562]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja95)
+[2021.05.21-01.08.02:323][609]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja96)
+[2021.05.21-01.08.02:685][645]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared96)
+[2021.05.21-01.08.03:006][675]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared120)
+[2021.05.21-01.08.03:355][698]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared126)
+[2021.05.21-01.08.03:676][726]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared132)
+[2021.05.21-01.08.06:845][ 43]Cmd: TRANSACTION UNDO
+[2021.05.21-01.08.06:845][ 43]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.08.08:446][188]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja92)
+[2021.05.21-01.08.09:561][314]Cmd: TRANSACTION UNDO
+[2021.05.21-01.08.09:561][314]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.08.09:921][349]Cmd: TRANSACTION UNDO
+[2021.05.21-01.08.09:921][349]LogEditorTransaction: Undo Apply Material to Surface
+[2021.05.21-01.08.47:493][221]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared143)
+[2021.05.21-01.08.48:176][297]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared140)
+[2021.05.21-01.08.48:561][336]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared141)
+[2021.05.21-01.08.49:411][413]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared142)
+[2021.05.21-01.10.07:781][860]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.05.21-01.10.08:627][860]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5_Auto68450E0224CF6D44FB54C7C9A3293DBD0.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level5_Auto6.umap'
+[2021.05.21-01.10.08:630][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level5' took 0.980
+[2021.05.21-01.10.08:630][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.980
+[2021.05.21-01.10.36:175][798]Cmd: DELETE
+[2021.05.21-01.10.36:175][798]Cmd: ACTOR DELETE
+[2021.05.21-01.10.36:196][798]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-01.10.36:232][798]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.05.21-01.10.36:268][798]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2021.05.21-01.10.49:755][ 26]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared68)
+[2021.05.21-01.10.50:680][130]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared69)
+[2021.05.21-01.10.51:516][223]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared63)
+[2021.05.21-01.10.52:546][338]Cmd: TRANSACTION UNDO
+[2021.05.21-01.10.52:546][338]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.10.53:843][455]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared70)
+[2021.05.21-01.10.54:605][540]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared71)
+[2021.05.21-01.10.55:998][699]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared72)
+[2021.05.21-01.10.56:896][799]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared73)
+[2021.05.21-01.10.58:797][938]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared74)
+[2021.05.21-01.10.59:421][  4]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared75)
+[2021.05.21-01.11.00:153][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared76)
+[2021.05.21-01.11.04:041][414]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.21-01.11.06:421][598]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared93)
+[2021.05.21-01.11.08:964][781]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-01.11.11:543][943]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared78)
+[2021.05.21-01.11.12:541][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared79)
+[2021.05.21-01.11.13:619][180]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared80)
+[2021.05.21-01.11.15:043][274]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared81)
+[2021.05.21-01.11.15:538][307]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared82)
+[2021.05.21-01.11.16:313][394]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared83)
+[2021.05.21-01.11.17:811][488]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared84)
+[2021.05.21-01.11.18:346][535]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared85)
+[2021.05.21-01.11.19:034][606]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared86)
+[2021.05.21-01.11.19:913][701]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared87)
+[2021.05.21-01.11.21:425][798]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared88)
+[2021.05.21-01.11.21:958][837]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared89)
+[2021.05.21-01.11.22:560][901]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared90)
+[2021.05.21-01.11.23:486][  1]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared91)
+[2021.05.21-01.11.24:344][ 92]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared92)
+[2021.05.21-01.12.09:739][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.05.21-01.12.10:536][ 31]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level58D1E98E14D54A6F401B671824EBFCFE2.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.12.10:602][ 31]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.12.10:602][ 31]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.15.40:389][975]Cmd: TRANSACTION UNDO
+[2021.05.21-01.15.40:389][975]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.18.11:978][831]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared135)
+[2021.05.21-01.18.12:562][882]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared134)
+[2021.05.21-01.18.12:945][920]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared100)
+[2021.05.21-01.18.13:325][957]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared245)
+[2021.05.21-01.18.13:686][993]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared246)
+[2021.05.21-01.18.14:050][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared247)
+[2021.05.21-01.18.14:386][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared274)
+[2021.05.21-01.18.14:739][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared273)
+[2021.05.21-01.18.15:055][126]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared272)
+[2021.05.21-01.18.30:311][240]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared299)
+[2021.05.21-01.18.30:825][287]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared302)
+[2021.05.21-01.18.31:575][367]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared299)
+[2021.05.21-01.18.32:025][412]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared305)
+[2021.05.21-01.18.32:853][504]Cmd: DELETE
+[2021.05.21-01.18.32:853][504]Cmd: ACTOR DELETE
+[2021.05.21-01.18.32:883][504]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-01.18.32:884][504]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-01.18.32:884][504]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-01.18.33:012][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.05.21-01.18.33:022][504]LogEditorActor: Deleted 3 Actors (0.169 secs)
+[2021.05.21-01.18.43:371][396]LogEditorViewport: Clicking on Actor (LMB): FinalLevel5_C (FinalLevel5)
+[2021.05.21-01.18.53:646][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.05.21-01.18.54:930][  6]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level57AA4CBC247A023D08DF8F4B4A59AA400.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.18.55:023][  6]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.18.55:023][  6]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.19.13:454][347]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared60)
+[2021.05.21-01.19.15:416][553]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja60)
+[2021.05.21-01.19.16:292][642]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared60)
+[2021.05.21-01.19.16:671][681]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared170)
+[2021.05.21-01.19.17:031][717]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared197)
+[2021.05.21-01.19.17:970][815]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared224)
+[2021.05.21-01.19.44:514][ 81]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja60)
+[2021.05.21-01.19.45:090][142]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared60)
+[2021.05.21-01.19.45:522][187]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared170)
+[2021.05.21-01.19.45:928][228]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared197)
+[2021.05.21-01.19.46:351][264]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared224)
+[2021.05.21-01.20.06:118][969]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja59)
+[2021.05.21-01.20.06:822][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared59)
+[2021.05.21-01.20.07:272][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared169)
+[2021.05.21-01.20.07:647][126]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared196)
+[2021.05.21-01.20.09:623][306]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.09:623][306]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.20.11:152][433]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared223)
+[2021.05.21-01.20.11:786][494]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.11:786][494]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.20.12:347][554]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.12:347][554]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.20.12:799][601]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.12:799][601]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.20.13:197][645]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.13:197][645]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.20.13:604][690]Cmd: TRANSACTION UNDO
+[2021.05.21-01.20.13:604][690]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.20.16:172][963]Cmd: TRANSACTION REDO
+[2021.05.21-01.20.16:172][963]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-01.20.16:392][983]Cmd: TRANSACTION REDO
+[2021.05.21-01.20.16:392][983]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-01.20.16:581][  1]Cmd: TRANSACTION REDO
+[2021.05.21-01.20.16:581][  1]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-01.20.16:737][ 16]Cmd: TRANSACTION REDO
+[2021.05.21-01.20.16:737][ 16]LogEditorTransaction: Redo Clicking on Actors
+[2021.05.21-01.20.16:909][ 33]Cmd: TRANSACTION REDO
+[2021.05.21-01.20.16:909][ 33]LogEditorTransaction: Redo Move Actors
+[2021.05.21-01.20.27:835][969]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja58)
+[2021.05.21-01.20.28:378][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared58)
+[2021.05.21-01.20.28:899][ 80]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared168)
+[2021.05.21-01.20.29:311][113]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared195)
+[2021.05.21-01.20.29:842][166]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared222)
+[2021.05.21-01.20.46:789][572]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja57)
+[2021.05.21-01.20.47:295][601]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared57)
+[2021.05.21-01.20.47:725][645]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared167)
+[2021.05.21-01.20.48:737][745]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared194)
+[2021.05.21-01.20.49:252][799]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared221)
+[2021.05.21-01.21.00:272][647]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared221)
+[2021.05.21-01.21.02:009][774]Cmd: TRANSACTION UNDO
+[2021.05.21-01.21.02:009][774]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.21.02:536][798]Cmd: TRANSACTION UNDO
+[2021.05.21-01.21.02:536][798]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.21.07:645][188]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja56)
+[2021.05.21-01.21.08:305][254]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared56)
+[2021.05.21-01.21.08:867][306]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared166)
+[2021.05.21-01.21.09:255][338]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared193)
+[2021.05.21-01.21.09:836][385]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared220)
+[2021.05.21-01.21.23:434][438]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja55)
+[2021.05.21-01.21.24:287][532]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.21-01.21.24:771][583]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared165)
+[2021.05.21-01.21.25:164][623]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared192)
+[2021.05.21-01.21.25:543][661]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared219)
+[2021.05.21-01.21.34:542][341]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja54)
+[2021.05.21-01.21.35:209][413]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared54)
+[2021.05.21-01.21.35:637][457]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared164)
+[2021.05.21-01.21.36:032][496]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared191)
+[2021.05.21-01.21.36:425][534]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared218)
+[2021.05.21-01.21.52:594][725]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja53)
+[2021.05.21-01.21.53:337][806]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared53)
+[2021.05.21-01.21.54:761][949]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared163)
+[2021.05.21-01.21.55:768][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared190)
+[2021.05.21-01.21.56:376][110]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared217)
+[2021.05.21-01.22.05:058][700]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared217)
+[2021.05.21-01.22.07:977][913]Cmd: TRANSACTION UNDO
+[2021.05.21-01.22.07:977][913]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.22.08:478][928]Cmd: TRANSACTION UNDO
+[2021.05.21-01.22.08:478][928]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.22.14:952][451]Cmd: TRANSACTION UNDO
+[2021.05.21-01.22.14:952][451]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.21-01.22.15:696][500]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-01.22.16:542][595]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.21-01.22.17:444][677]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared162)
+[2021.05.21-01.22.18:280][756]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared189)
+[2021.05.21-01.22.19:084][835]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared216)
+[2021.05.21-01.22.28:509][545]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared215)
+[2021.05.21-01.22.29:184][607]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared188)
+[2021.05.21-01.22.29:872][680]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared161)
+[2021.05.21-01.22.33:516][922]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.21-01.22.34:580][ 26]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja51)
+[2021.05.21-01.23.01:276][ 75]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja49)
+[2021.05.21-01.23.01:822][133]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.21-01.23.02:517][209]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared160)
+[2021.05.21-01.23.03:360][281]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared187)
+[2021.05.21-01.23.04:062][342]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared214)
+[2021.05.21-01.23.15:770][208]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared186)
+[2021.05.21-01.23.16:169][250]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared213)
+[2021.05.21-01.23.16:633][297]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared159)
+[2021.05.21-01.23.17:273][366]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared48)
+[2021.05.21-01.23.18:003][445]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja48)
+[2021.05.21-01.23.32:666][505]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja47)
+[2021.05.21-01.23.33:120][552]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.21-01.23.33:570][585]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared158)
+[2021.05.21-01.23.33:909][593]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared185)
+[2021.05.21-01.23.35:304][749]Cmd: TRANSACTION UNDO
+[2021.05.21-01.23.35:304][749]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.23.35:620][762]Cmd: TRANSACTION UNDO
+[2021.05.21-01.23.35:620][762]LogEditorTransaction: Undo Move Actors
+[2021.05.21-01.23.36:071][764]Cmd: TRANSACTION UNDO
+[2021.05.21-01.23.36:072][764]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-01.23.37:173][887]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.21-01.23.37:666][940]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared158)
+[2021.05.21-01.23.38:145][990]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared185)
+[2021.05.21-01.23.38:705][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared212)
+[2021.05.21-01.24.02:827][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.05.21-01.24.03:784][685]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level508B01CD341AD200408D6C4983E69D338.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.24.03:870][685]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.24.03:870][685]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.24.24:211][800]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared302)
+[2021.05.21-01.24.24:767][859]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared305)
+[2021.05.21-01.24.25:230][908]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared308)
+[2021.05.21-01.25.11:308][802]LogEditorViewport: Clicking on Actor (LMB): FinalLevel5_C (FinalLevel5)
+[2021.05.21-01.25.17:890][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.05.21-01.25.18:788][324]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5F954081F4446EBF23B26069953422D10.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.25.18:860][324]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.25.18:860][324]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.25.20:090][454]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.25.20:113][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.25.20:113][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.25.20:113][454]PIE: New page: PIE session: Level5 (May 21, 2021, 5:25:20 AM)
+[2021.05.21-01.25.20:113][454]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.25.20:241][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127968s)
+[2021.05.21-01.25.20:243][454]LogAIModule: Creating AISystem for world Level5
+[2021.05.21-01.25.20:243][454]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2021.05.21-01.25.20:243][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level5.Level5 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 (0.130334s)
+[2021.05.21-01.25.20:284][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.25.20:287][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.25.20:287][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.25.20:288][454]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.25.20:288][454]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Is Default: Yes
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: Channel Order:
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.25.20:299][454]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.25.20:315][454]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.25.20:317][454]LogInit: FAudioDevice initialized.
+[2021.05.21-01.25.20:332][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.21-01.25.20:407][454]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2021.05.21-03.25.20
+[2021.05.21-01.25.20:408][454]LogWorld: Bringing up level for play took: 0.074821
+[2021.05.21-01.25.20:408][454]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.05.21-01.25.20:416][454]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5 1.087
+[2021.05.21-01.25.20:416][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.25.30:461][565]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.05.21-01.25.41:977][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.25.42:236][934]LogBlueprintUserMessages: [FinalLevel5_2] level completed! entering next level
+[2021.05.21-01.25.44:247][159]LogNet: Browse: /Game/SlimeLordBP/Niveles/Level6
+[2021.05.21-01.25.44:247][159]LogLoad: LoadMap: /Game/SlimeLordBP/Niveles/Level6
+[2021.05.21-01.25.44:247][159]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.25.44:248][159]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.25.44:261][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.25.44:262][159]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.25.44:319][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.05.21-01.25.44:537][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:538][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:542][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:542][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:543][159]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:543][159]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:544][159]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:544][159]LogLinker: Warning: Failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:559][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.44:559][159]LoadErrors: Failed to load /Game/SlimeLordBP/Niveles/Level6_BuiltData.Level6_BuiltData Referenced by PersistentLevel
+[2021.05.21-01.25.44:559][159]LogLinker: Warning: While loading '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level6.umap' failed to load '/Game/SlimeLordBP/Niveles/Level6_BuiltData': Can't find file.
+[2021.05.21-01.25.45:061][159]LogAIModule: Creating AISystem for world Level6
+[2021.05.21-01.25.45:062][159]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.21-01.25.45:083][159]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level6.Level6 up for play (max tick rate 0) at 2021.05.21-03.25.45
+[2021.05.21-01.25.45:083][159]LogWorld: Bringing up level for play took: 0.021475
+[2021.05.21-01.25.45:087][159]LogLoad: Took 0.840144 seconds to LoadMap(/Game/SlimeLordBP/Niveles/Level6)
+[2021.05.21-01.25.45:140][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.25.45:151][160]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.05.21-01.25.45:170][160]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.05.21-01.25.45:170][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.25.45:170][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.25.45:170][160]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level6
+[2021.05.21-01.25.45:171][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.25.45:171][160]LogWorld: UWorld::CleanupWorld for Level6, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.25.45:172][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.25.45:179][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.25.45:179][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.25.45:186][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.25.45:222][160]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.25.45:225][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.25.45:234][160]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.05.21-01.25.45:268][161]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.05.21-01.25.50:113][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.21-01.25.50:959][548]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level51DF2DBF04056AFB9AFBEDAA7818919F4.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.25.51:027][548]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.25.51:027][548]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.26.00:429][201]Cmd: DELETE
+[2021.05.21-01.26.00:429][201]Cmd: ACTOR DELETE
+[2021.05.21-01.26.00:454][201]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-01.26.00:492][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.05.21-01.26.00:550][201]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2021.05.21-01.26.07:197][697]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.05.21-01.26.25:814][  4]Cmd: DELETE
+[2021.05.21-01.26.25:814][  4]Cmd: ACTOR DELETE
+[2021.05.21-01.26.25:838][  4]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-01.26.25:871][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.05.21-01.26.25:901][  4]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2021.05.21-01.26.40:944][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.21-01.26.41:812][984]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level590589EC94314C866E7A7238106D56C86.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.26.41:876][984]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.26.41:876][984]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.26.43:690][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.26.43:713][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.26.43:713][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.26.43:713][111]PIE: New page: PIE session: Level5 (May 21, 2021, 5:26:43 AM)
+[2021.05.21-01.26.43:713][111]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.26.43:837][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124149s)
+[2021.05.21-01.26.43:838][111]LogAIModule: Creating AISystem for world Level5
+[2021.05.21-01.26.43:838][111]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2021.05.21-01.26.43:838][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level5.Level5 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 (0.125746s)
+[2021.05.21-01.26.43:876][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.26.43:880][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.26.43:880][111]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.26.43:880][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Is Default: Yes
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: Channel Order:
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.26.43:893][111]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.26.43:908][111]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.26.43:910][111]LogInit: FAudioDevice initialized.
+[2021.05.21-01.26.43:923][111]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.21-01.26.43:998][111]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2021.05.21-03.26.43
+[2021.05.21-01.26.43:999][111]LogWorld: Bringing up level for play took: 0.074955
+[2021.05.21-01.26.43:999][111]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.05.21-01.26.44:005][111]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5 0.676
+[2021.05.21-01.26.44:011][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.26.51:023][772]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.05.21-01.26.52:025][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.26.52:245][894]LogBlueprintUserMessages: [Diana1_2] Pegado
+[2021.05.21-01.26.52:438][911]LogBlueprintUserMessages: [Diana1_2] Despeado
+[2021.05.21-01.26.59:002][561]Cmd: LevelEditor.ToggleImmersive
+[2021.05.21-01.27.12:948][200]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.05.21-01.27.16:885][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.27.17:050][690]LogBlueprintUserMessages: [Diana1_2] Pegado
+[2021.05.21-01.27.17:244][713]LogBlueprintUserMessages: [Diana1_2] Despeado
+[2021.05.21-01.27.21:089][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.27.40:150][747]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.27.40:150][747]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.27.40:150][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.27.40:151][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.27.40:151][747]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.27.40:151][747]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.27.40:152][747]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.27.40:166][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.27.40:186][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.27.40:186][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.27.40:194][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.27.40:227][747]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.27.40:231][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.27.40:262][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.05.21-01.27.40:291][748]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.05.21-01.27.54:269][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.05.21-01.27.55:123][753]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level50937EF1B4A65F2D65F42CD91DF161506.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.27.55:182][753]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.27.55:182][753]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.27.58:204][972]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.21-01.27.58:225][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.27.58:225][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.21-01.27.58:225][972]PIE: New page: PIE session: Level5 (May 21, 2021, 5:27:58 AM)
+[2021.05.21-01.27.58:225][972]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.27.58:353][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126976s)
+[2021.05.21-01.27.58:354][972]LogAIModule: Creating AISystem for world Level5
+[2021.05.21-01.27.58:354][972]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.05.21-01.27.58:355][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level5.Level5 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 (0.128738s)
+[2021.05.21-01.27.58:395][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.21-01.27.58:398][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.21-01.27.58:398][972]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.21-01.27.58:398][972]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Name: Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Is Default: Yes
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Sample Rate: 48000
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Channel Count Used: 2
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Device Channel Count: 2
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: Channel Order:
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.21-01.27.58:410][972]LogAudioMixer: Display: 1: FrontRight
+[2021.05.21-01.27.58:426][972]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Revolver S)
+[2021.05.21-01.27.58:429][972]LogInit: FAudioDevice initialized.
+[2021.05.21-01.27.58:438][972]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.21-01.27.58:514][972]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2021.05.21-03.27.58
+[2021.05.21-01.27.58:515][972]LogWorld: Bringing up level for play took: 0.076125
+[2021.05.21-01.27.58:515][972]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.05.21-01.27.58:522][972]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5 1.193
+[2021.05.21-01.27.58:522][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.28.02:234][347]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.05.21-01.28.04:118][545]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.28.04:315][567]LogBlueprintUserMessages: [Diana1_2] Pegado
+[2021.05.21-01.28.04:514][589]LogBlueprintUserMessages: [Diana1_2] Despeado
+[2021.05.21-01.28.10:732][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.05.21-01.28.11:587][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.28.11:589][356]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.05.21-01.28.11:609][356]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.05.21-01.28.11:609][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.28.11:609][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.28.11:610][356]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level5
+[2021.05.21-01.28.11:610][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.28.11:610][356]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-01.28.11:623][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.28.11:634][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.21-01.28.11:634][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level5.Level5_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level5.Level5:PersistentLevel.Level5'
+[2021.05.21-01.28.11:641][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-01.28.11:673][356]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.05.21-01.28.11:677][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.21-01.28.11:695][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.21-01.28.11:727][357]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.05.21-01.28.21:600][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.05.21-01.28.22:471][165]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level5A9F5F6194A5CA85C26357084751C9F27.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level5.umap'
+[2021.05.21-01.28.22:531][165]AssetCheck: New page: Asset Save: Level5
+[2021.05.21-01.28.22:531][165]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level5.Level5
+[2021.05.21-01.28.24:123][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.05.21-01.28.29:050][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
