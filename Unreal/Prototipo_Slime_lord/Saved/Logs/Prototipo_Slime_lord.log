@@ -13404,3 +13404,437 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.05.21-04.32.24:969][579]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level78E418E9945D2C771F5FC528EF9E801BA.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level7.umap'
 [2021.05.21-04.32.25:064][579]AssetCheck: New page: Asset Save: Level7
 [2021.05.21-04.32.25:064][579]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level7.Level7
+[2021.05.21-04.33.39:010][960]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared332)
+[2021.05.21-04.34.30:757][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.05.21-04.34.31:899][ 69]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level704002754404F322AF1796BBC603628E3.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level7.umap'
+[2021.05.21-04.34.31:992][ 69]AssetCheck: New page: Asset Save: Level7
+[2021.05.21-04.34.31:992][ 69]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level7.Level7
+[2021.05.21-04.34.34:101][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.05.21-04.34.48:651][355]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2021.05.21-04.34.48:738][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2021.05.21-04.34.48:738][355]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2021.05.21-04.34.48:738][355]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.05.21-04.34.48:738][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.05.21-04.34.50:060][355]LogAIModule: Creating AISystem for world Level8
+[2021.05.21-04.34.50:217][355]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.34.50:305][355]LogUObjectHash: Compacting FUObjectHashTables data took  13.20ms
+[2021.05.21-04.34.50:318][355]LightingResults: New page: Lighting Build
+[2021.05.21-04.34.50:320][355]LoadErrors: New page: Loading map: Level8.umap
+[2021.05.21-04.34.50:408][355]LogWorld: UWorld::CleanupWorld for Level7, bSessionEnded=true, bCleanupResources=true
+[2021.05.21-04.34.50:408][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.21-04.34.50:410][355]MapCheck: New page: Map Check
+[2021.05.21-04.34.50:410][355]LightingResults: New page: Lighting Build
+[2021.05.21-04.34.50:535][355]LogUObjectHash: Compacting FUObjectHashTables data took  10.42ms
+[2021.05.21-04.34.50:618][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.05.21-04.34.50:669][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.21-04.34.50:714][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.05.21-04.34.53:000][355]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.05.21-04.34.53:061][355]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2021.05.21-04.34.53:142][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.21-04.34.53:143][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.402ms to complete.
+[2021.05.21-04.34.53:143][355]LogFileHelpers: Loading map 'Level8' took 2.832
+[2021.05.21-04.34.55:658][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.05.21-04.34.55:999][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.05.21-04.34.56:692][540]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.05.21-04.34.56:924][550]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.05.21-04.34.57:103][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.05.21-04.36.31:254][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.21-04.36.32:173][739]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level8B2F6B54A491AD569C3771595748AD4CF.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-04.36.32:251][739]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-04.36.32:251][739]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.37.09:557][497]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_64' invalid (31766 verts, 0 indices).
+[2021.05.21-04.37.09:558][497]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_64.BodySetup_0 when we are unable to.
+[2021.05.21-04.37.19:916][115]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_158' invalid (31766 verts, 0 indices).
+[2021.05.21-04.37.19:916][115]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_158.BodySetup_0 when we are unable to.
+[2021.05.21-04.37.25:836][611]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_359' invalid (31766 verts, 0 indices).
+[2021.05.21-04.37.25:836][611]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_359.BodySetup_0 when we are unable to.
+[2021.05.21-04.37.34:032][147]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja2)
+[2021.05.21-04.37.35:187][254]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared2)
+[2021.05.21-04.38.38:226][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja2)
+[2021.05.21-04.38.38:726][116]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared2)
+[2021.05.21-04.38.49:290][865]LogEditorViewport: Clicking on Actor (LMB): AguaFija_C (AguaFija)
+[2021.05.21-04.39.17:499][818]Cmd: TRANSACTION UNDO
+[2021.05.21-04.39.17:499][818]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.39.17:960][835]Cmd: TRANSACTION UNDO
+[2021.05.21-04.39.17:961][835]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.39.21:561][ 84]Cmd: TRANSACTION UNDO
+[2021.05.21-04.39.21:561][ 84]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.39.33:943][909]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja3)
+[2021.05.21-04.39.47:031][  3]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja3)
+[2021.05.21-04.40.02:188][225]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared3)
+[2021.05.21-04.40.21:385][597]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja3)
+[2021.05.21-04.40.22:042][658]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared3)
+[2021.05.21-04.40.22:456][692]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared4)
+[2021.05.21-04.40.39:304][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_453' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.39:304][809]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_453.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.40:629][901]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_547' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.40:629][901]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_547.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.41:329][928]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_641' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.41:329][928]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_641.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.42:657][ 19]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_735' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.42:657][ 19]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_735.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.45:334][241]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_829' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.45:334][241]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_829.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.47:302][400]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_923' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.47:302][400]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_923.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.49:346][564]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1018' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.49:346][564]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1018.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.50:273][617]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1113' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.50:273][617]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1113.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.51:156][665]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1208' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.51:157][665]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1208.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.51:929][702]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1303' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.51:929][702]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1303.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.53:113][780]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1398' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.53:113][780]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1398.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.53:738][801]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1492' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.53:738][801]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1492.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.54:578][845]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1586' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.54:578][845]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1586.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.55:480][893]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1680' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.55:480][893]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1680.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.56:466][954]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1774' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.56:466][954]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1774.BodySetup_0 when we are unable to.
+[2021.05.21-04.40.57:356][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1868' invalid (31766 verts, 0 indices).
+[2021.05.21-04.40.57:356][  4]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1868.BodySetup_0 when we are unable to.
+[2021.05.21-04.41.00:678][208]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1962' invalid (31766 verts, 0 indices).
+[2021.05.21-04.41.00:678][208]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_1962.BodySetup_0 when we are unable to.
+[2021.05.21-04.41.04:312][459]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja5)
+[2021.05.21-04.41.04:881][494]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared5)
+[2021.05.21-04.41.05:290][528]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared6)
+[2021.05.21-04.41.38:309][884]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja7)
+[2021.05.21-04.41.38:696][916]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared9)
+[2021.05.21-04.41.39:066][947]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared10)
+[2021.05.21-04.41.39:580][988]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared8)
+[2021.05.21-04.41.39:993][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared7)
+[2021.05.21-04.41.40:404][ 54]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja6)
+[2021.05.21-04.41.46:043][395]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja8)
+[2021.05.21-04.41.46:480][433]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared11)
+[2021.05.21-04.41.46:970][476]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared12)
+[2021.05.21-04.41.47:422][514]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared10)
+[2021.05.21-04.41.47:842][548]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared9)
+[2021.05.21-04.41.48:273][584]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja7)
+[2021.05.21-04.41.48:641][612]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja6)
+[2021.05.21-04.41.49:016][643]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared7)
+[2021.05.21-04.41.49:349][670]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared8)
+[2021.05.21-04.41.59:908][340]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja17)
+[2021.05.21-04.42.00:612][402]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared29)
+[2021.05.21-04.42.01:001][434]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared30)
+[2021.05.21-04.42.01:412][470]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared28)
+[2021.05.21-04.42.01:841][504]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja16)
+[2021.05.21-04.42.02:245][537]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared27)
+[2021.05.21-04.42.02:707][575]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared25)
+[2021.05.21-04.42.03:067][603]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja15)
+[2021.05.21-04.42.03:533][642]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared26)
+[2021.05.21-04.42.12:356][257]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja17)
+[2021.05.21-04.42.13:907][408]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared29)
+[2021.05.21-04.42.14:562][466]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared30)
+[2021.05.21-04.42.17:914][778]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja16)
+[2021.05.21-04.42.18:394][817]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared27)
+[2021.05.21-04.42.18:740][844]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared28)
+[2021.05.21-04.42.24:604][308]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja15)
+[2021.05.21-04.42.25:078][341]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared25)
+[2021.05.21-04.42.25:495][375]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared26)
+[2021.05.21-04.42.39:226][359]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared35)
+[2021.05.21-04.42.40:175][449]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared36)
+[2021.05.21-04.42.42:099][609]Cmd: TRANSACTION UNDO
+[2021.05.21-04.42.42:099][609]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.42.52:756][416]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2056' invalid (31790 verts, 0 indices).
+[2021.05.21-04.42.52:756][416]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2056.BodySetup_0 when we are unable to.
+[2021.05.21-04.42.54:127][507]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2150' invalid (31790 verts, 0 indices).
+[2021.05.21-04.42.54:127][507]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2150.BodySetup_0 when we are unable to.
+[2021.05.21-04.42.59:349][815]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2244' invalid (31790 verts, 0 indices).
+[2021.05.21-04.42.59:349][815]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2244.BodySetup_0 when we are unable to.
+[2021.05.21-04.43.01:169][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2338' invalid (31790 verts, 0 indices).
+[2021.05.21-04.43.01:169][907]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2338.BodySetup_0 when we are unable to.
+[2021.05.21-04.43.01:836][932]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2432' invalid (31790 verts, 0 indices).
+[2021.05.21-04.43.01:836][932]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2432.BodySetup_0 when we are unable to.
+[2021.05.21-04.43.02:354][944]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2526' invalid (31790 verts, 0 indices).
+[2021.05.21-04.43.02:354][944]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2526.BodySetup_0 when we are unable to.
+[2021.05.21-04.43.04:216][ 59]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2620' invalid (31790 verts, 0 indices).
+[2021.05.21-04.43.04:216][ 59]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2620.BodySetup_0 when we are unable to.
+[2021.05.21-04.43.06:102][204]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja20)
+[2021.05.21-04.43.22:006][462]Cmd: DELETE
+[2021.05.21-04.43.22:006][462]Cmd: ACTOR DELETE
+[2021.05.21-04.43.22:095][462]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.21-04.43.22:252][462]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2021.05.21-04.43.22:263][462]LogEditorActor: Deleted 1 Actors (0.257 secs)
+[2021.05.21-04.43.25:463][698]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja19)
+[2021.05.21-04.43.26:742][823]Cmd: DELETE
+[2021.05.21-04.43.26:742][823]Cmd: ACTOR DELETE
+[2021.05.21-04.43.26:792][823]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.21-04.43.26:830][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.21-04.43.26:832][823]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2021.05.21-04.43.27:402][884]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja20)
+[2021.05.21-04.43.27:469][886]Cmd: DELETE
+[2021.05.21-04.43.27:469][886]Cmd: ACTOR DELETE
+[2021.05.21-04.43.27:519][886]LogEditorActor: Deleted Actor: pared_baja2_C
+[2021.05.21-04.43.27:558][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.05.21-04.43.27:558][886]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2021.05.21-04.43.28:727][ 14]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared33)
+[2021.05.21-04.43.29:684][110]Cmd: DELETE
+[2021.05.21-04.43.29:684][110]Cmd: ACTOR DELETE
+[2021.05.21-04.43.29:733][110]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-04.43.29:771][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.21-04.43.29:773][110]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.05.21-04.43.30:350][171]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared35)
+[2021.05.21-04.43.30:407][172]Cmd: DELETE
+[2021.05.21-04.43.30:408][172]Cmd: ACTOR DELETE
+[2021.05.21-04.43.30:454][172]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-04.43.30:495][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.21-04.43.30:496][172]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2021.05.21-04.43.32:046][348]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared37)
+[2021.05.21-04.43.32:183][357]Cmd: DELETE
+[2021.05.21-04.43.32:183][357]Cmd: ACTOR DELETE
+[2021.05.21-04.43.32:232][357]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-04.43.32:274][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.21-04.43.32:275][357]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2021.05.21-04.43.35:113][577]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja18)
+[2021.05.21-04.43.35:580][611]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja17)
+[2021.05.21-04.43.35:947][641]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja16)
+[2021.05.21-04.44.01:555][536]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja20)
+[2021.05.21-04.44.02:182][591]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja19)
+[2021.05.21-04.44.02:657][632]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja21)
+[2021.05.21-04.44.03:040][662]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared38)
+[2021.05.21-04.44.03:451][693]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared36)
+[2021.05.21-04.44.03:828][724]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared34)
+[2021.05.21-04.44.47:993][404]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2715' invalid (26918 verts, 0 indices).
+[2021.05.21-04.44.47:993][404]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2715.BodySetup_0 when we are unable to.
+[2021.05.21-04.44.55:635][838]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared42)
+[2021.05.21-04.45.09:137][892]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja27)
+[2021.05.21-04.45.09:678][929]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared42)
+[2021.05.21-04.45.30:677][ 10]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared43)
+[2021.05.21-04.45.32:833][230]Cmd: DELETE
+[2021.05.21-04.45.32:833][230]Cmd: ACTOR DELETE
+[2021.05.21-04.45.32:884][230]LogEditorActor: Deleted Actor: pared2_C
+[2021.05.21-04.45.32:974][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.05.21-04.45.32:985][230]LogEditorActor: Deleted 1 Actors (0.152 secs)
+[2021.05.21-04.45.44:767][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.05.21-04.45.44:834][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.05.21-04.45.45:793][230]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level8E885F74D45583F13BAD99F9ED1698057.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-04.45.45:862][230]LogFileHelpers: Saving map 'Level8' took 1.070
+[2021.05.21-04.45.45:893][230]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-04.45.45:893][230]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.47.00:047][478]Cmd: DELETE
+[2021.05.21-04.47.00:048][478]Cmd: ACTOR DELETE
+[2021.05.21-04.47.00:090][478]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.21-04.47.00:149][478]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2021.05.21-04.47.00:160][478]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2021.05.21-04.47.22:468][ 14]Cmd: DELETE
+[2021.05.21-04.47.22:468][ 14]Cmd: ACTOR DELETE
+[2021.05.21-04.47.22:520][ 14]LogEditorActor: Deleted Actor: pared3_C
+[2021.05.21-04.47.22:568][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.05.21-04.47.22:572][ 14]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2021.05.21-04.47.24:639][249]LogEditorViewport: Clicking on Actor (LMB): pared1_C (pared1)
+[2021.05.21-04.47.58:348][524]Cmd: DELETE
+[2021.05.21-04.47.58:348][524]Cmd: ACTOR DELETE
+[2021.05.21-04.47.58:402][524]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-04.47.58:447][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.05.21-04.47.58:644][524]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2811' invalid (26826 verts, 0 indices).
+[2021.05.21-04.47.58:645][524]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2811.BodySetup_0 when we are unable to.
+[2021.05.21-04.47.58:689][524]LogEditorActor: Deleted 1 Actors (0.341 secs)
+[2021.05.21-04.48.06:411][ 71]Cmd: DELETE
+[2021.05.21-04.48.06:411][ 71]Cmd: ACTOR DELETE
+[2021.05.21-04.48.06:470][ 71]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-04.48.06:514][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.05.21-04.48.06:700][ 71]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2906' invalid (26124 verts, 0 indices).
+[2021.05.21-04.48.06:700][ 71]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2906.BodySetup_0 when we are unable to.
+[2021.05.21-04.48.06:755][ 71]LogEditorActor: Deleted 1 Actors (0.344 secs)
+[2021.05.21-04.48.14:809][644]Cmd: DELETE
+[2021.05.21-04.48.14:809][644]Cmd: ACTOR DELETE
+[2021.05.21-04.48.14:872][644]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-04.48.14:913][644]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.21-04.48.15:102][644]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2998' invalid (30944 verts, 0 indices).
+[2021.05.21-04.48.15:102][644]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_2998.BodySetup_0 when we are unable to.
+[2021.05.21-04.48.15:164][644]LogEditorActor: Deleted 1 Actors (0.355 secs)
+[2021.05.21-04.48.21:336][118]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja27)
+[2021.05.21-04.48.22:317][209]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared42)
+[2021.05.21-04.48.25:047][433]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3091' invalid (30944 verts, 0 indices).
+[2021.05.21-04.48.25:047][433]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3091.BodySetup_0 when we are unable to.
+[2021.05.21-04.48.38:790][418]LogEditorViewport: Clicking on Actor (LMB): pared1_C (pared1)
+[2021.05.21-04.48.40:340][557]Cmd: DELETE
+[2021.05.21-04.48.40:340][557]Cmd: ACTOR DELETE
+[2021.05.21-04.48.40:397][557]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.21-04.48.40:448][557]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.05.21-04.48.40:454][557]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2021.05.21-04.48.45:044][ 65]LogEditorViewport: Clicking on Actor (LMB): pared1_C (pared33)
+[2021.05.21-04.48.52:026][622]Cmd: DELETE
+[2021.05.21-04.48.52:026][622]Cmd: ACTOR DELETE
+[2021.05.21-04.48.52:073][622]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.21-04.48.52:114][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.05.21-04.48.52:117][622]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2021.05.21-04.48.53:828][817]LogEditorViewport: Clicking on Actor (LMB): pared1_C (pared33)
+[2021.05.21-04.48.57:847][139]Cmd: DELETE
+[2021.05.21-04.48.57:847][139]Cmd: ACTOR DELETE
+[2021.05.21-04.48.57:897][139]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.21-04.48.57:939][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.05.21-04.48.57:941][139]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2021.05.21-04.48.58:894][243]LogEditorViewport: Clicking on Actor (LMB): pared1_C (pared33)
+[2021.05.21-04.49.00:320][384]Cmd: DELETE
+[2021.05.21-04.49.00:320][384]Cmd: ACTOR DELETE
+[2021.05.21-04.49.00:376][384]LogEditorActor: Deleted Actor: pared1_C
+[2021.05.21-04.49.00:421][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.05.21-04.49.00:422][384]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2021.05.21-04.50.14:219][880]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.05.21-04.50.15:312][880]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level8C0B1924C408BF36AEFA46CA90D5DD816.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-04.50.15:402][880]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-04.50.15:402][880]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.51.20:658][726]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja28)
+[2021.05.21-04.51.21:363][795]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared44)
+[2021.05.21-04.51.46:492][661]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja31)
+[2021.05.21-04.51.49:289][952]Cmd: TRANSACTION UNDO
+[2021.05.21-04.51.49:289][952]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.51.50:100][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared47)
+[2021.05.21-04.52.10:540][610]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja32)
+[2021.05.21-04.52.11:456][699]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared48)
+[2021.05.21-04.52.39:367][243]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja33)
+[2021.05.21-04.53.01:196][ 65]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared49)
+[2021.05.21-04.53.20:395][868]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared50)
+[2021.05.21-04.53.21:957][ 37]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared50)
+[2021.05.21-04.53.23:951][253]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared50)
+[2021.05.21-04.53.28:614][548]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.21-04.53.29:039][578]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja33)
+[2021.05.21-04.53.38:391][335]Cmd: TRANSACTION UNDO
+[2021.05.21-04.53.38:391][335]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.53.38:688][335]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3091' invalid (30944 verts, 0 indices).
+[2021.05.21-04.53.38:689][335]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3091.BodySetup_0 when we are unable to.
+[2021.05.21-04.53.39:846][438]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja33)
+[2021.05.21-04.53.40:342][486]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.21-04.53.40:866][538]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.21-04.53.51:764][343]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja37)
+[2021.05.21-04.53.52:197][381]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared55)
+[2021.05.21-04.53.52:572][414]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared56)
+[2021.05.21-04.53.52:980][450]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared54)
+[2021.05.21-04.53.53:377][489]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared53)
+[2021.05.21-04.53.53:755][526]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja36)
+[2021.05.21-04.53.54:148][560]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja35)
+[2021.05.21-04.53.54:562][599]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared51)
+[2021.05.21-04.53.54:905][631]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared52)
+[2021.05.21-04.53.55:341][670]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared49)
+[2021.05.21-04.53.55:692][692]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared50)
+[2021.05.21-04.53.56:096][729]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja33)
+[2021.05.21-04.54.12:374][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.05.21-04.54.13:288][891]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level80512E3A54999DD6CA71606926E8B7700.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-04.54.13:363][891]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-04.54.13:363][891]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.54.19:968][618]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared72)
+[2021.05.21-04.54.20:545][667]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared71)
+[2021.05.21-04.54.21:034][713]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja45)
+[2021.05.21-04.54.34:819][835]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja45)
+[2021.05.21-04.54.35:450][892]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared71)
+[2021.05.21-04.54.36:021][947]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared72)
+[2021.05.21-04.54.39:729][319]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja44)
+[2021.05.21-04.54.40:356][384]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared69)
+[2021.05.21-04.54.40:870][437]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared70)
+[2021.05.21-04.54.45:279][821]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja43)
+[2021.05.21-04.54.45:792][872]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared67)
+[2021.05.21-04.54.46:228][915]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared68)
+[2021.05.21-04.54.50:270][278]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja42)
+[2021.05.21-04.54.50:769][327]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared65)
+[2021.05.21-04.54.51:187][368]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared66)
+[2021.05.21-04.54.54:114][630]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja41)
+[2021.05.21-04.54.54:645][664]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared63)
+[2021.05.21-04.54.55:093][709]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared64)
+[2021.05.21-04.55.04:418][424]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja4)
+[2021.05.21-04.55.26:769][221]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared3)
+[2021.05.21-04.55.27:482][289]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared4)
+[2021.05.21-04.55.47:094][883]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja2)
+[2021.05.21-04.55.47:643][919]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared2)
+[2021.05.21-04.56.01:204][  0]Cmd: DELETE
+[2021.05.21-04.56.01:204][  0]Cmd: ACTOR DELETE
+[2021.05.21-04.56.01:261][  0]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-04.56.01:319][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.05.21-04.56.01:498][  0]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3181' invalid (30792 verts, 0 indices).
+[2021.05.21-04.56.01:498][  0]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3181.BodySetup_0 when we are unable to.
+[2021.05.21-04.56.01:552][  0]LogEditorActor: Deleted 1 Actors (0.348 secs)
+[2021.05.21-04.56.03:326][159]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-04.56.03:887][194]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-04.56.28:724][997]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3271' invalid (30792 verts, 0 indices).
+[2021.05.21-04.56.28:724][997]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3271.BodySetup_0 when we are unable to.
+[2021.05.21-04.56.32:173][272]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-04.56.32:476][288]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-04.56.36:776][590]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja53)
+[2021.05.21-04.56.37:125][623]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared78)
+[2021.05.21-04.56.37:663][675]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja52)
+[2021.05.21-04.56.38:026][711]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared77)
+[2021.05.21-04.57.24:553][415]Cmd: DELETE
+[2021.05.21-04.57.24:553][415]Cmd: ACTOR DELETE
+[2021.05.21-04.57.24:615][415]LogEditorActor: Deleted Actor: Brush
+[2021.05.21-04.57.24:703][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.05.21-04.57.24:875][415]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361' invalid (30716 verts, 0 indices).
+[2021.05.21-04.57.24:875][415]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361.BodySetup_0 when we are unable to.
+[2021.05.21-04.57.24:931][415]LogEditorActor: Deleted 1 Actors (0.378 secs)
+[2021.05.21-04.57.26:042][537]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja64)
+[2021.05.21-04.57.26:665][597]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared89)
+[2021.05.21-04.57.29:103][840]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3451' invalid (30716 verts, 0 indices).
+[2021.05.21-04.57.29:103][840]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3451.BodySetup_0 when we are unable to.
+[2021.05.21-04.57.30:307][924]Cmd: SELECT NONE
+[2021.05.21-04.57.31:556][ 70]Cmd: TRANSACTION UNDO
+[2021.05.21-04.57.31:556][ 70]LogEditorTransaction: Undo Select None
+[2021.05.21-04.57.31:939][ 86]Cmd: TRANSACTION UNDO
+[2021.05.21-04.57.31:939][ 86]LogEditorTransaction: Undo Rotate Actors
+[2021.05.21-04.57.32:195][ 86]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361' invalid (30716 verts, 0 indices).
+[2021.05.21-04.57.32:195][ 86]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361.BodySetup_0 when we are unable to.
+[2021.05.21-04.57.32:294][ 87]Cmd: TRANSACTION UNDO
+[2021.05.21-04.57.32:294][ 87]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.21-04.57.33:855][247]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared89)
+[2021.05.21-04.58.02:914][860]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja69)
+[2021.05.21-04.58.03:812][960]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja69)
+[2021.05.21-04.58.09:155][342]LogEditorViewport: Clicking on Actor (LMB): FinalLevel1_C (FinalLevel1)
+[2021.05.21-04.58.18:070][ 81]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2021.05.21-04.58.18:963][149]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.21-04.58.21:356][413]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja68)
+[2021.05.21-04.58.22:237][498]LogEditorViewport: Clicking on Actor (LMB): FinalLevel1_C (FinalLevel1)
+[2021.05.21-04.58.41:267][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.05.21-04.58.41:334][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.05.21-04.58.42:259][853]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level8D3747C544E85D75F5659C9A6A6902C10.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-04.58.42:307][853]LogFileHelpers: Saving map 'Level8' took 1.010
+[2021.05.21-04.58.42:338][853]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-04.58.42:338][853]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-04.58.51:741][566]LogEditorViewport: Clicking on Actor (LMB): pared_baja2_C (pared_baja29)
+[2021.05.21-04.58.52:946][645]LogEditorViewport: Clicking on Actor (LMB): pared2_C (pared43)
+[2021.05.21-04.58.53:731][715]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja29)
+[2021.05.21-04.59.14:885][180]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared98)
+[2021.05.21-04.59.15:249][197]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja73)
+[2021.05.21-04.59.16:449][273]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared97)
+[2021.05.21-04.59.16:794][290]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja72)
+[2021.05.21-04.59.17:297][320]LogEditorViewport: Clicking on Actor (CTRL LMB): pared2_C (pared43)
+[2021.05.21-04.59.17:690][357]LogEditorViewport: Clicking on Actor (CTRL LMB): pared_baja2_C (pared_baja29)
+[2021.05.21-04.59.56:514][974]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3541' invalid (30692 verts, 0 indices).
+[2021.05.21-04.59.56:514][974]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3541.BodySetup_0 when we are unable to.
+[2021.05.21-04.59.57:903][ 73]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3631' invalid (30692 verts, 0 indices).
+[2021.05.21-04.59.57:903][ 73]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3631.BodySetup_0 when we are unable to.
+[2021.05.21-04.59.58:413][ 96]Cmd: TRANSACTION UNDO
+[2021.05.21-04.59.58:413][ 96]LogEditorTransaction: Undo Move Actors
+[2021.05.21-04.59.58:612][ 96]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3541' invalid (30692 verts, 0 indices).
+[2021.05.21-04.59.58:612][ 96]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3541.BodySetup_0 when we are unable to.
+[2021.05.21-04.59.59:931][182]Cmd: TRANSACTION UNDO
+[2021.05.21-04.59.59:931][182]LogEditorTransaction: Undo Move Actors
+[2021.05.21-05.00.00:140][182]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361' invalid (30716 verts, 0 indices).
+[2021.05.21-05.00.00:140][182]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3361.BodySetup_0 when we are unable to.
+[2021.05.21-05.00.18:490][460]LogEditorViewport: Clicking on Actor (LMB): pared3_C (pared33)
+[2021.05.21-05.00.19:863][584]Cmd: DELETE
+[2021.05.21-05.00.19:863][584]Cmd: ACTOR DELETE
+[2021.05.21-05.00.19:919][584]LogEditorActor: Deleted Actor: pared3_C
+[2021.05.21-05.00.19:992][584]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.05.21-05.00.20:003][584]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2021.05.21-05.02.52:878][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.05.21-05.02.52:943][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.21-05.02.53:958][265]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level8BA6C47B44CFCE8E0BDF1D89CD1F5BA0F.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-05.02.54:010][265]LogFileHelpers: Saving map 'Level8' took 1.103
+[2021.05.21-05.02.54:039][265]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-05.02.54:039][265]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-05.02.59:348][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3721' invalid (30704 verts, 0 indices).
+[2021.05.21-05.02.59:348][608]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3721.BodySetup_0 when we are unable to.
+[2021.05.21-05.03.00:351][683]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3811' invalid (30704 verts, 0 indices).
+[2021.05.21-05.03.00:351][683]LogPhysics: Warning: Attempt to build physics data for /Game/SlimeLordBP/Niveles/Level8.Level8:PersistentLevel.ModelComponent_3811.BodySetup_0 when we are unable to.
+[2021.05.21-05.03.42:511][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.05.21-05.03.42:576][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.05.21-05.03.43:559][338]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level838D8C20E42ECDCB8D360868A8CFC31DE.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-05.03.43:614][338]LogFileHelpers: Saving map 'Level8' took 1.074
+[2021.05.21-05.03.43:636][338]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-05.03.43:636][338]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
+[2021.05.21-05.03.55:953][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.21-05.03.56:904][295]LogSavePackage: Moving '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Saved/Level87CEDF57345757DE298B5D6B63958D78D.tmp' to '../../../../../../Users/menos/Desktop/lot/escola/2on 2 semestre/proyecto 2/gitslimelord/Slime_Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level8.umap'
+[2021.05.21-05.03.56:972][295]AssetCheck: New page: Asset Save: Level8
+[2021.05.21-05.03.56:973][295]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level8.Level8
