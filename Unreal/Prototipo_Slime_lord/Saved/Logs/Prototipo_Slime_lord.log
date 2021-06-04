@@ -14572,3 +14572,565 @@ Make sure 'LanzadorTutoSalto_C' has been compiled for  Set SlimeInfo
 [2021.06.04-13.29.50:378][699]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level1.Level1
 [2021.06.04-13.29.50:378][699]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.06.04-13.29.50:378][699]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UiInGame.UiInGame
+[2021.06.04-13.30.53:864][922]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.30.53:886][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.53:886][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.30.53:886][922]PIE: New page: PIE session: Level1 (4 jun. 2021 17:30:53)
+[2021.06.04-13.30.53:886][922]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.30.53:930][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044101s)
+[2021.06.04-13.30.53:931][922]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.30.53:931][922]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.06.04-13.30.53:932][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.045258s)
+[2021.06.04-13.30.53:976][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.30.53:985][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.30.53:985][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.30.53:985][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.30.54:030][922]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.30.54:041][922]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.30.54:043][922]LogInit: FAudioDevice initialized.
+[2021.06.04-13.30.54:053][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.30.54:066][922]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.30.54
+[2021.06.04-13.30.54:067][922]LogWorld: Bringing up level for play took: 0.012703
+[2021.06.04-13.30.54:067][922]LogOnline: OSS: Creating online subsystem instance for: :Context_212
+[2021.06.04-13.30.54:071][922]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 -0,385
+[2021.06.04-13.30.54:071][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.55:037][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.30.55:037][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.30.55:037][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.55:038][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.30.55:038][ 33]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.30.55:038][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.30.55:038][ 33]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.30.55:041][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.30.55:049][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.30.55:049][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.55:055][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.30.55:092][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.30.55:094][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.30.55:102][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.04-13.30.55:141][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_212
+[2021.06.04-13.30.58:123][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.30.58:145][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.58:145][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.30.58:145][369]PIE: New page: PIE session: Level1 (4 jun. 2021 17:30:58)
+[2021.06.04-13.30.58:145][369]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.30.58:189][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043751s)
+[2021.06.04-13.30.58:190][369]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.30.58:190][369]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.06.04-13.30.58:190][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.045015s)
+[2021.06.04-13.30.58:234][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.30.58:240][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.30.58:240][369]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.30.58:240][369]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.30.58:283][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.30.58:284][369]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.30.58:295][369]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.30.58:296][369]LogInit: FAudioDevice initialized.
+[2021.06.04-13.30.58:302][369]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.30.58:315][369]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.30.58
+[2021.06.04-13.30.58:315][369]LogWorld: Bringing up level for play took: 0.012964
+[2021.06.04-13.30.58:316][369]LogOnline: OSS: Creating online subsystem instance for: :Context_213
+[2021.06.04-13.30.58:320][369]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 -0,136
+[2021.06.04-13.30.58:320][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.30.59:540][511]Cmd: LevelEditor.ToggleImmersive
+[2021.06.04-13.31.05:972][243]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.06.04-13.31.06:357][289]LogBlueprintUserMessages: [SlimeBlock_5] 1
+[2021.06.04-13.31.06:573][315]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.06.04-13.31.32:198][383]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.31.35:631][795]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.31.40:209][344]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.31.43:375][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.31.43:375][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.31.43:375][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.31.43:375][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.31.43:375][724]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.31.43:375][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.31.43:376][724]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.31.43:378][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.31.43:398][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.31.43:398][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.31.43:404][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.31.43:439][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.31.43:442][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.31.43:448][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.06.04-13.31.43:477][725]LogPlayLevel: Display: Destroying online subsystem :Context_213
+[2021.06.04-13.32.33:500][145]LogEditorTransaction: Undo Paste clipboard contents
+[2021.06.04-13.32.41:244][977]BlueprintLog: New page: Compile UiInGame
+[2021.06.04-13.32.41:319][977]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.06.04-13.32.41:985][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.32.42:007][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.32.42:007][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.32.42:007][ 43]PIE: New page: PIE session: Level1 (4 jun. 2021 17:32:42)
+[2021.06.04-13.32.42:007][ 43]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.32.42:053][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045150s)
+[2021.06.04-13.32.42:054][ 43]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.32.42:054][ 43]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2021.06.04-13.32.42:054][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.046426s)
+[2021.06.04-13.32.42:103][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.32.42:106][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.32.42:106][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.32.42:106][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.32.42:148][ 43]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.32.42:148][ 43]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.32.42:148][ 43]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.32.42:148][ 43]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.32.42:149][ 43]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.32.42:149][ 43]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.32.42:149][ 43]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.32.42:149][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.32.42:149][ 43]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.32.42:161][ 43]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.32.42:163][ 43]LogInit: FAudioDevice initialized.
+[2021.06.04-13.32.42:221][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.32.42:221][ 43]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.32.42:234][ 43]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.32.42
+[2021.06.04-13.32.42:235][ 43]LogWorld: Bringing up level for play took: 0.013294
+[2021.06.04-13.32.42:235][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_214
+[2021.06.04-13.32.42:242][ 43]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 -0,214
+[2021.06.04-13.32.42:243][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.32.47:310][635]LogBlueprintUserMessages: [SlimeBlock_5] 1
+[2021.06.04-13.32.47:344][639]LogBlueprintUserMessages: [SlimeDash_2] 1
+[2021.06.04-13.32.47:936][710]LogBlueprintUserMessages: [SlimeShot_2] 1
+[2021.06.04-13.32.51:391][123]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.33.26:690][341]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.33.37:694][659]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.33.37:694][659]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.33.37:694][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.33.37:695][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.33.37:695][659]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.33.37:706][659]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.04-13.33.37:711][659]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.33.37:712][659]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.33.37:714][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.33.37:724][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.33.37:724][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.33.37:731][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.33.37:773][659]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.33.37:783][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.06.04-13.33.37:804][660]LogPlayLevel: Display: Destroying online subsystem :Context_214
+[2021.06.04-13.34.24:345][842]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.34.24:367][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.34.24:367][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.34.24:367][842]PIE: New page: PIE session: Level1 (4 jun. 2021 17:34:24)
+[2021.06.04-13.34.24:367][842]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.34.24:412][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045075s)
+[2021.06.04-13.34.24:413][842]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.34.24:413][842]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2021.06.04-13.34.24:413][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.046427s)
+[2021.06.04-13.34.24:453][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.34.24:460][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.34.24:460][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.34.24:461][842]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.34.24:461][842]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.34.24:504][842]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.34.24:505][842]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.34.24:516][842]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.34.24:518][842]LogInit: FAudioDevice initialized.
+[2021.06.04-13.34.24:524][842]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.34.24:537][842]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.34.24
+[2021.06.04-13.34.24:538][842]LogWorld: Bringing up level for play took: 0.014332
+[2021.06.04-13.34.24:538][842]LogOnline: OSS: Creating online subsystem instance for: :Context_215
+[2021.06.04-13.34.24:543][842]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 0,087
+[2021.06.04-13.34.24:543][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.34.54:666][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.34.54:666][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.34.54:667][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.34.54:667][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.34.54:667][448]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.34.54:667][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.34.54:667][448]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.34.54:670][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.34.54:679][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.34.54:680][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.34.54:685][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.34.54:724][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.34.54:727][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.34.54:735][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.06.04-13.34.54:790][450]LogPlayLevel: Display: Destroying online subsystem :Context_215
+[2021.06.04-13.35.27:365][218]BlueprintLog: New page: Compile UiInGame
+[2021.06.04-13.35.27:482][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.06.04-13.35.28:994][363]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.35.29:016][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.35.29:016][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.35.29:016][363]PIE: New page: PIE session: Level1 (4 jun. 2021 17:35:29)
+[2021.06.04-13.35.29:016][363]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.35.29:063][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046542s)
+[2021.06.04-13.35.29:064][363]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.35.29:064][363]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.06.04-13.35.29:064][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.047648s)
+[2021.06.04-13.35.29:112][363]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.35.29:115][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.35.29:115][363]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.35.29:115][363]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.35.29:163][363]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.35.29:163][363]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.35.29:163][363]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.35.29:164][363]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.35.29:175][363]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.35.29:176][363]LogInit: FAudioDevice initialized.
+[2021.06.04-13.35.29:186][363]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.35.29:199][363]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.35.29
+[2021.06.04-13.35.29:200][363]LogWorld: Bringing up level for play took: 0.012654
+[2021.06.04-13.35.29:200][363]LogOnline: OSS: Creating online subsystem instance for: :Context_216
+[2021.06.04-13.35.29:204][363]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 0,748
+[2021.06.04-13.35.29:204][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.35.45:379][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.35.45:379][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.35.45:379][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.35.45:379][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.35.45:379][302]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.35.45:379][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.35.45:380][302]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.35.45:382][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.35.45:393][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.35.45:393][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.35.45:400][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.35.45:484][302]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.35.45:492][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.35.45:501][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.06.04-13.35.45:528][303]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2021.06.04-13.36.22:492][215]LogEditorTransaction: Undo Delete current selection
+[2021.06.04-13.36.27:167][653]LogEditorTransaction: Undo Break Pin Links
+[2021.06.04-13.36.28:059][701]LogEditorTransaction: Undo Create Pin Link
+[2021.06.04-13.36.32:265][115]LogEditorTransaction: Undo Move Node
+[2021.06.04-13.37.28:887][232]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.37.29:212][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.06.04-13.37.32:026][515]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.37.32:048][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.37.32:048][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.37.32:048][515]PIE: New page: PIE session: Level1 (4 jun. 2021 17:37:32)
+[2021.06.04-13.37.32:049][515]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.37.32:095][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046566s)
+[2021.06.04-13.37.32:096][515]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.37.32:096][515]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2021.06.04-13.37.32:096][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.047780s)
+[2021.06.04-13.37.32:144][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.37.32:147][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.37.32:147][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.37.32:148][515]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.37.32:148][515]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.37.32:193][515]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.37.32:206][515]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.37.32:208][515]LogInit: FAudioDevice initialized.
+[2021.06.04-13.37.32:253][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.37.32:254][515]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.37.32:267][515]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.37.32
+[2021.06.04-13.37.32:268][515]LogWorld: Bringing up level for play took: 0.013716
+[2021.06.04-13.37.32:268][515]LogOnline: OSS: Creating online subsystem instance for: :Context_217
+[2021.06.04-13.37.32:277][515]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 -0,178
+[2021.06.04-13.37.32:278][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.37.52:595][890]LogBlueprintUserMessages: [FinalLevel1_5] level completed! entering next level
+[2021.06.04-13.37.54:601][129]LogNet: Browse: /Game/SlimeLordBP/Niveles/Level2
+[2021.06.04-13.37.54:601][129]LogLoad: LoadMap: /Game/SlimeLordBP/Niveles/Level2
+[2021.06.04-13.37.54:601][129]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.37.54:602][129]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.37.54:604][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.37.54:604][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.37.54:652][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.06.04-13.38.02:198][129]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Models/ZonaMedia/Paredes_media/pared_baja2.pared_baja2_C or BlueprintGeneratedClass /Game/Models/ZonaBaja/Paredes/Pared_Baja2.Pared_Baja2_C
+[2021.06.04-13.38.02:198][129]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Models/ZonaMedia/Paredes_media/pared_baja2.pared_baja2_C or BlueprintGeneratedClass /Game/Models/ZonaBaja/Paredes/Pared_Baja2.Pared_Baja2_C
+[2021.06.04-13.38.02:198][129]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Models/ZonaMedia/Paredes_media/pared_baja3.pared_baja3_C or BlueprintGeneratedClass /Game/Models/ZonaBaja/Paredes/Pared_Baja3.Pared_Baja3_C
+[2021.06.04-13.38.02:198][129]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Models/ZonaMedia/Paredes_media/pared_baja3.pared_baja3_C or BlueprintGeneratedClass /Game/Models/ZonaBaja/Paredes/Pared_Baja3.Pared_Baja3_C
+[2021.06.04-13.38.04:902][129]LogAIModule: Creating AISystem for world Level2
+[2021.06.04-13.38.04:902][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.38.05:306][129]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.06.04-15.38.05
+[2021.06.04-13.38.05:307][129]LogWorld: Bringing up level for play took: 0.404401
+[2021.06.04-13.38.05:313][129]LogLoad: Took 10.711884 seconds to LoadMap(/Game/SlimeLordBP/Niveles/Level2)
+[2021.06.04-13.38.19:016][705]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.06.04-13.38.20:037][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.38.20:037][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.38.20:037][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.38.20:038][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.38.20:038][825]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level2
+[2021.06.04-13.38.20:050][825]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.04-13.38.20:055][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.38.20:056][825]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.38.20:080][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.38.20:089][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.38.20:089][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.38.20:096][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.38.20:136][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.38.20:150][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.06.04-13.38.20:177][826]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2021.06.04-13.39.18:534][413]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.39.18:874][413]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.06.04-13.40.00:025][ 86]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.40.00:367][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.06.04-13.41.17:680][656]LogEditorTransaction: Undo Resize Node
+[2021.06.04-13.41.34:916][145]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.41.35:266][145]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.06.04-13.41.41:442][606]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.41.41:468][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.41.41:468][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.41.41:468][606]PIE: New page: PIE session: Level1 (4 jun. 2021 17:41:41)
+[2021.06.04-13.41.41:468][606]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.41.41:515][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046233s)
+[2021.06.04-13.41.41:515][606]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.41.41:516][606]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2021.06.04-13.41.41:516][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.047314s)
+[2021.06.04-13.41.41:567][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.41.41:573][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.41.41:573][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.41.41:574][606]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.41.41:574][606]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.41.41:617][606]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.41.41:629][606]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.41.41:630][606]LogInit: FAudioDevice initialized.
+[2021.06.04-13.41.41:642][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.41.41:655][606]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.41.41
+[2021.06.04-13.41.41:656][606]LogWorld: Bringing up level for play took: 0.013304
+[2021.06.04-13.41.41:656][606]LogOnline: OSS: Creating online subsystem instance for: :Context_218
+[2021.06.04-13.41.41:660][606]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 1,205
+[2021.06.04-13.41.41:661][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.42.11:932][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.42.11:932][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.42.11:932][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.42.11:932][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.42.11:932][224]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.42.11:932][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.42.11:932][224]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.42.11:935][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.42.11:947][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.42.11:947][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.42.11:954][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.42.11:992][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.42.11:995][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.42.12:004][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.04-13.42.12:077][226]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2021.06.04-13.42.28:031][790]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.04-13.42.28:031][790]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.42.28:031][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.42.31:449][144]BlueprintLog: New page: Compile UiInGame
+[2021.06.04-13.42.31:570][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.06.04-13.44.02:636][418]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.44.02:977][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.06.04-13.44.03:940][491]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.04-13.44.03:962][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.44.03:962][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.04-13.44.03:963][491]PIE: New page: PIE session: Level1 (4 jun. 2021 17:44:03)
+[2021.06.04-13.44.03:963][491]LogPlayLevel: Creating play world package: /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.44.04:007][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044977s)
+[2021.06.04-13.44.04:008][491]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.44.04:008][491]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2021.06.04-13.44.04:008][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SlimeLordBP/Niveles/Level1.Level1 to /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 (0.046296s)
+[2021.06.04-13.44.04:060][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-13.44.04:062][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-13.44.04:062][491]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-13.44.04:062][491]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Is Default: Yes
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: Channel Order:
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-13.44.04:107][491]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-13.44.04:119][491]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (2- Razer ManO'War)
+[2021.06.04-13.44.04:121][491]LogInit: FAudioDevice initialized.
+[2021.06.04-13.44.04:175][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.44.04:175][491]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.04-13.44.04:189][491]LogWorld: Bringing World /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.06.04-15.44.04
+[2021.06.04-13.44.04:190][491]LogWorld: Bringing up level for play took: 0.014453
+[2021.06.04-13.44.04:190][491]LogOnline: OSS: Creating online subsystem instance for: :Context_219
+[2021.06.04-13.44.04:200][491]PIE: Play in editor start time for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1 -0,257
+[2021.06.04-13.44.04:200][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.44.05:793][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.44.05:793][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.44.05:793][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.44.05:793][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-13.44.05:793][633]LogWorld: BeginTearingDown for /Game/SlimeLordBP/Niveles/UEDPIE_0_Level1
+[2021.06.04-13.44.05:805][633]LogSlate: Window 'Prototipo_Slime_lord Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.06.04-13.44.05:811][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.44.05:811][633]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.44.05:814][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.44.05:822][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-13.44.05:822][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/SlimeLordBP/Niveles/Level1.Level1_C' with ClassGeneratedBy '/Game/SlimeLordBP/Niveles/Level1.Level1:PersistentLevel.Level1'
+[2021.06.04-13.44.05:827][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.44.05:865][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.04-13.44.05:876][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.04-13.44.05:903][634]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2021.06.04-13.44.20:844][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.06.04-13.44.23:345][386]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2021.06.04-13.44.23:349][386]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2021.06.04-13.44.23:361][386]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.44.23:361][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.44.37:530][843]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Controls.Controls
+[2021.06.04-13.44.49:434][228]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.44.49:434][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.44.49:440][228]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.44.49:440][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.44.52:461][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.06.04-13.45.06:167][555]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.04-13.45.09:260][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.06.04-13.45.09:707][851]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Level1_Auto3FB70BAB643B1BCE3F9588EB55FCEA008.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/Niveles/Level1_Auto3.umap'
+[2021.06.04-13.45.09:711][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SlimeLordBP/Niveles/Level1' took 0.494
+[2021.06.04-13.45.09:711][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.494
+[2021.06.04-13.45.09:712][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.06.04-13.45.09:723][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.06.04-13.45.09:723][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter]
+[2021.06.04-13.45.09:804][851]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacter_Auto3EFA9A82045F7798935E5DB9585120BA3.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter_Auto3.uasset'
+[2021.06.04-13.45.09:876][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UiInGame] ([1] browsable assets)...
+[2021.06.04-13.45.09:876][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UiInGame]
+[2021.06.04-13.45.09:876][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UiInGame" FILE="D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/UI/UiInGame_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.06.04-13.45.09:940][851]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/UiInGame_Auto31E39BF49494BFA309684488F5515DB3F.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Autosaves/Game/UI/UiInGame_Auto3.uasset'
+[2021.06.04-13.45.09:940][851]LogFileHelpers: Auto-saving content packages took 0.229
+[2021.06.04-13.45.47:643][407]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.06.04-13.45.47:974][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.06.04-13.46.02:158][ 14]LogBlueprint: Warning: [Compiler PersistentLevel.MainMenu] Could not find a variable named "ControlsStyle" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get ControlsStyle
+[2021.06.04-13.46.02:158][ 14]LogBlueprint: Error: [Compiler PersistentLevel.MainMenu] The property associated with  Controls Style  could not be found in '/Game/SlimeLordBP/Niveles/MainMenu.MainMenu_C'
+[2021.06.04-13.46.02:226][ 14]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.04-13.46.02:228][ 14]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SlimeLordBP/Niveles/MainMenu.MainMenu
+[2021.06.04-13.46.02:275][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.06.04-13.46.04:001][ 14]LogSlate: Window 'Save Content' being destroyed
+[2021.06.04-13.46.04:113][ 14]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/ThirdPersonCharacter73F43C0C476FB75B9694AD93FBB7CB7A.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter.uasset'
+[2021.06.04-13.46.04:153][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.06.04-13.46.04:614][ 14]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/Level111C6418D448BDA749E0A30A4637A67E2.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level1.umap'
+[2021.06.04-13.46.04:640][ 14]LogFileHelpers: Saving map 'Level1' took 0.526
+[2021.06.04-13.46.04:641][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UiInGame" FILE="D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/UI/UiInGame.uasset" SILENT=true
+[2021.06.04-13.46.04:701][ 14]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/UiInGame99838E3E4D65088B1CDDA0A46DCA6230.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/UI/UiInGame.uasset'
+[2021.06.04-13.46.04:709][ 14]Cmd: MAP LOAD FILE="D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-13.46.04:709][ 14]LightingResults: New page: Lighting Build
+[2021.06.04-13.46.04:710][ 14]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.06.04-13.46.04:726][ 14]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.46.04:726][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.46.04:726][ 14]MapCheck: New page: Map Check
+[2021.06.04-13.46.04:726][ 14]LightingResults: New page: Lighting Build
+[2021.06.04-13.46.04:791][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.06.04-13.46.05:194][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-13.46.05:238][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.04-13.46.05:261][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-13.46.05:261][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,169ms to complete.
+[2021.06.04-13.46.05:261][ 14]LogFileHelpers: Loading map 'MainMenu' took 0.559
+[2021.06.04-13.46.05:336][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-13.46.05:336][ 14]LogContentValidation: Display: Validating Blueprint /Game/SlimeLordBP/BlueprintsAndModels/0-ComunZonas/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.06.04-13.46.05:336][ 14]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/Level1.Level1
+[2021.06.04-13.46.06:827][ 14]LogAIModule: Creating AISystem for world Level1
+[2021.06.04-13.46.06:863][ 14]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UiInGame.UiInGame
+[2021.06.04-13.46.22:264][735]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SlimeLordBP/Niveles/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.06.04-13.46.35:153][227]BlueprintLog: New page: Compile MainMenu
+[2021.06.04-13.46.35:437][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.04-13.46.36:406][330]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.46.36:406][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.46.48:702][669]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SlimeLordBP/Niveles/Level1.Level1
+[2021.06.04-13.46.48:745][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.06.04-13.46.49:946][669]LogSlate: Window 'Save Content' being destroyed
+[2021.06.04-13.46.49:998][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.06.04-13.46.50:252][669]LogSavePackage: Moving 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Saved/MainMenu4D90209A42B7D0EF163EA8A71B00406D.tmp' to 'D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/MainMenu.umap'
+[2021.06.04-13.46.50:286][669]LogFileHelpers: Saving map 'MainMenu' took 0.326
+[2021.06.04-13.46.50:287][669]Cmd: MAP LOAD FILE="D:/Unreal Engine/Slime Lord/Unreal/Prototipo_Slime_lord/Content/SlimeLordBP/Niveles/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.04-13.46.50:287][669]LightingResults: New page: Lighting Build
+[2021.06.04-13.46.50:287][669]LoadErrors: New page: Loading map: Level1.umap
+[2021.06.04-13.46.50:287][669]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-13.46.50:288][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-13.46.50:288][669]MapCheck: New page: Map Check
+[2021.06.04-13.46.50:288][669]LightingResults: New page: Lighting Build
+[2021.06.04-13.46.50:333][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.06.04-13.46.50:514][669]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.04-13.46.50:557][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.04-13.46.50:581][669]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.04-13.46.50:582][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,169ms to complete.
+[2021.06.04-13.46.50:582][669]LogFileHelpers: Loading map 'Level1' took 0.296
+[2021.06.04-13.46.50:618][669]AssetCheck: New page: Asset Save: MainMenu
+[2021.06.04-13.46.50:619][669]LogContentValidation: Display: Validating World /Game/SlimeLordBP/Niveles/MainMenu.MainMenu
+[2021.06.04-13.46.50:626][669]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.04-13.47.00:098][710]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.06.04-13.47.19:143][710]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.04-13.47.21:382][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
