@@ -124,6 +124,9 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="volume">
+			<value>6</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{96a58d65-8c09-459b-b258-4cad7cee6e59}</destination>
 			<destination>{3d94a2d3-f67a-4b05-83a0-194edf6b2b4f}</destination>
@@ -164,6 +167,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e62fcee6-bf8d-47a4-bc90-fc9b3354f1b0}">
+		<property name="volume">
+			<value>-10.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
