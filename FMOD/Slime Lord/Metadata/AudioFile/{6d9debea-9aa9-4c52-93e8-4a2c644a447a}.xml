@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{6d9debea-9aa9-4c52-93e8-4a2c644a447a}">
+		<property name="assetPath">
+			<value>Items/Piston_tiempo.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>37.919874999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c90c3ded-0edd-4272-9b33-469652096440}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{a4fb2d2d-2c9e-4682-9443-ebb47f34dfe6}">
+		<property name="assetPath">
+			<value>Ambience/torch_sound.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>131.37</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c90c3ded-0edd-4272-9b33-469652096440}</destination>
+		</relationship>
+	</object>
+</objects>

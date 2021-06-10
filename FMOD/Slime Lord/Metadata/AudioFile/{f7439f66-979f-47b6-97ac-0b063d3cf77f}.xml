@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f7439f66-979f-47b6-97ac-0b063d3cf77f}">
+		<property name="assetPath">
+			<value>Traps/Spikes.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.78136054421768708</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c90c3ded-0edd-4272-9b33-469652096440}</destination>
+		</relationship>
+	</object>
+</objects>

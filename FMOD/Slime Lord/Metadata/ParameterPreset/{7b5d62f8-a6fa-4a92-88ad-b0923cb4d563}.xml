@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{7b5d62f8-a6fa-4a92-88ad-b0923cb4d563}">
+		<property name="name">
+			<value>Surface</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a3e06375-1992-4a08-9304-ba342001e14c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{07f0cb5b-d2ed-40e7-9d75-ffa368c7610f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{07f0cb5b-d2ed-40e7-9d75-ffa368c7610f}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Zona Baja</value>
+			<value>Zona Media</value>
+			<value>Zona Alta</value>
+			<value>Agua</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
